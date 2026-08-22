@@ -157,7 +157,8 @@ def ai_localize(client, article: dict[str, Any]) -> dict[str, Any]:
         "rules":[
             "Do not invent facts beyond the supplied title/summary.",
             "Japanese and Korean summaries: 2 concise sentences each, about 90-180 characters.",
-            "Titles should read like neutral professional news headlines.",
+            "Japanese titles must not contain Japanese commas or periods (、。) and should end as a concise headline phrase.",
+            "Korean titles must avoid sentence-final declarative endings such as 한다/입니다 and should end as a noun or concise phrase without commas or periods.",
             "Return 2-4 short tags in English or widely recognized company names.",
             "Output JSON only."
         ],
@@ -177,6 +178,9 @@ def ai_localize(client, article: dict[str, Any]) -> dict[str, Any]:
     text = resp.output_text.strip()
     text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.S)
     data = json.loads(text)
+    data["ja_title"] = re.sub(r"[、。．，]+", "", data.get("ja_title", "")).strip()
+    data["ko_title"] = re.sub(r"[,.，．…]+", " ", data.get("ko_title", "")).strip()
+    data["ko_title"] = re.sub(r"\s+", " ", data["ko_title"])
     return {**article, **data, "translation_status":"complete"}
 
 
