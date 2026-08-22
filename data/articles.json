@@ -1,62 +1,218 @@
 [
   {
-    "id": "skhynix-japan-20260821",
+    "id": "15ca2260dfc98c3d",
     "date": "2026-08-21",
-    "source": "Reuters",
+    "source": "TradingView",
     "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-considers-building-memory-chip-plant-japan-hankyoreh-2026-08-21/",
-    "original_title": "South Korea's SK Hynix considers building memory chip plant in Japan, Hankyoreh reports",
-    "ja_title": "SKハイニックス、日本でメモリ工場建設を検討",
-    "ko_title": "SK하이닉스, 일본 메모리 반도체 공장 건설 검토",
-    "ja_summary": "SKハイニックスが日本で大規模なメモリ半導体工場を建設する案を検討していると報じられた。実現すれば、日韓の半導体生産ネットワーク拡大につながる可能性がある。",
-    "ko_summary": "SK하이닉스가 일본에서 대규모 메모리 반도체 공장을 건설하는 방안을 검토 중인 것으로 보도됐다. 현실화될 경우 한·일 반도체 생산 네트워크 확대와 연결될 가능성이 있다.",
-    "tags": ["SK hynix", "Japan", "Memory"],
-    "translation_status": "complete"
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnEta2QwWkdLa2hRQ1d6WEduZHVsTXpSXzNLSmIzS1ByMmJBTlc3T21sRWFrNURTNjFITkxtR1NIQXYtd2U1TlRjenRESlV1QThHNnIyVVlYeEpTUWY5V0dGM0RlYVYyY3FOM1JtcFZQSlF3a3NxQUhrZi1COGUycUR6OFhoRzVIV0JpODExSmVaSHphd0NrQUZOaW4zeHlmX2xyQVA2cXcyQWdYYmVjMXpSVnRhSXNfbzg2Ng?oc=5",
+    "original_title": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts - TradingView",
+    "original_summary": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts TradingView",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts - TradingView",
+    "ko_title": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts - TradingView",
+    "ja_summary": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts TradingView",
+    "ko_summary": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts TradingView",
+    "translation_status": "pending_api_key"
   },
   {
-    "id": "taiwan-budget-20260820",
+    "id": "f4a8d207e21ab90c",
     "date": "2026-08-20",
-    "source": "Reuters",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SdlJHdVhXbE55ckQ4VGFJMnRNZjdfMko1cEdsa3c3eUdRN0lSS1dNeHc3X2FKRVJablk5akVPbUY3TU0tVnRWOEpjLXg2Y3V6Sy1tVzdjSHZPNGx2Zlo2VVNZd0t6a01KM0FFTzBaQzZ5U3REeDJEMmlB0gGOAUFVX3lxTE1jSzY0VDNYQjVwVTlja2NXZGR0VUZtcXN2c1hyaWdPSF9NNWF2R1R3WVBFR3E5MU44SDRGYzI5c29VaC1IUmZsZ2NoWlB2M2lCOGNROTQ2NThfSWVtSmV3WTBuZEVfdXlzMFpEcC1Rb1U0eEdOZTdNdW5jT012WTNVeC1Mcl82UXN6X2xqM3c?oc=5",
+    "original_title": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "Advanced packaging shifts AI chip race as 130m accelerators ship, bottlenecks move - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "efe12f4349d2d316",
+    "date": "2026-08-20",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHTVN2d2NtQnhISnBoZGVaNlFPLUFLZnlvS3h0MWx2RWNJS3k2TmhNSmFYazdNTkVLYlRfcXc4d3V2ZjhoallLUDZyY2QtMXc4US1lWW9IblhhblROR1JJWXJERGllallISUZVOEtYcVl1RndDU3E1XzJR0gGOAUFVX3lxTE5VVEFuV1pkaDJuT0p4Z25SYTV4aDlpcXFJMzVOQkZneEV3ZG02UkJRdTRVYU5pVEc2N2Y2Q1p1cUpnaXMtTXp3eW1zd09KWVpvS1ZrcnRPekRQWE44cXlFcUdaWW1wOWVHYURjWVJWMTg4MzV1QVE0YzViZ3NlSXJ3LUROOEZDMVEzLVVRMWc?oc=5",
+    "original_title": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "TSMC readies 1.6nm A16 chips for Q4 mass production, targets AI and HPC - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "d04c185f9854c2fd",
+    "date": "2026-08-20",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNks5RTFzQTNHcHhqNktoTXdtX29fNHU3VF9IaV9EMkc5NzdRbmR6NlZ5VllfY2ZzNlpCb2hnbVh5ZVZQYkg5NnJyckhlTmgxTU1lZEs3R0RmVnV6VjZpRWVzVmdjTW42elRMa2QzV3FENGRDOGc?oc=5",
+    "original_title": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years - finance.biggo.com",
+    "original_summary": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years - finance.biggo.com",
+    "ko_title": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years - finance.biggo.com",
+    "ja_summary": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years finance.biggo.com",
+    "ko_summary": "AI Semiconductor Battleground Shifts from Advanced Nodes to Packaging… 130 Million GPUs and ASICs Over Five Years finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "f16c4e1775c8053b",
+    "date": "2026-08-19",
+    "source": "finance.biggo.com",
     "source_lang": "EN",
     "category": "Security",
-    "url": "https://www.reuters.com/world/asia-pacific/taiwan-proposes-boosting-2027-defence-spending-18-record-high-2026-08-20/",
-    "original_title": "Taiwan proposes boosting 2027 defence spending 18% to a record high",
-    "ja_title": "台湾、2027年国防費を18％増額し過去最高へ",
-    "ko_title": "대만, 2027년 국방예산 18% 증액…사상 최대",
-    "ja_summary": "台湾政府は2027年の国防費を前年比18％増とする案を示した。台湾海峡を巡る抑止力強化と、危機時の産業・物流継続性への影響が注目される。",
-    "ko_summary": "대만 정부는 2027년 국방예산을 전년 대비 18% 늘리는 방안을 제시했다. 대만해협 억지력 강화와 위기 시 산업·물류 연속성에 미칠 영향이 주목된다.",
-    "tags": ["Taiwan", "Defense", "China"],
-    "translation_status": "complete"
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Lc2RhaWljZTM5N09QQnpwbE5YdW5Yc3M1bGNpTFVJU0xFeDc2MDlicThXczFQUXc1bEtqbkhBYzJGX3VYd2dWdVNsUEptUkIzQnAxbENBbU1sLTZTVGNCMzRicnBPcXZrZkI4cXVBMGlEa1dBSXc?oc=5",
+    "original_title": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support - finance.biggo.com",
+    "original_summary": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support finance.biggo.com",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support - finance.biggo.com",
+    "ko_title": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support - finance.biggo.com",
+    "ja_summary": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support finance.biggo.com",
+    "ko_summary": "TSMC Taps Intel's Malaysia Plant for CoWoS Backend Capacity Support finance.biggo.com",
+    "translation_status": "pending_api_key"
   },
   {
-    "id": "tsmc-a16-20260820",
-    "date": "2026-08-20",
-    "source": "Yonhap News",
-    "source_lang": "KO",
-    "category": "Semiconductor",
-    "url": "https://www.yna.co.kr/view/AKR20260820095900009",
-    "original_title": "대만 TSMC, 1.6나노칩 개발 성공…올해 4분기 양산",
-    "ja_title": "TSMC、1.6nm「A16」開発に成功　2026年Q4量産へ",
-    "ko_title": "TSMC, 1.6나노 A16 개발 성공…2026년 4분기 양산",
-    "ja_summary": "TSMCの1.6nm級A16プロセス量産計画が報じられた。先端ロジックだけでなく、パッケージング能力を含む供給網全体の分散が重要な論点となる。",
-    "ko_summary": "TSMC의 1.6나노급 A16 공정 양산 계획이 보도됐다. 첨단 로직뿐 아니라 패키징 역량을 포함한 공급망 전체의 분산이 중요한 과제로 떠오른다.",
-    "tags": ["TSMC", "A16", "Packaging"],
-    "translation_status": "complete"
-  },
-  {
-    "id": "samsung-prices-20260819",
-    "date": "2026-08-19",
-    "source": "Reuters",
+    "id": "954a398c32d76e9b",
+    "date": "2026-08-18",
+    "source": "조선일보",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://www.reuters.com/business/autos-transportation/samsung-hikes-chipmaking-prices-by-up-15-demand-spike-sources-say-2026-08-19/",
-    "original_title": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
-    "ja_title": "サムスン、先端ファウンドリ価格を最大15％引き上げ",
-    "ko_title": "삼성전자, 첨단 파운드리 가격 최대 15% 인상",
-    "ja_summary": "AI半導体需要の増加を背景に、サムスン電子が一部の先端ファウンドリ価格を引き上げたと報じられた。供給能力制約が競合ファウンドリへの需要移転を促す構図がみえる。",
-    "ko_summary": "AI 반도체 수요 증가를 배경으로 삼성전자가 일부 첨단 파운드리 가격을 인상한 것으로 보도됐다. 공급능력 제약이 경쟁 파운드리로 수요를 이동시키는 흐름이 나타난다.",
-    "tags": ["Samsung", "Foundry", "AI"],
-    "translation_status": "complete"
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSHNlSG1NTllZc1VTOEZVeENUaTZ3X2FUMGI5RjBBS2h1TjZzNHVpZDVmcnhrcUR3NUpoQXVpbWs3MVppZEdtZFBVVDh6U2lydlZ5SkxCcTRaeW42blhaUzc2a0UwZ2Z0d3NJREdlZWpHR3NvTDNoS3UtY2t5Vm8wNmFmaVNNLWhM?oc=5",
+    "original_title": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability - 조선일보",
+    "original_summary": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability 조선일보",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability - 조선일보",
+    "ko_title": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability - 조선일보",
+    "ja_summary": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability 조선일보",
+    "ko_summary": "Semiconductor Sector's Chinese Raw Material Dependency Deepens Vulnerability 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "7e532cc5c5486519",
+    "date": "2026-08-18",
+    "source": "TrendForce",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1idjBhNzNWcV96d3pHaWFJVldkRzJUVEo5bDdjZk84Vk9pT2tQV09JXzVWLVZMengzeVR4UEFSSFRQX0hiMTVxdmgzblpuYTBrbWxGVUxIT00zTG9Ia1NLaWJBN1YzYWxzbU9wX2hsd1pXT08z?oc=5",
+    "original_title": "Advanced Packaging: Market Trends and Outlook - TrendForce",
+    "original_summary": "Advanced Packaging: Market Trends and Outlook TrendForce",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Advanced Packaging: Market Trends and Outlook - TrendForce",
+    "ko_title": "Advanced Packaging: Market Trends and Outlook - TrendForce",
+    "ja_summary": "Advanced Packaging: Market Trends and Outlook TrendForce",
+    "ko_summary": "Advanced Packaging: Market Trends and Outlook TrendForce",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "66899656f1ecb0bb",
+    "date": "2026-08-18",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGF0TGdXZFk3WlVEd2ZueVpCU3ZNWXJydlBhSkV2bG53ZFhsTzR6S01qU0d1S2tvS2xMZUxzR2Q4THJjbjBZaHlCZHFDZ1NjZXkxallFNGd1X3VPcGxFb2N0V1hZZi1ycTNRYVduaG9qUVhWMDBYbzFmY1pCc2R3SW5HbWxNWFox?oc=5",
+    "original_title": "Japan's Chinese Critical Mineral Imports Fall 80% - 조선일보",
+    "original_summary": "Japan's Chinese Critical Mineral Imports Fall 80% 조선일보",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "Japan's Chinese Critical Mineral Imports Fall 80% - 조선일보",
+    "ko_title": "Japan's Chinese Critical Mineral Imports Fall 80% - 조선일보",
+    "ja_summary": "Japan's Chinese Critical Mineral Imports Fall 80% 조선일보",
+    "ko_summary": "Japan's Chinese Critical Mineral Imports Fall 80% 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "87a966decf71570f",
+    "date": "2026-08-17",
+    "source": "TechInsights",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
+    "original_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "original_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "ko_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "ja_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "ko_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "2cf7294bf57bd240",
+    "date": "2026-08-16",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNaGJIbjBmQmNqSzZhQmRJRUdhd3RxWmhHbWprbXdHOU9Fa0JTZmJNZEQ1dEJTbGZFX0htV1hmTW83dVlsbUJWbklrRmlDR3Y5V2psV1RmUWxJOXVKa2VWSzFVUjBKT2R2V3NPbkpla0VOcHByWXc?oc=5",
+    "original_title": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron - finance.biggo.com",
+    "original_summary": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron finance.biggo.com",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron - finance.biggo.com",
+    "ko_title": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron - finance.biggo.com",
+    "ja_summary": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron finance.biggo.com",
+    "ko_summary": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "c908778df1990833",
+    "date": "2026-08-14",
+    "source": "아시아경제",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSGFhaWxqS054akZfeWhtUjlLWlNiS2R3blRwRlRTLWZkc1FUdl9QbTZuRzR0a2hoWXUzSHVuQmFaQTU5Yi1FalpOZHJMRV91YWcwMGd1VElONHpRb2tGOTFXWWI?oc=5",
+    "original_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
+    "original_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
+    "ko_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
+    "ja_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
+    "ko_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "ad1d18c23a46a6c8",
+    "date": "2026-08-13",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+    "original_title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production - finance.biggo.com",
+    "original_summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production - finance.biggo.com",
+    "ko_title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production - finance.biggo.com",
+    "ja_summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production finance.biggo.com",
+    "ko_summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production finance.biggo.com",
+    "translation_status": "pending_api_key"
   }
 ]
