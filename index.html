@@ -7,365 +7,72 @@
 <meta name="description" content="STRAIT / RESILIENCE — Taiwan Strait and semiconductor supply-chain monitoring platform.">
 <title>STRAIT / RESILIENCE</title>
 <style>
-
-:root{
-  --bg:#f4f7f5; --surface:#ffffff; --surface-soft:#edf5f3; --surface-warm:#f5f1e9;
-  --text:#14272f; --muted:#61757d; --muted2:#82949a;
-  --accent:#5c9eaa; --accent-strong:#327786; --accent-pale:#dcedeb;
-  --line:#d9e3e1; --line-strong:#c8d7d4; --shadow:0 18px 55px rgba(30,55,60,.08);
-}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth;background:var(--bg)}
-body{margin:0;background:
- radial-gradient(circle at 88% 0%,rgba(121,184,190,.16),transparent 25%),
- linear-gradient(180deg,#f8faf8 0,#f3f7f5 38%,#f7f8f5 100%);
- color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP","Noto Sans KR",sans-serif;
- -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
-a{color:inherit} button,input{font:inherit}.word-unit{white-space:nowrap}
-.container{width:min(1180px,calc(100% - 40px));margin:auto}
-header{position:sticky;top:0;z-index:100;background:rgba(250,252,250,.88);backdrop-filter:blur(18px);border-bottom:1px solid rgba(102,139,145,.16)}
-.header-row{height:74px;display:flex;align-items:center;justify-content:space-between;gap:18px}
-.brand{display:flex;align-items:center;gap:11px;text-decoration:none}
-.brand-mark{width:18px;height:18px;border:1.5px solid var(--accent-strong);transform:rotate(45deg);position:relative}
-.brand-mark:after{content:"";position:absolute;inset:4px;border:1px solid rgba(50,119,134,.5)}
-.brand b{display:block;font-size:13px;letter-spacing:.09em;color:#17303a}.brand small{display:block;color:#788c92;font:10px/1.25 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.075em;margin-top:3px}
-nav{display:flex;gap:18px;align-items:center}nav button{border:0;background:none;color:#667c84;font-size:12px;cursor:pointer;padding:8px 2px;border-bottom:1px solid transparent}nav button:hover,nav button.active{color:#19333d;border-color:var(--accent-strong)}
-.tools{display:flex;gap:9px;align-items:center}.lang-switch{display:flex;border:1px solid var(--line-strong);background:#f4f8f6;border-radius:999px;padding:3px}.lang-switch button{border:0;background:transparent;color:#788c93;border-radius:999px;font-size:10px;padding:6px 9px;cursor:pointer}.lang-switch button.on{background:#1f3d47;color:#fff}.menu{display:none;border:0;background:none;color:#25434d;font-size:22px}.mobile-nav{display:none;padding:0 20px 14px;gap:10px;overflow:auto;background:rgba(250,252,250,.96)}.mobile-nav.open{display:flex}
-.hero{padding:92px 0 76px;border-bottom:1px solid var(--line);background:linear-gradient(135deg,#fbfcfa 0%,#eef6f3 58%,#f7f4ed 100%)}
-.eyebrow{color:var(--accent-strong);font:700 11px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.15em;text-transform:uppercase}
-.hero h1{font-size:clamp(54px,6.6vw,88px);line-height:1.03;letter-spacing:-.055em;margin:18px 0 26px;max-width:1050px;color:#17313b;text-wrap:balance;word-break:normal;line-break:strict}
-.hero-line{display:block;white-space:nowrap}.hero-line:first-child{font-weight:820}.hero-accent{color:#4f8f9b;font-family:inherit;font-style:normal;font-weight:580;letter-spacing:-.045em}
-.hero-lead{font-size:17px;line-height:1.95;color:#526970;max-width:875px;text-wrap:pretty;line-break:strict}
-.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}.primary,.secondary{display:inline-flex;text-decoration:none;border-radius:999px;padding:12px 17px;font-weight:800;font-size:12px;cursor:pointer}.primary{background:#193740;color:white;border:1px solid #193740}.secondary{border:1px solid #b9cfcb;color:#2f5d67;background:rgba(255,255,255,.75)}
-.signal-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:58px;border:1px solid var(--line-strong);border-radius:12px;overflow:hidden;background:var(--surface)}.signal-metric{background:rgba(255,255,255,.94);padding:21px;border-right:1px solid var(--line)}.signal-metric:last-child{border-right:0}.signal-metric b{display:block;font-size:23px;color:#19333d}.signal-metric span{display:block;color:#83949a;font:9px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;margin-top:5px;letter-spacing:.08em}
-section{padding:82px 0;border-bottom:1px solid var(--line)}
-#signals{background:#fbfcfa}
-#network{background:#edf5f2}
-#inputs{background:#f7f3eb}
-#roadmap{background:#fbfcf9}
-#weekly{background:#edf5f2}
-#methodology{background:#f8f5ee}
-.section-head{display:flex;justify-content:space-between;gap:24px;align-items:end;margin-bottom:32px}.section-head h2{font-size:38px;letter-spacing:-.045em;line-height:1.2;margin:5px 0 0;color:#17303a;text-wrap:balance}.section-head p{max-width:560px;color:#71868d;line-height:1.75;font-size:13px;margin:0;text-align:right;text-wrap:pretty}
-.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}.card{background:rgba(255,255,255,.92);border:1px solid var(--line);padding:26px;border-radius:14px;box-shadow:var(--shadow)}.card h3{margin:0 0 12px;font-size:20px;color:#17313a}.card p{color:#60757d;line-height:1.8;font-size:13px}.core-statement{font-size:clamp(27px,3.35vw,46px);font-weight:850;line-height:1.3;letter-spacing:-.04em;color:#18323b;text-wrap:balance}.core-statement mark{background:linear-gradient(transparent 60%,rgba(104,173,181,.25) 60%);color:inherit;padding:0 2px}.flow{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:20px}.flow-step{border:1px solid var(--line);border-radius:10px;padding:16px;background:#f8faf8}.flow-step b{display:block;color:#23434d}.flow-step span{display:block;color:#71868d;font-size:11px;line-height:1.6;margin-top:6px}
-.toolbar{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:22px}.filters{display:flex;gap:7px;flex-wrap:wrap}.filter{border:1px solid var(--line-strong);background:#fff;color:#687c83;border-radius:999px;padding:8px 11px;font-size:10px;cursor:pointer}.filter.on{background:#295b66;color:white;border-color:#295b66}.search{min-width:260px;border:1px solid var(--line-strong);background:white;color:#1b343e;border-radius:999px;padding:10px 14px;outline:none}.search:focus{border-color:#79aeb7;box-shadow:0 0 0 3px rgba(92,158,170,.12)}
-.signal-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.signal-card{border:1px solid var(--line);border-radius:13px;background:rgba(255,255,255,.94);padding:21px;min-height:295px;display:flex;flex-direction:column;box-shadow:0 10px 30px rgba(33,59,64,.045);transition:.2s transform,.2s box-shadow,.2s border-color}.signal-card:hover{transform:translateY(-2px);border-color:#b4d0cc;box-shadow:0 16px 35px rgba(33,59,64,.08)}.meta{display:flex;justify-content:space-between;gap:10px;color:#83959b;font:9px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;text-transform:uppercase}.signal-card h3{font-size:17px;line-height:1.55;margin:14px 0 9px;color:#18313a;text-wrap:pretty}.signal-card p{color:#60757d;font-size:12px;line-height:1.78;flex:1;text-wrap:pretty}.tags{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}.tag{font:9px/1.3 ui-monospace,SFMono-Regular,Menlo,monospace;color:#4b8793;border-bottom:1px solid rgba(75,135,147,.35)}.open-detail{border:0;background:none;color:#265f6b;font-weight:800;padding:0;text-align:left;cursor:pointer;font-size:11px}
-
-.network-map{border:1px solid var(--line);border-radius:16px;overflow:hidden;background:rgba(255,255,255,.84);box-shadow:0 12px 36px rgba(33,59,64,.05)}
-.network-head{display:grid;grid-template-columns:1fr 190px 1fr;align-items:center;padding:14px 18px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.74);color:#657b82;font:9px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.09em;text-transform:uppercase}
-.network-head span:nth-child(2){text-align:center}.network-head span:last-child{text-align:right}
-.network-row{display:grid;grid-template-columns:1fr 190px 1fr;align-items:stretch;min-height:116px;border-bottom:1px solid var(--line)}
-.network-row:last-child{border-bottom:0}
-.network-node{padding:20px 22px;display:flex;flex-direction:column;justify-content:center}
-.network-node.right{text-align:right;align-items:flex-end}
-.network-node b{font-size:16px;color:#18333c}.network-node p{font-size:12px;color:#657b82;line-height:1.65;margin:5px 0 0;max-width:370px}
-.network-link{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:14px 8px;color:#4f7f89;font:10px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;background:linear-gradient(90deg,transparent,rgba(220,237,233,.8),transparent)}
-.network-link:before,.network-link:after{content:"";position:absolute;top:50%;height:1px;background:#9ec3c5;width:32%}
-.network-link:before{left:0}.network-link:after{right:0}
-.network-link strong{display:block;background:#f8fbf9;border:1px solid #bcd5d3;border-radius:999px;padding:6px 10px;z-index:1;color:#326b77;font-size:10px}
-
-.input-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.input-card{background:#eef4f1;color:#183039;border:1px solid #d9e5e1;border-radius:13px;padding:21px;min-height:180px}.input-card:nth-child(2n){background:#f5f2ea}.input-card .num{font:10px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;color:#74888f}.input-card h3{font-size:18px;margin:8px 0;color:#18313a}.input-card p{color:#5f737a;line-height:1.72;font-size:12px;margin:0}
-
-.roadmap-principle{display:grid;grid-template-columns:1fr 54px 1fr 54px 1fr;align-items:center;margin:0 0 24px;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:#f3f7f4}
-.principle-node{min-width:0}.principle-node small{display:block;color:#83959a;font:9px/1.3 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.09em;margin-bottom:6px}.principle-node b{font-size:19px;line-height:1.25;font-weight:760;color:#203e47;letter-spacing:.005em}
-.principle-arrow{height:1px;background:#9fbcba;position:relative}.principle-arrow:after{content:"";position:absolute;right:-1px;top:-3px;width:7px;height:7px;border-right:1px solid #759c9b;border-top:1px solid #759c9b;transform:rotate(45deg)}
-.road{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.stage{border:1px solid var(--line);border-top:3px solid #6da8b1;border-radius:13px;background:#fff;padding:23px;box-shadow:0 10px 30px rgba(33,59,64,.035)}
-.stage:nth-child(2){border-top-color:#9bc47f}.stage:nth-child(3){border-top-color:#dfb662}
-.stage .years{font:9px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;color:#7d9096;letter-spacing:.08em}
-.stage h3{margin:9px 0 3px;color:#71858b;font-size:11px;font-weight:700;letter-spacing:.07em}
-.verb{font-size:21px;font-weight:760;letter-spacing:.005em;margin:3px 0 15px;color:#23414a;line-height:1.25}
-.stage ul{padding-left:18px;margin-bottom:0}.stage li{color:#667b82;font-size:12px;line-height:1.72;margin:5px 0}
-.goal{margin-top:16px;border-radius:13px;padding:21px;background:#dfeeed;color:#18323b;font-weight:760;line-height:1.75;text-align:left}
-
-.weekly-feature{display:grid;grid-template-columns:190px 1fr;gap:30px;background:#eef2ee;color:#17303a;border:1px solid #d7e1dc;border-radius:14px;padding:36px;box-shadow:var(--shadow)}.week-date{font:10px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;color:#74878d}.weekly-feature h3{font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,4vw,50px);line-height:1.12;margin:0 0 14px;color:#244650;text-wrap:balance}.weekly-feature>div>p{color:#5e7279;line-height:1.85;text-wrap:pretty}.weekpoints{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:18px}.weekpoint{border:1px solid #d4dedb;border-radius:10px;padding:15px;background:#fff}.weekpoint b{display:block;margin-bottom:6px;color:#23414a}.weekpoint p{color:#60747a;font-size:12px;line-height:1.7;margin:0}
-.method-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.method{border:1px solid var(--line);padding:22px;border-radius:13px;background:#fff;box-shadow:0 10px 30px rgba(33,59,64,.04)}.method b{display:block;font-size:17px;color:#1f3b45}.method p{font-size:12px;color:#657981;line-height:1.75}
-footer{padding:46px 0 54px;background:#edf3f1}.footer-row{display:flex;justify-content:space-between;gap:20px;color:#778b91;font:10px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace}
-.drawer-backdrop{position:fixed;inset:0;background:rgba(19,39,46,.28);backdrop-filter:blur(3px);z-index:200;display:none}.drawer-backdrop.open{display:block}.drawer{position:fixed;top:0;right:0;height:100%;width:min(620px,94vw);background:#fbfcfa;color:#183039;z-index:201;transform:translateX(105%);transition:.25s;overflow:auto;padding:30px;box-shadow:-20px 0 70px rgba(28,49,54,.15)}.drawer.open{transform:translateX(0)}.drawer-close{position:sticky;top:0;float:right;border:1px solid #ccd9d6;background:#fff;border-radius:999px;width:38px;height:38px;font-size:20px;cursor:pointer}.drawer .eyebrow{color:#4f8893}.drawer h2{font-size:34px;line-height:1.22;margin:12px 0;color:#19333d;text-wrap:balance}.drawer .original{font-style:italic;color:#7b8d92;font-size:12px;line-height:1.65}.drawer .summary{font-size:15px;line-height:1.9;color:#40565e;margin-top:20px;text-wrap:pretty}.source-box{margin-top:24px;border-top:1px solid #d3dfdc;padding-top:18px}.source-box dl{display:grid;grid-template-columns:120px 1fr;gap:8px;margin:0}.source-box dt{font-size:10px;color:#829298}.source-box dd{font-size:12px;margin:0}.source-link{display:inline-block;margin-top:20px;background:#1d3c46;color:white;text-decoration:none;border-radius:999px;padding:11px 14px;font-size:12px;font-weight:800}
-/* CJK line-breaking: keep semantic words intact and prefer phrase-level wrapping. */
-.hero-lead,.section-head h2,.section-head p,.core-statement,.signal-card h3,.signal-card p,.company p,.input-card h3,.input-card p,.stage li,.goal,.weekly-feature h3,.weekly-feature p,.method p,.drawer h2,.drawer .summary{line-break:strict;overflow-wrap:normal;text-wrap:pretty}
-html[lang="ko"] .hero-lead,html[lang="ko"] .section-head h2,html[lang="ko"] .section-head p,html[lang="ko"] .signal-card h3,html[lang="ko"] .signal-card p,html[lang="ko"] .company p,html[lang="ko"] .input-card p,html[lang="ko"] .stage li,html[lang="ko"] .goal,html[lang="ko"] .weekly-feature h3,html[lang="ko"] .weekly-feature p,html[lang="ko"] .method p,html[lang="ko"] .drawer h2,html[lang="ko"] .drawer .summary{word-break:keep-all}
-@media(max-width:960px){nav.desktop{display:none}.menu{display:block}.signal-grid{grid-template-columns:repeat(2,1fr)}.network-wrap{grid-template-columns:1fr}.bridge{flex-direction:row;gap:12px}.input-grid,.road,.method-grid{grid-template-columns:1fr 1fr}}
-@media(max-width:680px){.container{width:min(100% - 32px,1180px)}.header-row{height:72px}.brand b{font-size:12px}.brand small{font-size:9px}.hero{padding:68px 0 58px}.hero h1{font-size:clamp(31px,8.7vw,39px);line-height:1.13;letter-spacing:-.045em;margin-top:16px}.hero-line{white-space:nowrap}.hero-lead{font-size:15px;line-height:1.95}.hero-actions{gap:9px}.primary,.secondary{padding:11px 14px}.signal-strip{grid-template-columns:repeat(2,1fr);margin-top:42px}.signal-metric:nth-child(2){border-right:0}.signal-metric:nth-child(-n+2){border-bottom:1px solid var(--line)}section{padding:64px 0}.section-head{display:block;margin-bottom:24px}.section-head h2{font-size:30px;line-height:1.25}.section-head p{text-align:left;margin-top:10px}.grid2,.signal-grid,.input-grid,.road,.method-grid,.weekpoints{grid-template-columns:1fr}.roadmap-principle{grid-template-columns:1fr;padding:16px 18px;gap:10px}.principle-arrow{width:1px;height:24px;margin-left:12px;background:#9fbcba}.principle-arrow:after{right:-3px;top:auto;bottom:0;transform:rotate(135deg)}.network-head{display:none}.network-row{grid-template-columns:1fr;min-height:0}.network-node,.network-node.right{padding:17px 18px;text-align:left;align-items:flex-start}.network-link{padding:12px 18px;align-items:flex-start;text-align:left}.network-link:before,.network-link:after{display:none}.weekly-feature{grid-template-columns:1fr;padding:24px}.flow{grid-template-columns:1fr}.footer-row{display:block}.footer-row span{display:block;margin-top:7px}.drawer{padding:22px}.drawer h2{font-size:27px}}
-
+:root{--bg:#f4f7f5;--surface:#fff;--soft:#edf5f3;--warm:#f6f2e9;--text:#152a33;--muted:#667b82;--muted2:#8a999e;--accent:#4f8f9b;--strong:#234d58;--line:#d7e2df;--shadow:0 18px 55px rgba(31,58,63,.08)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:linear-gradient(180deg,#fafcf9,#f2f6f4 42%,#f8f8f4);color:var(--text);font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP","Noto Sans KR",sans-serif;-webkit-font-smoothing:antialiased}a{color:inherit}.container{width:min(1180px,calc(100% - 40px));margin:auto}
+header{position:sticky;top:0;z-index:50;background:rgba(250,252,250,.88);backdrop-filter:blur(18px);border-bottom:1px solid rgba(90,128,133,.16)}.header-row{height:74px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{display:flex;gap:11px;align-items:center;text-decoration:none}.brand-mark{width:18px;height:18px;border:1.5px solid var(--strong);transform:rotate(45deg);position:relative}.brand-mark:after{content:"";position:absolute;inset:4px;border:1px solid rgba(35,77,88,.45)}.brand b{display:block;font-size:13px;letter-spacing:.09em}.brand small{display:block;color:#7b8d92;font:10px/1.3 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.07em;margin-top:2px}
+nav{display:flex;gap:18px}nav a{text-decoration:none;color:#6a7f86;font-size:12px;padding:8px 0;border-bottom:1px solid transparent}nav a:hover{color:#17333d;border-color:var(--strong)}.tools{display:flex;align-items:center;gap:9px}.lang-switch{display:flex;border:1px solid #c7d7d4;background:#f3f8f6;border-radius:999px;padding:3px}.lang-switch button{border:0;background:transparent;color:#778a90;border-radius:999px;font-size:10px;padding:6px 9px;cursor:pointer}.lang-switch button.on{background:#1f3d47;color:#fff}.status-pill{display:flex;gap:7px;align-items:center;border:1px solid #d1dfdc;background:white;border-radius:999px;padding:7px 10px;font:9px ui-monospace,SFMono-Regular,Menlo,monospace;color:#60777f}.dot{width:7px;height:7px;border-radius:50%;background:#65a887;box-shadow:0 0 0 4px rgba(101,168,135,.12)}
+.hero{padding:92px 0 76px;border-bottom:1px solid var(--line);background:radial-gradient(circle at 86% 0,rgba(113,178,184,.18),transparent 28%),linear-gradient(135deg,#fbfcfa,#eef6f3 58%,#f8f4ed)}.eyebrow{color:var(--accent);font:700 11px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.15em;text-transform:uppercase}.hero h1{font-size:clamp(52px,6.8vw,88px);line-height:1.03;letter-spacing:-.055em;margin:18px 0 24px;max-width:1040px;color:#17313b}.hero h1 em{color:var(--accent);font-style:normal;font-weight:580}.lead{font-size:17px;line-height:1.95;color:#526970;max-width:880px}.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}.btn{display:inline-flex;text-decoration:none;border-radius:999px;padding:12px 17px;font-weight:800;font-size:12px}.btn.primary{background:#193740;color:#fff}.btn.secondary{border:1px solid #b9cfcb;color:#2f5d67;background:rgba(255,255,255,.75)}
+.metric-strip{display:grid;grid-template-columns:repeat(4,1fr);margin-top:58px;border:1px solid #cad9d6;border-radius:14px;overflow:hidden;background:white;box-shadow:var(--shadow)}.metric{padding:21px;border-right:1px solid var(--line)}.metric:last-child{border:0}.metric b{display:block;font-size:24px}.metric span{display:block;color:#819399;font:9px ui-monospace,SFMono-Regular,Menlo,monospace;margin-top:6px;letter-spacing:.07em}
+section{padding:82px 0;border-bottom:1px solid var(--line)}#signals{background:#fbfcfa}#network,#weekly{background:#edf5f2}#roadmap{background:#f8f5ee}#methodology{background:#fbfcf9}.section-head{display:flex;justify-content:space-between;gap:24px;align-items:end;margin-bottom:30px}.section-head h2{font-size:38px;letter-spacing:-.045em;line-height:1.2;margin:5px 0 0}.section-head p{max-width:560px;color:#71868d;line-height:1.75;font-size:13px;margin:0;text-align:right}
+.toolbar{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:22px}.filters{display:flex;gap:7px;flex-wrap:wrap}.filter{border:1px solid #c9d8d5;background:#fff;color:#687c83;border-radius:999px;padding:8px 11px;font-size:10px;cursor:pointer}.filter.on{background:#295b66;color:#fff;border-color:#295b66}.search{min-width:280px;border:1px solid #c9d8d5;background:white;border-radius:999px;padding:10px 14px;outline:none}.search:focus{border-color:#79aeb7;box-shadow:0 0 0 3px rgba(92,158,170,.12)}
+.signal-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.signal-card{border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.95);padding:21px;min-height:300px;display:flex;flex-direction:column;box-shadow:0 10px 30px rgba(33,59,64,.045);transition:.2s}.signal-card:hover{transform:translateY(-2px);border-color:#b6d0cc;box-shadow:0 16px 35px rgba(33,59,64,.08)}.meta{display:flex;justify-content:space-between;gap:10px;color:#83959b;font:9px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;text-transform:uppercase}.signal-card h3{font-size:17px;line-height:1.55;margin:14px 0 9px}.signal-card p{color:#60757d;font-size:12px;line-height:1.78;flex:1}.tags{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}.tag{font:9px ui-monospace,SFMono-Regular,Menlo,monospace;color:#4b8793;border-bottom:1px solid rgba(75,135,147,.35)}.open-detail{border:0;background:none;color:#265f6b;font-weight:800;padding:0;text-align:left;cursor:pointer;font-size:11px}.empty{grid-column:1/-1;padding:42px;border:1px dashed #c4d4d1;border-radius:14px;text-align:center;color:#72858b;background:white}
+.network-map{border:1px solid var(--line);border-radius:16px;overflow:hidden;background:rgba(255,255,255,.84);box-shadow:0 12px 36px rgba(33,59,64,.05)}.network-row{display:grid;grid-template-columns:1fr 180px 1fr;min-height:112px;border-bottom:1px solid var(--line)}.network-row:last-child{border-bottom:0}.node{padding:20px 22px;display:flex;flex-direction:column;justify-content:center}.node.right{text-align:right;align-items:flex-end}.node b{font-size:16px}.node p{font-size:12px;color:#657b82;line-height:1.65;margin:5px 0 0;max-width:370px}.link{display:flex;align-items:center;justify-content:center;text-align:center;color:#4f7f89;font:10px ui-monospace,SFMono-Regular,Menlo,monospace;background:linear-gradient(90deg,transparent,rgba(220,237,233,.8),transparent);position:relative}.link:before,.link:after{content:"";height:1px;background:#a1c1c1;position:absolute;top:50%;width:30%}.link:before{left:0}.link:after{right:0}.link span{z-index:1;background:#f8fbf9;border:1px solid #bfd5d3;border-radius:999px;padding:6px 10px}
+.road-principle{display:grid;grid-template-columns:1fr 46px 1fr 46px 1fr;align-items:center;padding:18px 20px;border:1px solid var(--line);border-radius:14px;background:#f3f7f4;margin-bottom:18px}.pnode small{display:block;color:#83959a;font:9px ui-monospace,SFMono-Regular,Menlo,monospace;margin-bottom:6px}.pnode b{font-size:19px}.arrow{height:1px;background:#9fbcba}.road{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.stage{border:1px solid var(--line);border-top:3px solid #6da8b1;border-radius:13px;background:#fff;padding:23px;box-shadow:0 10px 30px rgba(33,59,64,.035)}.stage:nth-child(2){border-top-color:#9bc47f}.stage:nth-child(3){border-top-color:#dfb662}.stage .years{font:9px ui-monospace,SFMono-Regular,Menlo,monospace;color:#7d9096}.stage h3{margin:9px 0 3px;color:#71858b;font-size:11px}.stage .verb{font-size:21px;font-weight:760;margin:3px 0 15px}.stage li{color:#667b82;font-size:12px;line-height:1.72;margin:5px 0}.goal{margin-top:16px;border-radius:13px;padding:21px;background:#dfeeed;color:#18323b;font-weight:760;line-height:1.75}
+.weekly-feature{display:grid;grid-template-columns:190px 1fr;gap:30px;background:#eef2ee;border:1px solid #d7e1dc;border-radius:14px;padding:36px;box-shadow:var(--shadow)}.week-date{font:10px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;color:#74878d}.weekly-feature h3{font-family:Georgia,"Times New Roman",serif;font-size:clamp(30px,4vw,50px);line-height:1.12;margin:0 0 14px;color:#244650}.weekly-feature>div>p{color:#5e7279;line-height:1.85}.weekpoints{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:18px}.weekpoint{border:1px solid #d4dedb;border-radius:10px;padding:15px;background:#fff}.weekpoint b{display:block;margin-bottom:6px}.weekpoint p{color:#60747a;font-size:12px;line-height:1.7;margin:0}
+.method-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.method{border:1px solid var(--line);padding:22px;border-radius:13px;background:#fff;box-shadow:0 10px 30px rgba(33,59,64,.04)}.method b{display:block;font-size:17px}.method p{font-size:12px;color:#64787f;line-height:1.75}.method code{font-size:10px;color:#487782;background:#eef5f3;padding:3px 6px;border-radius:5px}
+footer{padding:30px 0;background:#17313a;color:#c7d5d7}.footer-row{display:flex;justify-content:space-between;gap:20px;font:9px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.07em}
+.drawer-backdrop{position:fixed;inset:0;background:rgba(17,36,42,.38);opacity:0;pointer-events:none;transition:.2s;z-index:80}.drawer-backdrop.open{opacity:1;pointer-events:auto}.drawer{position:fixed;right:0;top:0;height:100%;width:min(520px,100%);background:#fbfcfa;z-index:90;transform:translateX(100%);transition:.25s;padding:34px;overflow:auto;box-shadow:-30px 0 80px rgba(15,36,42,.16)}.drawer.open{transform:none}.drawer-close{float:right;border:1px solid #ccd9d7;background:white;border-radius:50%;width:34px;height:34px;font-size:20px}.drawer h2{font-size:30px;line-height:1.35;margin:25px 0 14px}.original{font:11px/1.7 ui-monospace,SFMono-Regular,Menlo,monospace;color:#819197;border-left:2px solid #b7ceca;padding-left:12px}.summary{font-size:15px;line-height:1.9;color:#536970;margin:22px 0}.source-box{border:1px solid var(--line);border-radius:12px;background:white;padding:18px;margin-top:24px}.source-box dl{display:grid;grid-template-columns:130px 1fr;gap:10px;font-size:12px}.source-box dt{color:#89999d}.source-link{display:inline-flex;margin-top:14px;text-decoration:none;font-weight:800;color:#2b6570}
+@media(max-width:900px){nav,.status-pill{display:none}.hero{padding-top:65px}.hero h1{font-size:clamp(44px,11vw,66px)}.metric-strip,.signal-grid,.road,.method-grid{grid-template-columns:1fr 1fr}.network-row{grid-template-columns:1fr 120px 1fr}.weekly-feature{grid-template-columns:1fr}.section-head{align-items:start;flex-direction:column}.section-head p{text-align:left}.road-principle{grid-template-columns:1fr;gap:8px}.arrow{width:1px;height:25px;margin-left:8px}}
+@media(max-width:640px){.container{width:min(100% - 28px,1180px)}.hero h1{font-size:44px}.metric-strip,.signal-grid,.road,.method-grid,.weekpoints{grid-template-columns:1fr}.metric{border-right:0;border-bottom:1px solid var(--line)}.network-row{grid-template-columns:1fr}.node.right{text-align:left;align-items:flex-start}.link{min-height:60px}.search{width:100%;min-width:0}.weekly-feature{padding:24px}.drawer{padding:24px}}
 </style>
 </head>
 <body>
-<header>
-  <div class="container header-row">
-    <button class="brand" onclick="go('overview')" style="border:0;background:none;color:inherit;cursor:pointer;padding:0">
-      <span class="brand-mark"></span>
-      <span><b>STRAIT / RESILIENCE</b><small>SEMICONDUCTOR SUPPLY CHAIN MONITOR</small></span>
-    </button>
-    <nav class="desktop">
-      <button onclick="go('signals')">Signals</button>
-      <button onclick="go('network')">Network</button>
-      <button onclick="go('inputs')">Critical Inputs</button>
-      <button onclick="go('roadmap')">Roadmap</button>
-      <button onclick="go('weekly')">Weekly Brief</button>
-      <button onclick="go('methodology')">Methodology</button>
-    </nav>
-    <div class="tools">
-      <div class="lang-switch"><button data-lang="ja">JP</button><button data-lang="ko">KR</button></div>
-      <button class="menu" onclick="document.querySelector('.mobile-nav').classList.toggle('open')">☰</button>
-    </div>
-  </div>
-  <nav class="mobile-nav">
-      <button onclick="go('signals')">Signals</button>
-      <button onclick="go('network')">Network</button>
-      <button onclick="go('inputs')">Critical Inputs</button>
-      <button onclick="go('roadmap')">Roadmap</button>
-      <button onclick="go('weekly')">Weekly</button>
-  </nav>
-</header>
-
-<main>
-<section class="hero" id="overview">
-  <div class="container">
-    <div class="eyebrow">Taiwan Strait × Semiconductor Supply Chain</div>
-    <h1 data-ja="<span class='hero-line'>台湾海峡の変化を、</span><span class='hero-line hero-accent'>供給網の判断材料へ。</span>" data-ko="<span class='hero-line'>대만해협의 변화를,</span><span class='hero-line hero-accent'>공급망 판단의 근거로.</span>"><span class="hero-line">台湾海峡の変化を、</span><span class="hero-line hero-accent">供給網の判断材料へ。</span></h1>
-    <p class="hero-lead" data-ja="台湾海峡、安全保障、先端半導体、日韓産業ネットワークを横断的に追跡。公開情報を、供給網リスクを読み解くためのインテリジェンスへ変換します。" data-ko="대만해협, 안보, 첨단 반도체, 한·일 산업 네트워크를 함께 추적합니다. 공개정보를 공급망 리스크를 읽기 위한 인텔리전스로 전환합니다.">安全保障、先端半導体、物流、日韓の企業接続を別々に追うのではなく、一つの供給網として読み解く。</p>
-    <div class="hero-actions"><button class="primary" onclick="go('signals')" data-ja="最新動向を見る" data-ko="최신 동향 보기">最新動向を見る</button><button class="secondary" onclick="go('roadmap')" data-ja="Roadmapを見る" data-ko="Roadmap 보기">Roadmapを見る</button></div>
-    <div class="signal-strip">
-      <div class="signal-metric"><b>19</b><span>MONITORED SIGNALS</span></div>
-      <div class="signal-metric"><b>JP / KR</b><span>BILINGUAL RESEARCH</span></div>
-      <div class="signal-metric"><b>6</b><span>CRITICAL INPUTS</span></div>
-      <div class="signal-metric"><b>22 AUG</b><span>LAST UPDATED · 2026</span></div>
-    </div>
-  </div>
-</section>
-
-<section>
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Core Thesis</div><h2 data-ja="完全代替ではなく、ショック吸収力をつくる。" data-ko="완전 대체가 아니라, 충격 흡수력을 만든다.">完全代替ではなく、ショック吸収力をつくる。</h2></div></div>
- <div class="grid2">
-  <div class="card"><div class="core-statement" data-html="1" data-ja="TSMCを短期間で完全に代替するのではなく、<mark>既存の日韓産業ネットワーク</mark>を危機時にも機能させる。" data-ko="TSMC를 단기간에 완전히 대체하는 것이 아니라, <mark>기존 한·일 산업 연결망</mark>이 위기 시에도 작동하도록 한다.">TSMCを短期間で完全に代替するのではなく、<mark>既存の日韓産業ネットワーク</mark>を危機時にも機能させる。</div></div>
-  <div class="card"><h3 data-ja="平時から有事まで" data-ko="평시부터 유사시까지">平時から有事まで</h3><div class="flow"><div class="flow-step"><b data-ja="平時" data-ko="평시">平時</b><span data-ja="ニュース・企業接続・脆弱品目を把握" data-ko="뉴스·기업 연결·취약품목 파악">ニュース・企業接続・脆弱品目を把握</span></div><div class="flow-step"><b data-ja="危機兆候" data-ko="위기 징후">危機兆候</b><span data-ja="代替調達・在庫・物流を確認" data-ko="대체조달·재고·물류 확인">代替調達・在庫・物流を確認</span></div><div class="flow-step"><b data-ja="有事" data-ko="유사시">有事</b><span data-ja="既存ネットワークを危機対応へ転換" data-ko="기존 연결망을 위기대응으로 전환">既存ネットワークを危機対応へ転換</span></div></div></div>
- </div>
-</div>
-</section>
-
-<section id="signals">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Signals</div><h2 data-ja="危機・供給網の変化を追う" data-ko="위기·공급망 변화를 추적하다">危機・供給網の変化を追う</h2></div><p data-ja="英語・韓国語・日本語などの公開報道を、日韓2言語の要約で確認。原文タイトルと出典はそのまま保持します。" data-ko="영어·한국어·일본어 등 공개보도를 한·일 2개 언어 요약으로 확인합니다. 원문 제목과 출처는 그대로 유지합니다.">公開報道を日韓2言語の要約で確認。</p></div>
- <div class="toolbar"><div class="filters"><button class="filter on" data-filter="ALL">ALL</button><button class="filter" data-filter="安全保障">SECURITY</button><button class="filter" data-filter="半導体">CHIPS</button><button class="filter" data-filter="物流・レジリエンス">RESILIENCE</button><button class="filter" data-filter="日韓連携">JAPAN × KOREA</button></div><input id="search" class="search" placeholder="TSMC / HBM / 한일협력 ..."></div>
- <div id="signalGrid" class="signal-grid"></div>
-</div>
-</section>
-
-<section id="network">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Network</div><h2 data-ja="既存の日韓半導体ネットワーク" data-ko="기존 한·일 반도체 연결망">既存の日韓半導体ネットワーク</h2></div><p data-ja="既存の企業間接続を、危機時にも使える生産・技術・供給ネットワークとして読み解きます。" data-ko="기존 기업 간 연결을 위기 시에도 활용할 수 있는 생산·기술·공급 네트워크로 해석합니다.">既存の企業間接続を危機対応へ。</p></div>
- <div class="network-map">
-   <div class="network-head"><span>Japan / Technology & Inputs</span><span>Localized Link</span><span>Korea / Manufacturing</span></div>
-   <div class="network-row">
-     <div class="network-node"><b>Tokyo Electron (TEL)</b><p data-ja="半導体製造装置・工程技術" data-ko="반도체 제조장비·공정기술">半導体製造装置・工程技術</p></div>
-     <div class="network-link"><strong data-ja="現地R&D・技術支援" data-ko="현지 R&D·기술지원">現地R&D・技術支援</strong></div>
-     <div class="network-node right"><b>Samsung / SK hynix</b><p data-ja="NAND・DRAM・Foundry・HBM製造ライン" data-ko="NAND·DRAM·Foundry·HBM 제조라인">NAND・DRAM・Foundry・HBM製造ライン</p></div>
-   </div>
-   <div class="network-row">
-     <div class="network-node"><b>JSR</b><p data-ja="EUV用 Metal Oxide Resist" data-ko="EUV용 Metal Oxide Resist">EUV用 Metal Oxide Resist</p></div>
-     <div class="network-link"><strong data-ja="清州生産・品質保証" data-ko="청주 생산·품질보증">清州生産・品質保証</strong></div>
-     <div class="network-node right"><b>Korean fabs</b><p data-ja="先端ロジック・メモリ工程への安定供給" data-ko="첨단 로직·메모리 공정 안정공급">先端ロジック・メモリ工程への安定供給</p></div>
-   </div>
-   <div class="network-row">
-     <div class="network-node"><b>TOK</b><p data-ja="Photoresist・高純度化学製品" data-ko="Photoresist·고순도 화학제품">Photoresist・高純度化学製品</p></div>
-     <div class="network-link"><strong data-ja="検査・生産・近接供給" data-ko="검사·생산·근접공급">検査・生産・近接供給</strong></div>
-     <div class="network-node right"><b>Korean fabs</b><p data-ja="長距離物流への依存を抑えた供給" data-ko="장거리 물류 의존을 낮춘 공급">長距離物流への依存を抑えた供給</p></div>
-   </div>
- </div>
-</div>
-</section>
-
-<section id="inputs">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Critical Inputs</div><h2 data-ja="優先管理する6つの脆弱品目" data-ko="우선 관리할 6개 핵심 취약품목">優先管理する6つの脆弱品目</h2></div><p data-ja="台湾海峡遮断や物流不安定時に供給支障が起こりやすい品目を、短期ロードマップの優先監視対象として整理。" data-ko="대만해협 차단·물류불안 시 공급차질 가능성이 높은 품목을 단기 로드맵의 우선 감시 대상으로 정리합니다.">短期ロードマップの優先監視対象。</p></div>
- <div class="input-grid">
-  <div class="input-card"><div class="num">01</div><h3>EUV Materials</h3><p data-ja="先端ロジック・メモリ工程に不可欠。現地生産、品質保証、備蓄を重点確認。" data-ko="첨단 로직·메모리 공정에 필수. 현지생산·품질보증·비축을 중점 확인.">先端工程に不可欠。</p></div>
-  <div class="input-card"><div class="num">02</div><h3>Photoresist</h3><p data-ja="日本企業の技術・供給比重が高い重要材料。韓国内生産能力と代替供給先を確認。" data-ko="일본 기업의 기술·공급 비중이 높은 핵심 소재. 한국 내 생산능력과 대체 공급처 확인.">日本企業の供給比重が高い重要材料。</p></div>
-  <div class="input-card"><div class="num">03</div><h3 data-ja="特殊ガス" data-ko="특수가스">特殊ガス</h3><p data-ja="製造工程の継続に必要。複数調達先、在庫、緊急輸送ルートを管理。" data-ko="제조공정 지속에 필요. 복수 조달처·재고·긴급수송 경로 관리.">複数調達先・在庫・緊急輸送。</p></div>
-  <div class="input-card"><div class="num">04</div><h3 data-ja="ウェハー" data-ko="웨이퍼">ウェハー</h3><p data-ja="前工程の基礎材料。供給源の多様化と物流経路の確保を確認。" data-ko="전공정 기초소재. 공급원 다변화와 물류경로 확보 확인.">供給源の多様化と物流確保。</p></div>
-  <div class="input-card"><div class="num">05</div><h3 data-ja="製造装置部品" data-ko="제조장비 부품">製造装置部品</h3><p data-ja="設備停止防止のため、交換部品、保守、現地技術支援まで含めて管理。" data-ko="설비중단 방지를 위해 교체부품·유지보수·현지 기술지원까지 관리.">交換部品・保守・技術支援。</p></div>
-  <div class="input-card"><div class="num">06</div><h3 data-ja="先端パッケージング素材" data-ko="첨단 패키징 소재">先端パッケージング素材</h3><p data-ja="HBM・Chiplet・2.5D/3Dで重要。TSMCパッケージングのボトルネック吸収に直結。" data-ko="HBM·Chiplet·2.5D/3D에 중요. TSMC 패키징 병목 충격 흡수와 직결.">HBM・Chiplet・2.5D/3Dで重要。</p></div>
- </div>
-</div>
-</section>
-
-<section id="roadmap">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Roadmap</div><h2 data-ja="日韓供給網レジリエンス・ロードマップ" data-ko="한·일 공급망 회복력 로드맵">日韓供給網レジリエンス・ロードマップ</h2></div><p data-ja="既存の企業間連結を、可視化・連結拡大・制度設計の3段階で危機対応能力へ変換します。" data-ko="기존 기업 간 연결을 가시화·연결 확대·제도 설계의 3단계로 위기 대응능력으로 전환합니다.">3段階で危機対応能力へ。</p></div>
-
- <div class="roadmap-principle">
-   <div class="principle-node"><small>01 / 0—1 YEAR</small><b data-ja="可視化" data-ko="가시화">可視化</b></div>
-   <div class="principle-arrow"></div>
-   <div class="principle-node"><small>02 / 1—3 YEARS</small><b data-ja="連結拡大" data-ko="연결 확대">連結拡大</b></div>
-   <div class="principle-arrow"></div>
-   <div class="principle-node"><small>03 / 3—5 YEARS+</small><b data-ja="制度設計" data-ko="제도 설계">制度設計</b></div>
- </div>
-
- <div class="road">
-  <div class="stage"><div class="years">0—1 YEAR</div><h3 data-ja="短期" data-ko="단기">短期</h3><div class="verb" data-ja="可視化" data-ko="가시화">可視化</div><ul><li data-ja="日韓供給網連結マップを作成" data-ko="한·일 공급망 연결지도 작성">日韓供給網連結マップを作成</li><li data-ja="重要脆弱品目を選定" data-ko="핵심 취약품목 선정">重要脆弱品目を選定</li><li data-ja="代替調達・在庫・迂回輸送・緊急生産能力を事前把握" data-ko="대체조달·재고·우회운송·긴급생산 역량 사전 파악">代替調達・在庫・物流を事前把握</li></ul></div>
-  <div class="stage"><div class="years">1—3 YEARS</div><h3 data-ja="中期" data-ko="중기">中期</h3><div class="verb" data-ja="連結拡大" data-ko="연결 확대">連結拡大</div><ul><li data-ja="日本素材・装置企業の韓国現地化を拡大" data-ko="일본 소부장 기업의 한국 현지화 확대">日本素材・装置企業の韓国現地化を拡大</li><li data-ja="Samsung・SK hynixと日本企業の共同開発を深化" data-ko="삼성·SK하이닉스와 일본 기업 공동개발 심화">日韓共同開発を深化</li><li data-ja="HBM・Chiplet・2.5D/3Dのパッケージング協力を拡大" data-ko="HBM·Chiplet·2.5D/3D 패키징 협력 확대">先端パッケージング協力拡大</li></ul></div>
-  <div class="stage"><div class="years">3—5 YEARS+</div><h3 data-ja="長期" data-ko="장기">長期</h3><div class="verb" data-ja="制度設計" data-ko="제도 설계">制度設計</div><ul><li data-ja="複数供給先・現地生産・戦略備蓄・優先供給を制度化" data-ko="복수 공급처·현지생산·전략비축·우선공급 제도화">戦略的自律性を確保</li><li data-ja="次世代パッケージング共同R&D・テストベッドを整備" data-ko="차세대 패키징 공동 R&D·테스트베드 구축">次世代パッケージング共同対応</li><li data-ja="エネルギー・物流の共同防衛体制を構築" data-ko="에너지·물류 공동 방어체계 구축">エネルギー・物流共同防衛</li></ul></div>
- </div>
- <div class="goal" data-ja="最終目標：台湾・TSMCを完全に代替するのではなく、台湾海峡危機でも日韓の主要半導体生産が中断しないよう、既存の日韓産業ネットワークを拡大し、供給ショックを吸収できる構造を構築する。" data-ko="최종 목표: 대만·TSMC를 완전히 대체하는 것이 아니라, 양안 위기에도 한·일 핵심 반도체 생산이 중단되지 않도록 기존 한·일 산업 연결망을 확대해 공급망 충격을 흡수할 수 있는 구조를 구축한다.">最終目標</div>
-</div>
-</section>
-
-<section id="weekly">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Weekly Brief</div><h2 data-ja="1週間を、4つのSignalに圧縮する。" data-ko="1주일을, 4개의 Signal로 압축한다.">1週間を、4つのSignalに圧縮する。</h2></div></div>
- <div class="weekly-feature"><div><div class="week-date" id="weekDate"></div></div><div><h3 id="weekTitle"></h3><p id="weekLead"></p><div id="weekPoints" class="weekpoints"></div></div></div>
-</div>
-</section>
-
-<section id="methodology">
-<div class="container">
- <div class="section-head"><div><div class="eyebrow">Methodology</div><h2 data-ja="出典と分析を分けて扱う。" data-ko="출처와 분석을 구분해서 다룬다.">出典と分析を分けて扱う。</h2></div><p data-ja="記事本文の転載ではなく、公開情報を短く要約し、原文へリンクする設計です。" data-ko="기사 본문을 전재하지 않고 공개정보를 짧게 요약한 뒤 원문으로 연결합니다.">公開情報を短く要約し、原文へリンク。</p></div>
- <div class="method-grid">
-  <div class="method"><b>01 / Source-linked</b><p data-ja="媒体名、公開日、原文タイトル、原文リンクを保持し、要約と出典を分離します。" data-ko="매체명·공개일·원문 제목·원문 링크를 유지해 요약과 출처를 분리합니다.">出典情報を保持。</p></div>
-  <div class="method"><b>02 / Bilingual</b><p data-ja="英語・韓国語・日本語などの記事を、日本語／韓国語の短い要約で比較可能にします。" data-ko="영어·한국어·일본어 등 기사를 일본어/한국어 짧은 요약으로 비교할 수 있게 합니다.">日韓2言語で比較可能。</p></div>
-  <div class="method"><b>03 / Research layer</b><p data-ja="単なるニュース一覧ではなく、企業接続・脆弱品目・ロードマップとの関係から意味を整理します。" data-ko="단순 뉴스 목록이 아니라 기업 연결·취약품목·로드맵과의 관계에서 의미를 정리합니다.">ニュースと研究分析を接続。</p></div>
- </div>
-</div>
-</section>
+<header><div class="container header-row">
+<a class="brand" href="#top"><span class="brand-mark"></span><span><b>STRAIT / RESILIENCE</b><small>SUPPLY-CHAIN INTELLIGENCE</small></span></a>
+<nav><a href="#signals" data-ja="Signals" data-ko="Signals">Signals</a><a href="#network" data-ja="Network" data-ko="Network">Network</a><a href="#roadmap" data-ja="Roadmap" data-ko="Roadmap">Roadmap</a><a href="#weekly" data-ja="Weekly" data-ko="Weekly">Weekly</a></nav>
+<div class="tools"><div class="status-pill"><span class="dot"></span><span id="liveStatus">DATA ONLINE</span></div><div class="lang-switch"><button data-lang="ja" class="on">JP</button><button data-lang="ko">KR</button></div></div>
+</div></header>
+<main id="top">
+<section class="hero"><div class="container">
+<div class="eyebrow">Taiwan Strait × Semiconductor Supply Chain</div>
+<h1 data-ja="台湾海峡の変化を、<br><em>供給網判断の根拠へ。</em>" data-ko="대만해협의 변화를,<br><em>공급망 판단의 근거로.</em>">台湾海峡の変化を、<br><em>供給網判断の根拠へ。</em></h1>
+<p class="lead" data-ja="公開ニュースを継続収集し、台湾海峡リスク、半導体、物流、日韓産業ネットワークの変化を日本語・韓国語で整理するリサーチ・プラットフォーム。" data-ko="공개 뉴스를 지속적으로 수집해 대만해협 리스크, 반도체, 물류, 한·일 산업 네트워크의 변화를 일본어·한국어로 정리하는 리서치 플랫폼입니다.">公開ニュースを継続収集し、台湾海峡リスク、半導体、物流、日韓産業ネットワークの変化を日本語・韓国語で整理するリサーチ・プラットフォーム。</p>
+<div class="hero-actions"><a class="btn primary" href="#signals" data-ja="最新Signalを見る →" data-ko="최신 Signal 보기 →">最新Signalを見る →</a><a class="btn secondary" href="#weekly" data-ja="Weekly Briefへ" data-ko="Weekly Brief 보기">Weekly Briefへ</a></div>
+<div class="metric-strip"><div class="metric"><b id="articleCount">—</b><span>ACTIVE SIGNALS</span></div><div class="metric"><b>JP / KR</b><span>BILINGUAL OUTPUT</span></div><div class="metric"><b>6H</b><span>UPDATE CYCLE</span></div><div class="metric"><b id="latestDate">—</b><span>LATEST SOURCE DATE</span></div></div>
+</div></section>
+<section id="signals"><div class="container">
+<div class="section-head"><div><div class="eyebrow">Live Intelligence Feed</div><h2 data-ja="ニュースを、判断可能なSignalへ。" data-ko="뉴스를, 판단 가능한 Signal로.">ニュースを、判断可能なSignalへ。</h2></div><p data-ja="公開RSSを定期取得し、重複排除・分類・日韓要約を経て表示。原文リンクと出典を保持します。" data-ko="공개 RSS를 정기 수집해 중복 제거·분류·한일 요약을 거쳐 표시합니다. 원문 링크와 출처를 유지합니다.">公開RSSを定期取得し、重複排除・分類・日韓要約を経て表示。</p></div>
+<div class="toolbar"><div class="filters"><button class="filter on" data-filter="ALL">ALL</button><button class="filter" data-filter="Security">SECURITY</button><button class="filter" data-filter="Semiconductor">SEMICONDUCTOR</button><button class="filter" data-filter="Japan-Korea">JAPAN × KOREA</button><button class="filter" data-filter="Logistics">LOGISTICS</button></div><input id="search" class="search" placeholder="Search / 검색"></div>
+<div id="signalGrid" class="signal-grid"></div>
+</div></section>
+<section id="network"><div class="container"><div class="section-head"><div><div class="eyebrow">Industrial Network</div><h2 data-ja="既存の日韓接続を、危機対応能力へ。" data-ko="기존 한·일 연결을, 위기 대응역량으로.">既存の日韓接続を、危機対応能力へ。</h2></div><p data-ja="TSMCを完全代替するのではなく、韓国の製造・メモリ能力と日本の素材・部品・装置能力の接続を強化する。" data-ko="TSMC를 완전히 대체하는 것이 아니라 한국의 제조·메모리 역량과 일본의 소재·부품·장비 역량의 연결을 강화합니다.">日韓の既存能力を接続。</p></div>
+<div class="network-map">
+<div class="network-row"><div class="node"><b>Samsung Electronics</b><p data-ja="先端ロジック、メモリ、ファウンドリ" data-ko="첨단 로직·메모리·파운드리">先端ロジック、メモリ、ファウンドリ</p></div><div class="link"><span>Equipment / R&D</span></div><div class="node right"><b>Tokyo Electron</b><p data-ja="製造装置、R&D、技術支援" data-ko="제조장비·R&D·기술지원">製造装置、R&D、技術支援</p></div></div>
+<div class="network-row"><div class="node"><b>SK hynix</b><p data-ja="HBM、先端メモリ、パッケージング需要" data-ko="HBM·첨단 메모리·패키징 수요">HBM、先端メモリ</p></div><div class="link"><span>Materials / Process</span></div><div class="node right"><b>Japanese Materials</b><p data-ja="フォトレジスト、特殊ガス、ウェハー等" data-ko="포토레지스트·특수가스·웨이퍼 등">素材・化学・基礎部材</p></div></div>
+<div class="network-row"><div class="node"><b>Korea Manufacturing Base</b><p data-ja="量産、メモリ、先端パッケージング" data-ko="양산·메모리·첨단 패키징">量産・メモリ・先端パッケージング</p></div><div class="link"><span>Resilience Layer</span></div><div class="node right"><b>Japan Supply Base</b><p data-ja="装置、素材、部品、保守・技術支援" data-ko="장비·소재·부품·유지보수·기술지원">装置・素材・部品</p></div></div>
+</div></div></section>
+<section id="roadmap"><div class="container"><div class="section-head"><div><div class="eyebrow">Roadmap</div><h2 data-ja="日韓供給網レジリエンス・ロードマップ" data-ko="한·일 공급망 회복력 로드맵">日韓供給網レジリエンス・ロードマップ</h2></div><p data-ja="可視化 → 連結拡大 → 制度設計。既存ネットワークを段階的に危機対応能力へ変換します。" data-ko="가시화 → 연결 확대 → 제도 설계. 기존 네트워크를 단계적으로 위기 대응능력으로 전환합니다.">3段階で危機対応能力へ。</p></div>
+<div class="road-principle"><div class="pnode"><small>01 / 0—1 YEAR</small><b data-ja="可視化" data-ko="가시화">可視化</b></div><div class="arrow"></div><div class="pnode"><small>02 / 1—3 YEARS</small><b data-ja="連結拡大" data-ko="연결 확대">連結拡大</b></div><div class="arrow"></div><div class="pnode"><small>03 / 3—5 YEARS+</small><b data-ja="制度設計" data-ko="제도 설계">制度設計</b></div></div>
+<div class="road"><div class="stage"><div class="years">0—1 YEAR</div><h3 data-ja="短期" data-ko="단기">短期</h3><div class="verb" data-ja="可視化" data-ko="가시화">可視化</div><ul><li data-ja="日韓供給網連結マップを作成" data-ko="한·일 공급망 연결지도 작성">日韓供給網連結マップを作成</li><li data-ja="重要脆弱品目を選定" data-ko="핵심 취약품목 선정">重要脆弱品目を選定</li><li data-ja="在庫・代替調達・迂回輸送を把握" data-ko="재고·대체조달·우회운송 파악">在庫・代替調達・迂回輸送を把握</li></ul></div><div class="stage"><div class="years">1—3 YEARS</div><h3 data-ja="中期" data-ko="중기">中期</h3><div class="verb" data-ja="連結拡大" data-ko="연결 확대">連結拡大</div><ul><li data-ja="日本素材・装置企業の韓国現地化" data-ko="일본 소부장 기업의 한국 현지화">日本企業の韓国現地化</li><li data-ja="Samsung・SK hynixとの共同開発" data-ko="삼성·SK하이닉스와 공동개발">共同開発を深化</li><li data-ja="HBM・Chiplet・2.5D/3D協力" data-ko="HBM·Chiplet·2.5D/3D 협력">先端パッケージング協力</li></ul></div><div class="stage"><div class="years">3—5 YEARS+</div><h3 data-ja="長期" data-ko="장기">長期</h3><div class="verb" data-ja="制度設計" data-ko="제도 설계">制度設計</div><ul><li data-ja="複数供給先・戦略備蓄を制度化" data-ko="복수 공급처·전략비축 제도화">戦略備蓄を制度化</li><li data-ja="共同R&D・テストベッド整備" data-ko="공동 R&D·테스트베드 구축">共同R&D</li><li data-ja="エネルギー・物流の継続体制" data-ko="에너지·물류 연속성 체계">物流・エネルギー連携</li></ul></div></div>
+<div class="goal" data-ja="最終目標：台湾・TSMCを完全に代替するのではなく、台湾海峡危機でも日韓の主要半導体生産が中断しないよう、既存の日韓産業ネットワークを拡大し、供給ショックを吸収できる構造を構築する。" data-ko="최종 목표: 대만·TSMC를 완전히 대체하는 것이 아니라, 양안 위기에도 한·일 핵심 반도체 생산이 중단되지 않도록 기존 한·일 산업 연결망을 확대해 공급 충격을 흡수할 수 있는 구조를 구축한다.">最終目標</div>
+</div></section>
+<section id="weekly"><div class="container"><div class="section-head"><div><div class="eyebrow">Weekly Brief</div><h2 data-ja="1週間を、4つのSignalに圧縮する。" data-ko="1주일을, 4개의 Signal로 압축한다.">1週間を、4つのSignalに圧縮する。</h2></div></div><div class="weekly-feature"><div><div class="week-date" id="weekDate"></div><div class="week-date" id="weekStatus" style="margin-top:10px"></div></div><div><h3 id="weekTitle"></h3><p id="weekLead"></p><div id="weekPoints" class="weekpoints"></div></div></div></div></section>
+<section id="methodology"><div class="container"><div class="section-head"><div><div class="eyebrow">Methodology & Automation</div><h2 data-ja="出典・翻訳・分析を分けて扱う。" data-ko="출처·번역·분석을 분리해서 다룬다.">出典・翻訳・分析を分けて扱う。</h2></div><p data-ja="記事本文は転載せず、公開情報を短く要約して原文へリンク。GitHub Actionsが6時間ごとに更新します。" data-ko="기사 본문은 전재하지 않고 공개정보를 짧게 요약해 원문으로 연결합니다. GitHub Actions가 6시간마다 갱신합니다.">自動更新・原文リンク・日韓要約。</p></div><div class="method-grid"><div class="method"><b>01 / Ingestion</b><p data-ja="RSSから新着を取得し、URLベースの安定IDで重複排除。" data-ko="RSS에서 신규 기사를 수집하고 URL 기반 안정 ID로 중복을 제거합니다.">RSS取得・重複排除。</p><code>scripts/update_content.py</code></div><div class="method"><b>02 / Bilingual AI</b><p data-ja="APIキーはGitHub Secretに保存し、日韓タイトル・要約のみ生成。キー未設定でもサイトは壊れません。" data-ko="API 키는 GitHub Secret에 저장하고 한일 제목·요약만 생성합니다. 키가 없어도 사이트는 깨지지 않습니다.">Secretsで安全に管理。</p><code>OPENAI_API_KEY</code></div><div class="method"><b>03 / Weekly Layer</b><p data-ja="直近1週間のSignalから、4つの主要論点を日韓2言語で自動生成。" data-ko="최근 1주일의 Signal에서 4개 핵심 논점을 한일 2개 언어로 자동 생성합니다.">Weekly Brief自動生成。</p><code>data/weekly.json</code></div></div></div></section>
 </main>
-
 <footer><div class="container footer-row"><span>STRAIT / RESILIENCE</span><span>PUBLIC-SOURCE RESEARCH PLATFORM · JAPANESE / KOREAN</span></div></footer>
-
-<div class="drawer-backdrop" onclick="closeDrawer()"></div>
-<aside class="drawer">
- <button class="drawer-close" onclick="closeDrawer()">×</button>
- <div class="eyebrow" id="drawerMeta"></div>
- <h2 id="drawerTitle"></h2>
- <div class="original" id="drawerOriginal"></div>
- <div class="summary" id="drawerSummary"></div>
- <div class="tags" id="drawerTags"></div>
- <div class="source-box"><dl><dt>Published</dt><dd id="dDate"></dd><dt>Source</dt><dd id="dSource"></dd><dt>Original language</dt><dd id="dLang"></dd><dt>Category</dt><dd id="dCategory"></dd></dl><a id="dLink" class="source-link" target="_blank" rel="noopener">原文を開く ↗</a></div>
-</aside>
-
+<div class="drawer-backdrop" id="backdrop"></div><aside class="drawer" id="drawer"><button class="drawer-close" id="drawerClose">×</button><div class="eyebrow" id="drawerMeta"></div><h2 id="drawerTitle"></h2><div class="original" id="drawerOriginal"></div><div class="summary" id="drawerSummary"></div><div class="tags" id="drawerTags"></div><div class="source-box"><dl><dt>Published</dt><dd id="dDate"></dd><dt>Source</dt><dd id="dSource"></dd><dt>Original language</dt><dd id="dLang"></dd><dt>Category</dt><dd id="dCategory"></dd></dl><a id="dLink" class="source-link" target="_blank" rel="noopener">原文を開く ↗</a></div></aside>
 <script>
-const ARTICLES=[{"id":"skhynix-japan-20260821","date":"2026-08-21","source":"Reuters","source_lang":"EN","category":"日韓連携","url":"https://www.reuters.com/world/asia-pacific/south-koreas-sk-hynix-considers-building-memory-chip-plant-japan-hankyoreh-2026-08-21/","original_title":"South Korea's SK Hynix considers building memory chip plant in Japan, Hankyoreh reports","ja_title":"SKハイニックス、日本でメモリ工場建設を検討","ko_title":"SK하이닉스, 일본 메모리 반도체 공장 건설 검토","ja_summary":"SKハイニックスが宮城県で大規模なメモリ半導体工場を建設する案を検討していると報じられた。実現すれば韓国大手半導体メーカーによる日本での大規模製造投資となり、日韓の半導体生産ネットワーク拡大につながる可能性がある。","ko_summary":"SK하이닉스가 일본 미야기현에 대규모 메모리 반도체 공장을 건설하는 방안을 검토 중인 것으로 보도됐다. 현실화될 경우 한국 대형 반도체 제조사의 일본 내 대규모 생산 투자로 이어져 한·일 반도체 생산 네트워크가 확대될 가능성이 있다.","tags":["SK hynix","Japan","Memory","한일협력"]},{"id":"taiwan-budget-20260820","date":"2026-08-20","source":"Reuters","source_lang":"EN","category":"安全保障","url":"https://www.reuters.com/world/asia-pacific/taiwan-proposes-boosting-2027-defence-spending-18-record-high-2026-08-20/","original_title":"Taiwan proposes boosting 2027 defence spending 18% to a record high","ja_title":"台湾、2027年国防費を18％増額し過去最高へ","ko_title":"대만, 2027년 국방예산 18% 증액…사상 최대","ja_summary":"台湾政府は2027年の国防費を前年比18％増とする案を示し、GDP比3％を超える過去最高水準を目指す。ドローン、ミサイル、潜水艦などの近代化を進め、中国からの圧力への抑止力強化を図る。","ko_summary":"대만 정부는 2027년 국방예산을 전년 대비 18% 늘려 GDP의 3%를 넘는 사상 최대 수준으로 편성하는 방안을 제시했다. 드론·미사일·잠수함 등 전력 현대화를 통해 중국의 압박에 대한 억지력을 강화한다.","tags":["Taiwan","Defense","China","국방"]},{"id":"tsmc-a16-20260820","date":"2026-08-20","source":"Yonhap News","source_lang":"KO","category":"半導体","url":"https://www.yna.co.kr/view/AKR20260820095900009","original_title":"대만 TSMC, 1.6나노칩 개발 성공…올해 4분기 양산","ja_title":"TSMC、1.6nm「A16」開発に成功　2026年Q4量産へ","ko_title":"TSMC, 1.6나노 A16 개발 성공…2026년 4분기 양산","ja_summary":"TSMCが1.6nm級A16プロセスの開発・検証を完了し、2026年第4四半期の量産を予定していると報じられた。一方で先端パッケージング能力の不足も報じられ、後工程を含む供給網の分散が重要な論点になっている。","ko_summary":"TSMC가 1.6나노급 A16 공정 개발과 검증을 마치고 2026년 4분기 양산을 계획하는 것으로 보도됐다. 동시에 첨단 패키징 생산능력 부족도 거론되면서 후공정을 포함한 공급망 분산이 중요한 과제로 떠오르고 있다.","tags":["TSMC","A16","1.6nm","패키징"]},{"id":"samsung-prices-20260819","date":"2026-08-19","source":"Reuters","source_lang":"EN","category":"半導体","url":"https://www.reuters.com/business/autos-transportation/samsung-hikes-chipmaking-prices-by-up-15-demand-spike-sources-say-2026-08-19/","original_title":"Samsung hikes chipmaking prices by up to 15% on demand spike, sources say","ja_title":"サムスン、先端ファウンドリ価格を最大15％引き上げ","ko_title":"삼성전자, 첨단 파운드리 가격 최대 15% 인상","ja_summary":"AI半導体需要の増加とTSMCの生産能力制約を背景に、サムスン電子が一部の先端ファウンドリサービス価格を引き上げたと報じられた。TSMCの能力不足が競合ファウンドリへの需要移転につながる構図がみえる。","ko_summary":"AI 반도체 수요 증가와 TSMC의 생산능력 제약을 배경으로 삼성전자가 일부 첨단 파운드리 서비스 가격을 인상한 것으로 보도됐다. TSMC의 공급 제약이 경쟁 파운드리로 수요를 이동시키는 흐름을 보여준다.","tags":["Samsung","Foundry","AI","TSMC"]},{"id":"hankuang-end-20260814","date":"2026-08-14","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608140027","original_title":"Taiwan concludes 10-day Han Kuang military drills","ja_title":"台湾、10日間の漢光軍事演習を終了","ko_title":"대만, 10일간의 한광 군사훈련 종료","ja_summary":"台湾は10日間にわたる漢光演習を終了した。今回は各級指揮所を全面稼働させ、状況変化に応じて部隊が対応する形式を採用し、実戦に近い即応力を検証した。","ko_summary":"대만은 10일간 진행된 한광훈련을 종료했다. 각급 지휘소를 전면 가동하고 상황 변화에 따라 부대가 대응하는 방식으로 실전적 즉응능력을 점검했다.","tags":["Han Kuang","Military Drill","한광훈련"]},{"id":"bridge-blockade-20260813","date":"2026-08-13","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608130008","original_title":"Taiwan military police stage bridge blockade drill to secure capital","ja_title":"台湾、台北防衛を想定した橋梁封鎖訓練を実施","ko_title":"대만, 타이베이 방어 위한 교량 봉쇄훈련 실시","ja_summary":"台北中心部への敵装甲部隊の進入を阻止する想定で、光復橋などを使った封鎖・防御訓練が行われた。民間バスの徴用や障害物設置も含まれ、都市防衛と民軍連携が重視された。","ko_summary":"적 기갑부대의 타이베이 중심부 진입을 막는 상황을 가정해 광푸교 등을 활용한 봉쇄·방어훈련이 실시됐다. 민간 버스 동원과 장애물 설치도 포함돼 도시방어와 민군협력이 강조됐다.","tags":["Taipei","Urban Defense","민군협력"]},{"id":"tunnel-blockade-20260813","date":"2026-08-13","source":"Focus Taiwan","source_lang":"EN","category":"物流・レジリエンス","url":"https://focustaiwan.tw/politics/202608130018","original_title":"Military simulates tunnel blockade to stop Chinese advance on Taipei","ja_title":"台湾、雪山トンネル封鎖を想定した防衛訓練","ko_title":"대만, 중국군 진격 저지 위한 쉐산터널 봉쇄훈련","ja_summary":"台湾軍は雪山トンネルを封鎖し、敵部隊の台北方面への進撃を阻止するシナリオを訓練した。同時に負傷者搬送、通信障害時の代替手段、民間避難所運営なども検証された。","ko_summary":"대만군은 쉐산터널을 봉쇄해 적 부대의 타이베이 방향 진격을 저지하는 상황을 훈련했다. 부상자 후송, 통신장애 시 대체수단, 민간 대피소 운영 등도 함께 점검했다.","tags":["Transport","Resilience","대피","물류"]},{"id":"anti-landing-20260812","date":"2026-08-12","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608120022","original_title":"Taiwan holds anti-landing, marine infiltration drills during Han Kuang","ja_title":"台湾、上陸阻止・敵後方潜入を想定した演習を実施","ko_title":"대만, 상륙 저지·적 후방 침투 상황 가정 훈련","ja_summary":"馬祖などで敵の上陸を阻止する実弾演習が行われ、ドローンによる偵察や精密攻撃も組み込まれた。別の訓練では敵後方での偵察・妨害活動を想定し、小規模部隊の継戦能力を検証した。","ko_summary":"마쭈 등에서 적 상륙을 저지하는 실사격 훈련이 실시됐으며 드론 정찰과 정밀타격도 포함됐다. 별도 훈련에서는 적 후방에서의 정찰·교란작전을 가정해 소규모 부대의 지속작전 능력을 점검했다.","tags":["Landing","Drone","상륙","드론"]},{"id":"antiairdrop-20260811","date":"2026-08-11","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608110020","original_title":"Taiwan holds anti-airdrop drills during Han Kuang exercises","ja_title":"台湾、空挺侵入への対処を想定した訓練を実施","ko_title":"대만, 공중침투 대응훈련 실시","ja_summary":"台北・苗栗で敵空挺部隊の侵入を阻止する訓練が実施され、偵察ドローンや装甲車、予備役部隊が投入された。悪天候下での戦場救護訓練も行われた。","ko_summary":"타이베이와 먀오리에서 적 공수부대의 침투를 저지하는 훈련이 실시됐으며 정찰드론·장갑차·예비군이 동원됐다. 악천후 상황을 가정한 전장 응급의료 훈련도 함께 진행됐다.","tags":["Airborne","Reserve","예비군"]},{"id":"mobile-slowdown-20260810","date":"2026-08-10","source":"Focus Taiwan","source_lang":"EN","category":"物流・レジリエンス","url":"https://focustaiwan.tw/society/202608100019","original_title":"Central Taiwan holds urban resilience drill in first mobile data slowdown","ja_title":"台湾、通信速度制限を伴う都市レジリエンス訓練を初実施","ko_title":"대만, 모바일 데이터 속도 제한 포함 도시 회복력 훈련 실시","ja_summary":"台湾中部で、戦時の通信障害を想定してモバイルデータ通信を意図的に低速化する訓練が初めて行われた。通信インフラが制限された状況での避難・行政対応能力を検証する狙いがある。","ko_summary":"대만 중부에서 전시 통신장애를 가정해 모바일 데이터 속도를 의도적으로 낮추는 훈련이 처음 실시됐다. 통신 인프라가 제한된 상황에서 대피와 행정 대응능력을 점검하는 데 목적이 있다.","tags":["Communication","Resilience","통신","회복력"]},{"id":"civil-trucks-20260810","date":"2026-08-10","source":"Focus Taiwan","source_lang":"EN","category":"物流・レジリエンス","url":"https://focustaiwan.tw/politics/202608100017","original_title":"Han Kuang Day 6: Taiwan military tests civilian trucks for tank transport","ja_title":"台湾軍、民間トラックを使った戦車輸送を検証","ko_title":"대만군, 민간 트럭 활용 전차 수송능력 점검","ja_summary":"台湾軍は東部から北東部への増援を想定し、約70台の民間大型トラックを使って戦車を夜間輸送する訓練を行った。民間物流資源を軍事輸送に転用する民軍連携能力を検証した。","ko_summary":"대만군은 동부에서 북동부로 증원하는 상황을 가정해 약 70대의 민간 대형트럭을 이용한 전차 야간수송 훈련을 실시했다. 민간 물류자원을 군사수송에 전환하는 민군협력 능력을 점검했다.","tags":["Logistics","Civil-Military","물류"]},{"id":"chemical-drill-20260810","date":"2026-08-10","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608100008","original_title":"Taiwan's military conducts chemical weapon decontamination drill","ja_title":"台湾軍、化学兵器攻撃を想定した除染訓練","ko_title":"대만군, 화학무기 공격 가정 제독훈련","ja_summary":"台湾東部で化学兵器攻撃を想定した除染訓練が実施され、装甲車両の汚染除去や有害物質検知の手順が検証された。複合的な有事シナリオへの対応能力を高める狙いがある。","ko_summary":"대만 동부에서 화학무기 공격을 가정한 제독훈련이 실시돼 장갑차 오염 제거와 유해물질 탐지 절차를 점검했다. 복합적 유사시 상황에 대한 대응능력 강화를 목표로 한다.","tags":["CBRN","Decontamination","제독"]},{"id":"skhynix-invest-20260807","date":"2026-08-07","source":"Reuters","source_lang":"EN","category":"半導体","url":"https://www.reuters.com/world/asia-pacific/sk-hynix-board-approves-38-bln-investments-south-koreas-yongin-cheongju-chip-2026-08-07/","original_title":"SK Hynix board approves $38 bln investments for South Korea's Yongin, Cheongju chip plants","ja_title":"SKハイニックス、龍仁・清州に約383億ドル投資を承認","ko_title":"SK하이닉스, 용인·청주 반도체 공장에 383억달러 투자 승인","ja_summary":"SKハイニックスは龍仁と清州の半導体生産能力拡大に向けた大規模投資を承認した。HBMやNANDなどAI需要に関連する生産能力の拡充は、台湾有事時の韓国側供給余力を考える上でも重要な動きとなる。","ko_summary":"SK하이닉스는 용인과 청주의 반도체 생산능력 확대를 위한 대규모 투자를 승인했다. HBM과 NAND 등 AI 수요 관련 생산능력 확충은 양안 위기 시 한국 측 공급 여력을 평가하는 데도 중요한 움직임이다.","tags":["SK hynix","HBM","Korea","투자"]},{"id":"mirage-drill-20260807","date":"2026-08-07","source":"Focus Taiwan","source_lang":"EN","category":"安全保障","url":"https://focustaiwan.tw/politics/202608070022","original_title":"Air Force holds Mirage 2000 combat drills in Hsinchu","ja_title":"台湾空軍、新竹でMirage 2000戦闘訓練","ko_title":"대만 공군, 신주에서 미라주 2000 전투훈련","ja_summary":"新竹空軍基地で、敵の攻撃による滑走路損傷から緊急修復、戦闘機のスクランブルまでを想定した訓練が実施された。基地機能を短時間で回復させる継戦能力が焦点となった。","ko_summary":"신주 공군기지에서 적 공격으로 활주로가 손상된 뒤 긴급복구와 전투기 긴급출격까지 이어지는 상황을 훈련했다. 기지 기능을 단시간에 회복하는 지속작전 능력이 핵심이었다.","tags":["Air Force","Runway","공군"]},{"id":"executive-resilience-20260806","date":"2026-08-06","source":"Executive Yuan, Taiwan","source_lang":"EN","category":"物流・レジリエンス","url":"https://english.ey.gov.tw/Page/61BF20C3E89B856/fc8bdcee-ab30-4def-b165-13972bc5a5d8","original_title":"Combined defense exercises feature first mobile network slowdown drill","ja_title":"台湾政府、漢光演習と都市レジリエンス訓練の連携を強化","ko_title":"대만 정부, 한광훈련과 도시 회복력 훈련 연계 강화","ja_summary":"台湾行政院は2026年の漢光演習と都市レジリエンス訓練で、通信障害や無人システムなど現実的な有事状況への対応を重視すると説明した。軍だけでなく社会インフラを含む全体的なレジリエンス向上が焦点となっている。","ko_summary":"대만 행정원은 2026년 한광훈련과 도시 회복력 훈련에서 통신장애와 무인체계 등 현실적인 유사시 상황 대응을 중시한다고 밝혔다. 군뿐 아니라 사회 인프라 전체의 회복력 향상이 핵심이다.","tags":["Government","Resilience","행정원"]},{"id":"reuters-nightmare-20260703","date":"2026-07-03","source":"Reuters","source_lang":"EN","category":"物流・レジリエンス","url":"https://www.reuters.com/world/china/inside-taiwans-nightmare-scenario-chinese-blockade-earthquake-sabotage-invasion-2026-07-03/","original_title":"Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion","ja_title":"封鎖・地震・破壊工作・侵攻を同時想定する台湾の危機訓練","ko_title":"봉쇄·지진·파괴공작·침공을 동시에 가정한 대만 위기훈련","ja_summary":"台湾は中国による封鎖、地震、破壊工作、侵攻が重なる最悪のシナリオを想定し、政府・軍・民間を巻き込む危機対応訓練を実施した。物資、通信、偽情報、災害対応を横断的に扱う包括的なレジリエンス強化が特徴となった。","ko_summary":"대만은 중국의 봉쇄, 지진, 파괴공작, 침공이 겹치는 최악의 상황을 가정해 정부·군·민간이 참여하는 위기대응 훈련을 실시했다. 물자·통신·허위정보·재난대응을 포괄하는 회복력 강화가 특징이다.","tags":["Blockade","Crisis","봉쇄","위기"]},{"id":"tel-korea-2025","date":"2025-09-04","source":"Tokyo Electron","source_lang":"KO","category":"日韓連携","url":"https://www.tel.com/about/kr/news/2025/20250904_001.html","original_title":"도쿄일렉트론코리아, 용인사무소 기공식 개최","ja_title":"東京エレクトロン韓国、龍仁に新R&D拠点を建設","ko_title":"도쿄일렉트론코리아, 용인 신규 R&D 거점 건설","ja_summary":"東京エレクトロン韓国は龍仁にオフィス棟とR&Dセンターを含む新拠点を建設し、2027年1月の完成を目指している。韓国の主要半導体クラスターに近い場所で研究開発・技術支援能力をさらに拡大する動きだ。","ko_summary":"도쿄일렉트론코리아는 용인에 사무동과 R&D센터를 포함한 신규 거점을 건설해 2027년 1월 준공을 목표로 하고 있다. 한국 주요 반도체 클러스터 인근에서 연구개발·기술지원 역량을 확대하는 움직임이다.","tags":["TEL","R&D","Yongin","용인"]},{"id":"tok-korea-2025","date":"2025-08-06","source":"Tokyo Ohka Kogyo","source_lang":"EN","category":"日韓連携","url":"https://www.tok.co.jp/eng/news/2025/250806_5","original_title":"Notice Regarding Construction of New Pyeongtaek Plant in Korean Subsidiary","ja_title":"東京応化工業、韓国・平沢に新工場を建設","ko_title":"TOK, 한국 평택에 신규 공장 건설","ja_summary":"東京応化工業は韓国子会社の平沢新工場建設を決定した。韓国でのフォトレジストR&D・製造・販売基盤を強化し、顧客に近い場所で供給する現地化を進める。","ko_summary":"도쿄오카공업은 한국 자회사에 평택 신규 공장을 건설하기로 결정했다. 한국 내 포토레지스트 R&D·제조·판매 기반을 강화하고 고객과 가까운 곳에서 공급하는 현지화를 확대한다.","tags":["TOK","Pyeongtaek","Photoresist","평택"]},{"id":"jsr-korea-2024","date":"2024-08-30","source":"JSR Corporation","source_lang":"JA","category":"日韓連携","url":"https://www.jsr.co.jp/news/2024/20240830.html","original_title":"JSR、最先端フォトレジストのグローバル開発・生産体制を拡充","ja_title":"JSR、韓国・清州にEUV向けMOR生産拠点","ko_title":"JSR, 한국 청주에 EUV용 MOR 생산거점 구축","ja_summary":"JSRは韓国のJSR Micro Koreaに最先端EUV用Metal Oxide Resistの最終生産工程を担う工場を建設し、2026年の稼働を計画した。韓国内で品質保証と製造能力を持つことで、素材供給の現地化を進める。","ko_summary":"JSR은 한국 JSR Micro Korea에 최첨단 EUV용 Metal Oxide Resist의 최종 생산공정 공장을 건설해 2026년 가동을 계획했다. 한국 내 품질보증과 제조능력을 확보함으로써 소재 공급의 현지화를 확대한다.","tags":["JSR","EUV","MOR","Cheongju"]}];
-const WEEKLY={"period":"2026.08.15 — 2026.08.21","ja":{"headline":"台湾の防衛強化と、半導体供給網の「分散」が同時に進んだ1週間","summary":"台湾では2027年国防予算の大幅増額案が示され、危機対応能力の強化が続いた。一方、TSMCの1.6nm開発、サムスンのファウンドリ需要増、SKハイニックスの日本投資検討など、半導体供給網では台湾一極集中を補完する動きも目立った。","points":[["安全保障","台湾は2027年国防費を18％増とする案を提示。抑止力と防衛近代化をさらに強化する方向。"],["TSMC","A16（1.6nm）の開発・検証完了が報じられ、先端ロジックでの台湾の中心性は依然として高い。"],["韓国","TSMCの能力制約を背景にサムスンのファウンドリ需要が増え、韓国側の代替・補完能力への注目が高まった。"],["日韓連携","SKハイニックスが日本でのメモリ工場建設を検討。日韓の生産ネットワークが逆方向にも広がる可能性が出てきた。"]]},"ko":{"headline":"대만의 방위 강화와 반도체 공급망 ‘분산’이 동시에 진행된 한 주","summary":"대만에서는 2027년 국방예산 대폭 증액안이 제시되며 위기 대응력 강화가 이어졌다. 동시에 TSMC의 1.6나노 개발, 삼성 파운드리 수요 증가, SK하이닉스의 일본 투자 검토 등 반도체 공급망에서는 대만 집중을 보완하려는 움직임도 두드러졌다.","points":[["안보","대만은 2027년 국방예산을 18% 늘리는 방안을 제시하며 억지력과 방위 현대화를 강화하는 방향을 보였다."],["TSMC","A16(1.6나노) 개발·검증 완료가 보도되며 첨단 로직 분야에서 대만의 중심성이 여전히 높다는 점이 확인됐다."],["한국","TSMC의 생산능력 제약을 배경으로 삼성 파운드리 수요가 증가하며 한국의 대체·보완 능력에 대한 관심이 높아졌다."],["한일 연계","SK하이닉스가 일본 내 메모리 공장 건설을 검토하면서 한·일 생산 네트워크가 양방향으로 확대될 가능성이 나타났다."]]}};
-function safeGetLang(){try{return localStorage.getItem("sr-lang")||"ja"}catch(e){return "ja"}}
-function safeSetLang(v){try{localStorage.setItem("sr-lang",v)}catch(e){}}
-let lang=safeGetLang();
-let category="ALL";
-
-function go(id){
-  document.getElementById(id)?.scrollIntoView({behavior:"smooth",block:"start"});
-  document.querySelector(".mobile-nav")?.classList.remove("open");
-}
-
-
-function smartWrap(root=document){
-  if(!(Intl && Intl.Segmenter)) return;
-  const locale=lang==="ko"?"ko":"ja";
-  const segmenter=new Intl.Segmenter(locale,{granularity:"word"});
-  const protectedTerms=lang==="ko"
-    ? ["대만해협","반도체","공급망","산업 네트워크","연결망","회복력","취약품목","패키징","포토레지스트","로드맵","인텔리전스","기술지원","품질보증","현지화","공동개발"]
-    : ["台湾海峡","半導体","供給網","産業ネットワーク","ネットワーク","レジリエンス","脆弱品目","パッケージング","フォトレジスト","ロードマップ","インテリジェンス","技術支援","品質保証","現地化","共同開発","判断材料"];
-  const selector=".hero h1,.hero-lead,.section-head h2,.section-head p,.core-statement,.flow-step b,.flow-step span,.signal-card h3,.signal-card p,.network-node b,.network-node p,.network-link strong,.input-card h3,.input-card p,.principle-node b,.stage h3,.verb,.stage li,.goal,.weekly-feature h3,.weekly-feature p,.weekpoint b,.weekpoint p,.method p,.drawer h2,.drawer .summary";
-  const elements=root.matches?.(selector)?[root]:Array.from(root.querySelectorAll?.(selector)||[]);
-  const escapeReg=s=>s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
-  const termRe=new RegExp("("+protectedTerms.slice().sort((a,b)=>b.length-a.length).map(escapeReg).join("|")+")","g");
-
-  function appendSegmented(frag, chunk){
-    if(!chunk) return;
-    for(const part of segmenter.segment(chunk)){
-      if(part.isWordLike && /[A-Za-z0-9ぁ-んァ-ヶ一-龠々가-힣]/.test(part.segment)){
-        const span=document.createElement("span");
-        span.className="word-unit";
-        span.textContent=part.segment;
-        frag.appendChild(span);
-      }else{
-        frag.appendChild(document.createTextNode(part.segment));
-      }
-    }
-  }
-
-  elements.forEach(el=>{
-    const walker=document.createTreeWalker(el,NodeFilter.SHOW_TEXT);
-    const nodes=[];
-    while(walker.nextNode()){
-      const node=walker.currentNode;
-      if(node.parentElement?.closest(".word-unit")) continue;
-      if(node.nodeValue && node.nodeValue.trim()) nodes.push(node);
-    }
-    nodes.forEach(node=>{
-      const frag=document.createDocumentFragment();
-      const raw=node.nodeValue;
-      let last=0;
-      for(const m of raw.matchAll(termRe)){
-        appendSegmented(frag, raw.slice(last,m.index));
-        const span=document.createElement("span");
-        span.className="word-unit";
-        span.textContent=m[0];
-        frag.appendChild(span);
-        last=m.index+m[0].length;
-      }
-      appendSegmented(frag,raw.slice(last));
-      node.replaceWith(frag);
-    });
-  });
-}
-
-function applyLang(){
- document.documentElement.lang=lang;
- document.querySelectorAll("[data-ja]").forEach(el=>{
-   const v=lang==="ko"?el.dataset.ko:el.dataset.ja;
-   if(el.dataset.html==="1" || el.tagName==="H1") el.innerHTML=v; else el.textContent=v;
- });
- document.querySelectorAll("[data-lang]").forEach(b=>b.classList.toggle("on",b.dataset.lang===lang));
- renderSignals(); renderWeekly(); smartWrap();
-}
-
-document.querySelectorAll("[data-lang]").forEach(b=>b.onclick=()=>{lang=b.dataset.lang;safeSetLang(lang);applyLang()});
-
-function renderSignals(){
- const q=(document.getElementById("search").value||"").trim().toLowerCase();
- const rows=ARTICLES.map((a,i)=>[a,i]).filter(([a,i])=>{
-   const ok=category==="ALL"||a.category===category;
-   const hay=(a.original_title+" "+a.ja_title+" "+a.ko_title+" "+a.source+" "+a.tags.join(" ")).toLowerCase();
-   return ok && (!q||hay.includes(q));
- });
- document.getElementById("signalGrid").innerHTML=rows.map(([a,i])=>`
- <article class="signal-card">
-   <div class="meta"><span>${a.date} · ${a.source}</span><span>ORIGINAL ${a.source_lang}</span></div>
-   <h3>${lang==="ko"?a.ko_title:a.ja_title}</h3>
-   <p>${lang==="ko"?a.ko_summary:a.ja_summary}</p>
-   <div class="tags">${a.tags.map(t=>`<span class="tag">#${t}</span>`).join("")}</div>
-   <button class="open-detail" onclick="openDrawer(${i})">${lang==="ko"?"상세 보기 →":"詳細を見る →"}</button>
- </article>`).join("");
- smartWrap(document.getElementById("signalGrid"));
-}
-
-document.querySelectorAll(".filter").forEach(b=>b.onclick=()=>{
- document.querySelectorAll(".filter").forEach(x=>x.classList.remove("on")); b.classList.add("on"); category=b.dataset.filter; renderSignals();
-});
-document.getElementById("search").addEventListener("input",renderSignals);
-
-function openDrawer(i){
- const a=ARTICLES[i];
- document.getElementById("drawerMeta").textContent=`${a.category} · ${a.date} · ${a.source}`;
- document.getElementById("drawerTitle").textContent=lang==="ko"?a.ko_title:a.ja_title;
- document.getElementById("drawerOriginal").textContent=a.original_title;
- document.getElementById("drawerSummary").textContent=lang==="ko"?a.ko_summary:a.ja_summary;
- document.getElementById("drawerTags").innerHTML=a.tags.map(t=>`<span class="tag">#${t}</span>`).join("");
- document.getElementById("dDate").textContent=a.date; document.getElementById("dSource").textContent=a.source; document.getElementById("dLang").textContent=a.source_lang; document.getElementById("dCategory").textContent=a.category; document.getElementById("dLink").href=a.url; document.getElementById("dLink").textContent=lang==="ko"?"원문 열기 ↗":"原文を開く ↗";
- smartWrap(document.querySelector(".drawer"));
- document.querySelector(".drawer").classList.add("open"); document.querySelector(".drawer-backdrop").classList.add("open"); document.body.style.overflow="hidden";
-}
-function closeDrawer(){document.querySelector(".drawer").classList.remove("open");document.querySelector(".drawer-backdrop").classList.remove("open");document.body.style.overflow=""}
-
-function renderWeekly(){
- if(!WEEKLY || !WEEKLY[lang]) return;
- const d=WEEKLY[lang]; document.getElementById("weekDate").textContent=WEEKLY.period||"";
- document.getElementById("weekTitle").textContent=d.headline||"";
- document.getElementById("weekLead").textContent=d.summary||"";
- document.getElementById("weekPoints").innerHTML=(d.points||[]).map(p=>`<div class="weekpoint"><b>${p[0]}</b><p>${p[1]}</p></div>`).join("");
- smartWrap(document.getElementById("weekly"));
-}
-
-applyLang();
+let lang=localStorage.getItem('sr-lang')||'ja', category='ALL', ARTICLES=[], WEEKLY=null;
+const CAT_LABEL={ja:{Security:'安全保障',Semiconductor:'半導体','Japan-Korea':'日韓連携',Logistics:'物流・レジリエンス',Other:'その他'},ko:{Security:'안보',Semiconductor:'반도체','Japan-Korea':'한일협력',Logistics:'물류·회복력',Other:'기타'}};
+function esc(s=''){return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function applyLang(){document.documentElement.lang=lang;document.querySelectorAll('[data-ja]').forEach(el=>{const v=lang==='ko'?el.dataset.ko:el.dataset.ja;if(el.tagName==='H1')el.innerHTML=v;else el.textContent=v});document.querySelectorAll('[data-lang]').forEach(b=>b.classList.toggle('on',b.dataset.lang===lang));renderSignals();renderWeekly()}
+document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{lang=b.dataset.lang;localStorage.setItem('sr-lang',lang);applyLang()});
+function renderSignals(){const q=(document.getElementById('search').value||'').trim().toLowerCase();const rows=ARTICLES.map((a,i)=>[a,i]).filter(([a])=>{const ok=category==='ALL'||a.category===category;const hay=[a.original_title,a.ja_title,a.ko_title,a.source,...(a.tags||[])].join(' ').toLowerCase();return ok&&(!q||hay.includes(q))});document.getElementById('signalGrid').innerHTML=rows.length?rows.map(([a,i])=>`<article class="signal-card"><div class="meta"><span>${esc(a.date)} · ${esc(a.source)}</span><span>${esc(CAT_LABEL[lang][a.category]||a.category)}</span></div><h3>${esc(lang==='ko'?a.ko_title:a.ja_title)}</h3><p>${esc(lang==='ko'?a.ko_summary:a.ja_summary)}</p><div class="tags">${(a.tags||[]).map(t=>`<span class="tag">#${esc(t)}</span>`).join('')}</div><button class="open-detail" onclick="openDrawer(${i})">${lang==='ko'?'상세 보기 →':'詳細を見る →'}</button></article>`).join(''):`<div class="empty">${lang==='ko'?'조건에 맞는 Signal이 없습니다.':'条件に一致するSignalはありません。'}</div>`}
+document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('on'));b.classList.add('on');category=b.dataset.filter;renderSignals()});document.getElementById('search').addEventListener('input',renderSignals);
+function openDrawer(i){const a=ARTICLES[i];document.getElementById('drawerMeta').textContent=`${CAT_LABEL[lang][a.category]||a.category} · ${a.date} · ${a.source}`;document.getElementById('drawerTitle').textContent=lang==='ko'?a.ko_title:a.ja_title;document.getElementById('drawerOriginal').textContent=a.original_title||'';document.getElementById('drawerSummary').textContent=lang==='ko'?a.ko_summary:a.ja_summary;document.getElementById('drawerTags').innerHTML=(a.tags||[]).map(t=>`<span class="tag">#${esc(t)}</span>`).join('');document.getElementById('dDate').textContent=a.date;document.getElementById('dSource').textContent=a.source;document.getElementById('dLang').textContent=a.source_lang||'—';document.getElementById('dCategory').textContent=CAT_LABEL[lang][a.category]||a.category;document.getElementById('dLink').href=a.url;document.getElementById('dLink').textContent=lang==='ko'?'원문 열기 ↗':'原文を開く ↗';document.getElementById('drawer').classList.add('open');document.getElementById('backdrop').classList.add('open');document.body.style.overflow='hidden'}
+function closeDrawer(){document.getElementById('drawer').classList.remove('open');document.getElementById('backdrop').classList.remove('open');document.body.style.overflow=''}document.getElementById('drawerClose').onclick=closeDrawer;document.getElementById('backdrop').onclick=closeDrawer;document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
+function renderWeekly(){if(!WEEKLY||!WEEKLY[lang])return;const d=WEEKLY[lang];document.getElementById('weekDate').textContent=WEEKLY.period||'';document.getElementById('weekStatus').textContent=`AUTO · ${String(WEEKLY.status||'').toUpperCase()}`;document.getElementById('weekTitle').textContent=d.headline||'';document.getElementById('weekLead').textContent=d.summary||'';document.getElementById('weekPoints').innerHTML=(d.points||[]).map(p=>`<div class="weekpoint"><b>${esc(p[0])}</b><p>${esc(p[1])}</p></div>`).join('')}
+async function loadData(){try{const [ar,wr]=await Promise.all([fetch('data/articles.json',{cache:'no-store'}),fetch('data/weekly.json',{cache:'no-store'})]);if(!ar.ok||!wr.ok)throw new Error('data fetch failed');ARTICLES=await ar.json();WEEKLY=await wr.json();document.getElementById('articleCount').textContent=ARTICLES.length;document.getElementById('latestDate').textContent=ARTICLES[0]?.date||'—';document.getElementById('liveStatus').textContent='DATA ONLINE';applyLang()}catch(e){console.error(e);document.getElementById('liveStatus').textContent='DATA ERROR';document.getElementById('signalGrid').innerHTML='<div class="empty">Data could not be loaded. Serve this site over HTTP/HTTPS, not file://.</div>'}}
+loadData();
 </script>
 </body></html>

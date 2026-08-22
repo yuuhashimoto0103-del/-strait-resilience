@@ -1,0 +1,21 @@
+{
+  "feeds": [
+    {
+      "name": "Google News — Taiwan Strait",
+      "url": "https://news.google.com/rss/search?q=Taiwan+Strait+semiconductor+supply+chain&hl=en-US&gl=US&ceid=US:en",
+      "default_category": "Security"
+    },
+    {
+      "name": "Google News — Korea Japan Semiconductor",
+      "url": "https://news.google.com/rss/search?q=Korea+Japan+semiconductor+supply+chain&hl=en-US&gl=US&ceid=US:en",
+      "default_category": "Japan-Korea"
+    },
+    {
+      "name": "Google News — TSMC Packaging",
+      "url": "https://news.google.com/rss/search?q=TSMC+advanced+packaging+semiconductor&hl=en-US&gl=US&ceid=US:en",
+      "default_category": "Semiconductor"
+    }
+  ],
+  "max_articles": 18,
+  "lookback_days": 10
+}
