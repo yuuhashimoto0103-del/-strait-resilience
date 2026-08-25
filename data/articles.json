@@ -1,5 +1,23 @@
 [
   {
+    "id": "65995516240ace46",
+    "date": "2026-08-25",
+    "source": "Hankyoreh : English Edition",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51OWNaNXZuTkFKbW1IcVUwaXY3Szg5bXFwNUtLOVFQQ3QtTXdWTlpwX1dmOGxBbVBDcDJWbmMwUnByRnRqVUpzUGRadU92LTF6S1QtQkZ2N045Zjl3R1dlNWtxRDZOVDZHZEQ0UlM3NWZxNmlzUEpSNlk1Yw?oc=5",
+    "original_title": "Why SK Hynix is turning to Japan for its next memory hub - Hankyoreh : English Edition",
+    "original_summary": "Why SK Hynix is turning to Japan for its next memory hub Hankyoreh : English Edition",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Why SK Hynix is turning to Japan for its next memory hub - Hankyoreh : English Edition",
+    "ko_title": "Why SK Hynix is turning to Japan for its next memory hub - Hankyoreh : English Edition",
+    "ja_summary": "Why SK Hynix is turning to Japan for its next memory hub Hankyoreh : English Edition",
+    "ko_summary": "Why SK Hynix is turning to Japan for its next memory hub Hankyoreh : English Edition",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "1f129954347c75b8",
     "date": "2026-08-23",
     "source": "The Motley Fool",
@@ -108,6 +126,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "87a966decf71570f",
+    "date": "2026-08-20",
+    "source": "TechInsights",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
+    "original_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "original_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "ko_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
+    "ja_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "ko_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "954a398c32d76e9b",
     "date": "2026-08-18",
     "source": "조선일보",
@@ -144,24 +180,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "87a966decf71570f",
-    "date": "2026-08-17",
-    "source": "TechInsights",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaHI5R29xZlY5RjltZkdwdnl0SDB0NnJzZGQya04xVmtrQmRNYXZJLVNfX2ptNnh0YTc2dm5NM1Bxcm9OY2owYVBxVDM1aEludXhPZDFlVDZlUzBNbUJXNWhtRmotYzloY1BmV3RZZFdDSi03U1JlYlR3TXRQVGdsZ1hNdlVHZkdJTTVIYlJScGxTMldodC1OZnhzeHhnVm1qYWZVZFVxQnFNWmtsNmhMRGtsVVdmeHBuNGxzSndkQUh2Zw?oc=5",
-    "original_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
-    "original_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
-    "ko_title": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors - TechInsights",
-    "ja_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
-    "ko_summary": "The Chip Insider®–Apple, Nvidia, and TSMC: Bifurcation of the Advanced Technology Roadmap for Semiconductors TechInsights",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "2cf7294bf57bd240",
     "date": "2026-08-16",
     "source": "finance.biggo.com",
@@ -177,24 +195,6 @@
     "ko_title": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron - finance.biggo.com",
     "ja_summary": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron finance.biggo.com",
     "ko_summary": "Korean Retail Investors Rotate Back to Semiconductors from Financials, Concentrating on Murata and Tokyo Electron finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "c908778df1990833",
-    "date": "2026-08-14",
-    "source": "아시아경제",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSGFhaWxqS054akZfeWhtUjlLWlNiS2R3blRwRlRTLWZkc1FUdl9QbTZuRzR0a2hoWXUzSHVuQmFaQTU5Yi1FalpOZHJMRV91YWcwMGd1VElONHpRb2tGOTFXWWI?oc=5",
-    "original_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
-    "original_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
-    "ko_title": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers - 아시아경제",
-    "ja_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
-    "ko_summary": "TSMC Expands Advanced Packaging Outsourcing, Boosting Orders for Korean Post-Processing Equipment Makers 아시아경제",
     "translation_status": "pending_api_key"
   }
 ]
