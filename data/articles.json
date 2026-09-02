@@ -1,20 +1,74 @@
 [
   {
-    "id": "f5c9464b36c5b727",
-    "date": "2026-09-01",
-    "source": "36氪",
+    "id": "923bcc9fc9d8213c",
+    "date": "2026-09-02",
+    "source": "Focus Taiwan",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvdk9DTGdHQldkckRjdEU1UnZCS3dHZk9SU3otOGN1bjlFMFJNd1lHNThlY2s5cWNQcTRRaEtLMldVMWJzZE1kU1g5eGJKTklnZkZV?oc=5",
-    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
-    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWjNpMHVEV3dfUk9ZWG4tY1Z5bDgteWxHRC14ZHFZNXNOUmd3eS1XZ2pEeUhSX05tWkc1T0g2OVNxeENLR1RzQU9IRzQ2akJDUkRjaXVnaw?oc=5",
+    "original_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - Focus Taiwan",
+    "original_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park Focus Taiwan",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
-    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
-    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
-    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
+    "ja_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - Focus Taiwan",
+    "ko_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - Focus Taiwan",
+    "ja_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park Focus Taiwan",
+    "ko_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park Focus Taiwan",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "527f6daa9140e0a8",
+    "date": "2026-09-02",
+    "source": "CEO Insights Asia",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3Zlb0lxOHVWQWZCWTFyUks0UjR4ZGxqdjhBaFdkNldsdGZxUnpaTnhSSUJmNXFhMDAzVXZFQ0VSVzlpYnREWGloQ3JIbWpBNEZYZ1VoTEFVNDVGQ1MwUUdmQTdQVms3QzFhWUtRSmYwVmNNR3hvQXNIWUU5SDFtMnAxTk9DOHM0LWZkVWJtSVVxODFkUjFEQVZUVFNCbkZRdmNqcFFESWRvenAzbjlZRTZaXzU?oc=5",
+    "original_title": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency - CEO Insights Asia",
+    "original_summary": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency CEO Insights Asia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency - CEO Insights Asia",
+    "ko_title": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency - CEO Insights Asia",
+    "ja_summary": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency CEO Insights Asia",
+    "ko_summary": "TSMC Sees Kaohsiung to Boost Semiconductor Testing Efficiency CEO Insights Asia",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "1ca7f7d2dbe99275",
+    "date": "2026-09-02",
+    "source": "Global Sources",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaS1tY0swN1M4QXhLRG5kVlFTV3FZam5NdTY3MDlBOGVJVHl3Z2FrWFRLWHA4VlNzLTFCQjRZdVMyWDVYVUVwNGIwYnFxd0VISGpmOHhlZ3ktQ0FoZkVRLWU1UDR0Rk9TcFh3bHI4eFB4UmlPMFZJWHBnemlYLXBsWFlFc1MzVDRpdmRHSm1IZEhaWHZJWmVFTHFuOGRuQ1FpQjdMLVJhQ2Zod0xpNHJMUkhTVXJOYnV5YXpLZGs1WExyczR3WVVFWk5KSDQyNTk2VlU2QkdoVTFyWkoyaENMWDRIbWZYaEFnM09jaHZDX2I?oc=5",
+    "original_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "original_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "ko_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "ja_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
+    "ko_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "f5c9464b36c5b727",
+    "date": "2026-09-01",
+    "source": "36 Kr",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvdk9DTGdHQldkckRjdEU1UnZCS3dHZk9SU3otOGN1bjlFMFJNd1lHNThlY2s5cWNQcTRRaEtLMldVMWJzZE1kU1g5eGJKTklnZkZV?oc=5",
+    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
     "translation_status": "pending_api_key"
   },
   {
@@ -24,15 +78,33 @@
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9COGVlV1BIQXNDY1RkZDMwNmlYb3FZam5wQ3BWa0JuMm00dFJUbGxrSnhTMFNwWWYycHlZY3FVQm1UYnU1ZndzZDBORkdHWFhLUk1FVkJhUU12QXJraDBtNzVGQTlDUTRhc2gzc3dhMEc3cnhqZHJHblo1Sm4zbGc5Zk5UZ1dU?oc=5",
-    "original_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "original_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
+    "original_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "original_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "ko_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "ja_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
-    "ko_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
+    "ja_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "ko_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "ja_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
+    "ko_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "3526fc383438d575",
+    "date": "2026-09-01",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXR3eW1mbDU3amFsTjctZmVjbFNCNjZLczFJV1BIbmhSUFhTWml5ZUpfSTRmbUVTTWstNUJZVmVkWlJXQk1mRVY4RUVGWlE5MktXSUtmXzRjRV84Slh5aFUzblpZSGo0c3hLeXdTUlVlR29xZHc?oc=5",
+    "original_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "original_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "ko_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "ja_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
+    "ko_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -110,37 +182,19 @@
   {
     "id": "ef0efc61fe82e938",
     "date": "2026-08-26",
-    "source": "digitimes",
+    "source": "digitimes.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhDWEMzc0kyQXE3R1o2WEtWc2taeXZQRWQtamJhdm42elI5VThLOURmRlRtMm12QVFiRHhSUlh1MVRKVEh1TDdxdGd1ZDluejFxd0lOYS0yQVluQ0p6QURhak9PeTRfNXFTZEgzTkxLbUVZWmt1N1BsdVRYdDhuT2tBT0N6dw?oc=5",
-    "original_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "original_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
+    "original_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes.com",
+    "original_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "6c90aec152019067",
-    "date": "2026-08-23",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LN3BVSnB5dkxpdmJRQk1zRFRfZ1YwaUJuTnkxYWk3Tk80ZGQzU2R3Q2NqTmFRa196TGx0MUptcnFDWm52Mmk5QjJldVdhVGVvS0F5QVJUbWdJbDczblZ4Zkx1TGdpTTNVMF9nZHJFSXU3Ykc3bVE?oc=5",
-    "original_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
-    "original_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
-    "ko_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
-    "ja_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
-    "ko_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
+    "ja_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes.com",
+    "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes.com",
+    "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes.com",
+    "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes.com",
     "translation_status": "pending_api_key"
   },
   {
