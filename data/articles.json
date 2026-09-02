@@ -18,24 +18,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "e11da37b5cdce665",
-    "date": "2026-09-01",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9COGVlV1BIQXNDY1RkZDMwNmlYb3FZam5wQ3BWa0JuMm00dFJUbGxrSnhTMFNwWWYycHlZY3FVQm1UYnU1ZndzZDBORkdHWFhLUk1FVkJhUU12QXJraDBtNzVGQTlDUTRhc2gzc3dhMEc3cnhqZHJHblo1Sm4zbGc5Zk5UZ1dU?oc=5",
-    "original_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "original_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "ko_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
-    "ja_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
-    "ko_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "3526fc383438d575",
     "date": "2026-09-01",
     "source": "finance.biggo.com",
@@ -74,19 +56,19 @@
   {
     "id": "69b365219e1f4f17",
     "date": "2026-08-29",
-    "source": "intelligentliving.co",
+    "source": "Intelligent Living",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NbUd1d05YUDRNRVZZYzhUSTNXUzBlbXZ3c2tSRDAzYXlZaE51aU9OaGpXSmp0UkZBUG01VXc5SXN2YkIyVW1nZV9SdzVqbE1mWUlLR3pwcmhEMUJIaU9YVjhMbmdPVmRPbGFEbFp1cTRHQXdJdVJhcw?oc=5",
-    "original_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - intelligentliving.co",
-    "original_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators intelligentliving.co",
+    "original_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - Intelligent Living",
+    "original_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators Intelligent Living",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - intelligentliving.co",
-    "ko_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - intelligentliving.co",
-    "ja_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators intelligentliving.co",
-    "ko_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators intelligentliving.co",
+    "ja_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - Intelligent Living",
+    "ko_title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - Intelligent Living",
+    "ja_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators Intelligent Living",
+    "ko_summary": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators Intelligent Living",
     "translation_status": "pending_api_key"
   },
   {
@@ -123,24 +105,6 @@
     "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
     "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
     "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "21ca0e5c178a42e0",
-    "date": "2026-08-26",
-    "source": "Counterpoint Research",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDdQWldzVUpIZDdpYmE4TWhIVDE1SnRCaEdPcG82dmFOaWoyOXVjdGhZeFhVRmdqOFN1S2xWaXBfNi1PaGFDRXZsRU1HQ0NmS0VsMWowQ19pUXgyOER3bE8wSk02SmlIeW5LSzlOZFFnYXpzd3ZwdVhoUTByeWlvcDN2SF9VNl9KWUE3a3NSUQ?oc=5",
-    "original_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "original_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "ko_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "ja_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
-    "ko_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
     "translation_status": "pending_api_key"
   },
   {
