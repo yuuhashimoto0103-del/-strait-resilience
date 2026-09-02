@@ -2,37 +2,37 @@
   {
     "id": "f5c9464b36c5b727",
     "date": "2026-09-01",
-    "source": "36 Kr",
+    "source": "36氪",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvdk9DTGdHQldkckRjdEU1UnZCS3dHZk9SU3otOGN1bjlFMFJNd1lHNThlY2s5cWNQcTRRaEtLMldVMWJzZE1kU1g5eGJKTklnZkZV?oc=5",
-    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
+    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
-    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
+    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36氪",
+    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
+    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36氪",
     "translation_status": "pending_api_key"
   },
   {
-    "id": "3526fc383438d575",
+    "id": "e11da37b5cdce665",
     "date": "2026-09-01",
-    "source": "finance.biggo.com",
+    "source": "조선일보",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXR3eW1mbDU3amFsTjctZmVjbFNCNjZLczFJV1BIbmhSUFhTWml5ZUpfSTRmbUVTTWstNUJZVmVkWlJXQk1mRVY4RUVGWlE5MktXSUtmXzRjRV84Slh5aFUzblpZSGo0c3hLeXdTUlVlR29xZHc?oc=5",
-    "original_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "original_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9COGVlV1BIQXNDY1RkZDMwNmlYb3FZam5wQ3BWa0JuMm00dFJUbGxrSnhTMFNwWWYycHlZY3FVQm1UYnU1ZndzZDBORkdHWFhLUk1FVkJhUU12QXJraDBtNzVGQTlDUTRhc2gzc3dhMEc3cnhqZHJHblo1Sm4zbGc5Zk5UZ1dU?oc=5",
+    "original_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
+    "original_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "ko_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "ja_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
-    "ko_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
+    "ja_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
+    "ko_title": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation - 조선일보",
+    "ja_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
+    "ko_summary": "SK Hynix Chairman's Overseas Semiconductor Remarks Stir Speculation 조선일보",
     "translation_status": "pending_api_key"
   },
   {
@@ -51,6 +51,24 @@
     "ko_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
     "ja_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
     "ko_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "0fe340497909e8e2",
+    "date": "2026-09-01",
+    "source": "The Korea Herald",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LLVpidjc3dm1pX0RLcHRhbzIzMlVQelNlbzFrSWtiV2VsVUJZNXdteENwMFVnd2pDbkhKbzFQb1lobF9NQlZyTkZYU0lneFZpX1Z3b2I4Yw?oc=5",
+    "original_title": "Korea, Japan discuss chip, AI cooperation in economic security dialogue - The Korea Herald",
+    "original_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Korea, Japan discuss chip, AI cooperation in economic security dialogue - The Korea Herald",
+    "ko_title": "Korea, Japan discuss chip, AI cooperation in economic security dialogue - The Korea Herald",
+    "ja_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
+    "ko_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
     "translation_status": "pending_api_key"
   },
   {
@@ -105,6 +123,24 @@
     "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
     "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
     "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "6c90aec152019067",
+    "date": "2026-08-23",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LN3BVSnB5dkxpdmJRQk1zRFRfZ1YwaUJuTnkxYWk3Tk80ZGQzU2R3Q2NqTmFRa196TGx0MUptcnFDWm52Mmk5QjJldVdhVGVvS0F5QVJUbWdJbDczblZ4Zkx1TGdpTTNVMF9nZHJFSXU3Ykc3bVE?oc=5",
+    "original_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
+    "original_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
+    "ko_title": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk - finance.biggo.com",
+    "ja_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
+    "ko_summary": "TSMC's Agentic AI Windfall Runs Headlong Into Taiwan Strait Risk finance.biggo.com",
     "translation_status": "pending_api_key"
   },
   {
