@@ -1,5 +1,23 @@
 [
   {
+    "id": "3402de85d45f2bf1",
+    "date": "2026-09-03",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWnJ0ZGhYczE0aEFzc0piSUhTaXd4Qms5VkVvSGVXYXhUUFNrSHFfQUIwZ1d4ZlNSVktwMnlUWW9zWTVZSFNUc2htWUxxMnR3TVpNTi1fWE1KamNQVWZNYkR2NUk5MEpOSUFxenR2R3lXOWotSmc?oc=5",
+    "original_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
+    "original_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
+    "ko_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
+    "ja_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
+    "ko_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "dab43a233baebf44",
     "date": "2026-09-02",
     "source": "finance.biggo.com",
@@ -15,24 +33,6 @@
     "ko_title": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence - finance.biggo.com",
     "ja_summary": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence finance.biggo.com",
     "ko_summary": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7f879f9f3df51c83",
-    "date": "2026-09-02",
-    "source": "Tech Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQW1oejRtd2NDX2FRamcxMUlVenB2RkswSlQwdE5nZ21YTHdzaTVNTHFWa2lsLU1zbkh0bmh1NEFaWWx6ck9XZHJMbUFFY2ZYYVE4eUN1dXoxbjM3WFNGc0Rqb3ZUdnNVOURGWmNTdnlmS2tUYUtWQnJIS3dvZTZkSlp1R0U1dXRYeXJMeGw1RTN1ZnFGelZEMzltWk5saFBCSWtVVVc3MDR5S3loa3A0czA5NmFuMV9VSFdRSGYzNA?oc=5",
-    "original_title": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap - Tech Times",
-    "original_summary": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap Tech Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap - Tech Times",
-    "ko_title": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap - Tech Times",
-    "ja_summary": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap Tech Times",
-    "ko_summary": "TSMC Opens Kaohsiung Supplier Campus to Close Packaging Validation Gap Tech Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -74,55 +74,55 @@
   {
     "id": "f5c9464b36c5b727",
     "date": "2026-09-01",
-    "source": "36Kr",
+    "source": "36 Kr",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvdk9DTGdHQldkckRjdEU1UnZCS3dHZk9SU3otOGN1bjlFMFJNd1lHNThlY2s5cWNQcTRRaEtLMldVMWJzZE1kU1g5eGJKTklnZkZV?oc=5",
-    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36Kr",
-    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36Kr",
+    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36Kr",
-    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36Kr",
-    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36Kr",
-    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36Kr",
+    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
+    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
     "translation_status": "pending_api_key"
   },
   {
     "id": "e11da37b5cdce665",
     "date": "2026-09-01",
-    "source": "chosun.com",
+    "source": "조선일보",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMl9COGVlV1BIQXNDY1RkZDMwNmlYb3FZam5wQ3BWa0JuMm00dFJUbGxrSnhTMFNwWWYycHlZY3FVQm1UYnU1ZndzZDBORkdHWFhLUk1FVkJhUU12QXJraDBtNzVGQTlDUTRhc2gzc3dhMEc3cnhqZHJHblo1Sm4zbGc5Zk5UZ1dU?oc=5",
-    "original_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - chosun.com",
-    "original_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy chosun.com",
+    "original_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "original_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - chosun.com",
-    "ko_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - chosun.com",
-    "ja_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy chosun.com",
-    "ko_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy chosun.com",
+    "ja_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "ko_title": "Chey's Overseas Semiconductor Remarks Spark Controversy - 조선일보",
+    "ja_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
+    "ko_summary": "Chey's Overseas Semiconductor Remarks Spark Controversy 조선일보",
     "translation_status": "pending_api_key"
   },
   {
     "id": "11b27b140e91756f",
     "date": "2026-09-01",
-    "source": "en.sedaily.com",
+    "source": "Seoul Economic Daily",
     "source_lang": "EN",
     "category": "Logistics",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFNwaFZXQ1FGbHZ5SmpkX1ZqZ2x1OFl6a1VrZGNpT2FLQXN2RERtMjQ3bDJxWUlEQ0Y2UnFmemFJRWpwMEJraGVsSF90am13NzFxV0FwX3p3dndLZVhFVUNFYkpMNVNJX2tHbThmYjVsMXZFM1RGZ0RkcWxFRFZFd1dJcWFRNnBWaUxxaVN6ckx3M1ljSUhnTXBCT3RSWTEyNnhtMQ?oc=5",
-    "original_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - en.sedaily.com",
-    "original_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo en.sedaily.com",
+    "original_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
+    "original_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
     "tags": [
       "Logistics"
     ],
-    "ja_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - en.sedaily.com",
-    "ko_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - en.sedaily.com",
-    "ja_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo en.sedaily.com",
-    "ko_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo en.sedaily.com",
+    "ja_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
+    "ko_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
+    "ja_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
+    "ko_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
     "translation_status": "pending_api_key"
   },
   {
