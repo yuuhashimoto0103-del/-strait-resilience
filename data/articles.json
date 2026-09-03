@@ -1,20 +1,20 @@
 [
   {
-    "id": "3402de85d45f2bf1",
-    "date": "2026-09-03",
-    "source": "finance.biggo.com",
+    "id": "ef201bba8a296c74",
+    "date": "2026-09-02",
+    "source": "aninews.in",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWnJ0ZGhYczE0aEFzc0piSUhTaXd4Qms5VkVvSGVXYXhUUFNrSHFfQUIwZ1d4ZlNSVktwMnlUWW9zWTVZSFNUc2htWUxxMnR3TVpNTi1fWE1KamNQVWZNYkR2NUk5MEpOSUFxenR2R3lXOWotSmc?oc=5",
-    "original_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "original_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUtrYmE3NUxqdnp4TG14VGcyV2hhd19BOHJqdEpka0NSWWYtM19jNllxNzlyenY0Nk9oM0hrSV9IQnZLakJ6ckdaLWZlTlJFMXc4RDZ5WHB1d2pJd2JYV1JRaEVRSU9xbzZWaVV0bmpGUU5sNUd1dWtHTmpvOU5CcmZBbEFMRUdjNXg2WERObVQzVVRLM3RfUzh6MjU0dGJhQkFHclBJYnFQaUFvOEtTekIzaDNNWWRlUkxqbTBQQjNnZzNudUxn?oc=5",
+    "original_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - aninews.in",
+    "original_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency aninews.in",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "ko_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "ja_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
-    "ko_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
+    "ja_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - aninews.in",
+    "ko_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - aninews.in",
+    "ja_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency aninews.in",
+    "ko_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency aninews.in",
     "translation_status": "pending_api_key"
   },
   {
@@ -33,6 +33,24 @@
     "ko_title": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence - finance.biggo.com",
     "ja_summary": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence finance.biggo.com",
     "ko_summary": "Taiwan to concentrate advanced semiconductor backend R&D hub in Kaohsiung; TSMC announces plans to establish presence finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "d621e5c9b57157a5",
+    "date": "2026-09-02",
+    "source": "Taipei Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQWJPQXB0MHEtYkZyVXdyMzQ1WHcyMjEyZWJRNWdLRXJ6WWR0bzFJMTBqUmRoeHpWeUM4V2NyUkx3N2tJbjNwT1VlWU1JQWI0dGRNUjUybEJzaHVaWFpaZnhOa0lfbkt6V2N4ZXdqZFdsMTJULWc?oc=5",
+    "original_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "original_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ko_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ja_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "ko_summary": "TSMC to develop site in Baipu park Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -74,19 +92,19 @@
   {
     "id": "f5c9464b36c5b727",
     "date": "2026-09-01",
-    "source": "36 Kr",
+    "source": "eu.36kr.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvdk9DTGdHQldkckRjdEU1UnZCS3dHZk9SU3otOGN1bjlFMFJNd1lHNThlY2s5cWNQcTRRaEtLMldVMWJzZE1kU1g5eGJKTklnZkZV?oc=5",
-    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "original_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - eu.36kr.com",
+    "original_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing eu.36kr.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - 36 Kr",
-    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
-    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing 36 Kr",
+    "ja_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - eu.36kr.com",
+    "ko_title": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing - eu.36kr.com",
+    "ja_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing eu.36kr.com",
+    "ko_summary": "TSMC Bets on Optical Chips: Next-Gen Semiconductor Innovation for High-Speed Computing eu.36kr.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -144,6 +162,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "62a2845c432e25a4",
+    "date": "2026-08-31",
+    "source": "Taipei Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoLXZObUlYVmFDTEtDaXdyalFCM2FBT0hteTRKbHozUTVoaDNTaGhEdTVDdkk2Y3FRRVNxQTFrTWhYM1pPX2kwZ0x2c2p1bVFFVUpNN21pSVNaVzNraHdtdHFvelVPV0dNdTFwNXJ5Y19TZkNZR3c?oc=5",
+    "original_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "original_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ko_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ja_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "ko_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "69b365219e1f4f17",
     "date": "2026-08-29",
     "source": "Intelligent Living",
@@ -177,24 +213,6 @@
     "ko_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
     "ja_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
     "ko_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "ef0efc61fe82e938",
-    "date": "2026-08-26",
-    "source": "digitimes",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhDWEMzc0kyQXE3R1o2WEtWc2taeXZQRWQtamJhdm42elI5VThLOURmRlRtMm12QVFiRHhSUlh1MVRKVEh1TDdxdGd1ZDluejFxd0lOYS0yQVluQ0p6QURhak9PeTRfNXFTZEgzTkxLbUVZWmt1N1BsdVRYdDhuT2tBT0N6dw?oc=5",
-    "original_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "original_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
     "translation_status": "pending_api_key"
   }
 ]
