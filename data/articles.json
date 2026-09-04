@@ -1,5 +1,41 @@
 [
   {
+    "id": "7875839a9d6d8206",
+    "date": "2026-09-04",
+    "source": "Bisinfotech",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlY0dm5SVjNUZ2VUUUk2bC1QNExYQkwzM3hSQ1A1OVFYMnRWaEFmVHJzcjRGcUJNUHNIMDh3ek9CblZsRExRM1FRLVZsUmx6SGlHNXd6VEhQMERIa2hZcE5ZaTVtQ2lUdGt4alZ4TktHYS1pTFFxdEQyQVNyd1lqU3loWVI4c3c5SVE?oc=5",
+    "original_title": "TSMC to Boost Semiconductor Testing at Kaohsiung Site - Bisinfotech",
+    "original_summary": "TSMC to Boost Semiconductor Testing at Kaohsiung Site Bisinfotech",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC to Boost Semiconductor Testing at Kaohsiung Site - Bisinfotech",
+    "ko_title": "TSMC to Boost Semiconductor Testing at Kaohsiung Site - Bisinfotech",
+    "ja_summary": "TSMC to Boost Semiconductor Testing at Kaohsiung Site Bisinfotech",
+    "ko_summary": "TSMC to Boost Semiconductor Testing at Kaohsiung Site Bisinfotech",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "4ace633baca1f1cf",
+    "date": "2026-09-04",
+    "source": "TradingKey",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFRpR3JfZWFLb2lkOHZodlQzT0IxdUNLVGg0VER1NmQ4dXgxam43aWJQZk9ZS3c2bUhmbzVXUU1sbjFsQ01hb2c2ajBOWUpZYU1VVVhXczV2eHhWbXA0R1NXTHNEa0ZTaVplNjNoRWtNSVNSMHdjem5xX1RtQ0QwcmpQZ0VfWTcweW9xa1RCYjNDLVg5R3lJREdQVzk3N19nR2VQVG9QZ0pFbUVZLXlGc0lsTlpfaXFjcDJNY2VsTnFfQTgwQzlleUUtZ1JLT2FxdkdpSVNaMVA1M3RXUmF6VlNKSVhnS2c?oc=5",
+    "original_title": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% - TradingKey",
+    "original_summary": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% TradingKey",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% - TradingKey",
+    "ko_title": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% - TradingKey",
+    "ja_summary": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% TradingKey",
+    "ko_summary": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% TradingKey",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "5a1b89249b9bcd6d",
     "date": "2026-09-03",
     "source": "upi.com",
@@ -36,6 +72,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "ef201bba8a296c74",
+    "date": "2026-09-02",
+    "source": "ANI News",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORUtrYmE3NUxqdnp4TG14VGcyV2hhd19BOHJqdEpka0NSWWYtM19jNllxNzlyenY0Nk9oM0hrSV9IQnZLakJ6ckdaLWZlTlJFMXc4RDZ5WHB1d2pJd2JYV1JRaEVRSU9xbzZWaVV0bmpGUU5sNUd1dWtHTmpvOU5CcmZBbEFMRUdjNXg2WERObVQzVVRLM3RfUzh6MjU0dGJhQkFHclBJYnFQaUFvOEtTekIzaDNNWWRlUkxqbTBQQjNnZzNudUxn?oc=5",
+    "original_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - ANI News",
+    "original_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency ANI News",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - ANI News",
+    "ko_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - ANI News",
+    "ja_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency ANI News",
+    "ko_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency ANI News",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "dab43a233baebf44",
     "date": "2026-09-02",
     "source": "finance.biggo.com",
@@ -56,19 +110,37 @@
   {
     "id": "d621e5c9b57157a5",
     "date": "2026-09-02",
-    "source": "taipeitimes.com",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQWJPQXB0MHEtYkZyVXdyMzQ1WHcyMjEyZWJRNWdLRXJ6WWR0bzFJMTBqUmRoeHpWeUM4V2NyUkx3N2tJbjNwT1VlWU1JQWI0dGRNUjUybEJzaHVaWFpaZnhOa0lfbkt6V2N4ZXdqZFdsMTJULWc?oc=5",
-    "original_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "original_summary": "TSMC to develop site in Baipu park taipeitimes.com",
+    "original_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "original_summary": "TSMC to develop site in Baipu park Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "ko_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "ja_summary": "TSMC to develop site in Baipu park taipeitimes.com",
-    "ko_summary": "TSMC to develop site in Baipu park taipeitimes.com",
+    "ja_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ko_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ja_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "ko_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "ceafe1d7c42fce50",
+    "date": "2026-09-02",
+    "source": "The Economic Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNamVSb0lrN09pLVFTN3daMlN1YlhCci0tMTI4TWZrOE5BamcwZlFSejkxM3dOY1hKWGxxQThnblZONGx0aXl2MElRWkhha1k1MllyS19Gd3pTRUFIVTd0UXcxbi1wT1Y2SThBSTFmUGN5VnNpZnc5UXZ2a1NpNjkwOE8yYzR4SGJBN0dvODZ0dXdrUkJqZnpXTVhybFVrUTJZb2h6VjRYTHdLdWgzVTBGRXRlTnl0SmxROWo3bmJjcURUMHJqeGZzeEJXR0ZuU0VreHlZLUlnOE01OExRQXUydldMSmpGUdIB5gFBVV95cUxNamVSb0lrN09pLVFTN3daMlN1YlhCci0tMTI4TWZrOE5BamcwZlFSejkxM3dOY1hKWGxxQThnblZONGx0aXl2MElRWkhha1k1MllyS19Gd3pTRUFIVTd0UXcxbi1wT1Y2SThBSTFmUGN5VnNpZnc5UXZ2a1NpNjkwOE8yYzR4SGJBN0dvODZ0dXdrUkJqZnpXTVhybFVrUTJZb2h6VjRYTHdLdWgzVTBGRXRlTnl0SmxROWo3bmJjcURUMHJqeGZzeEJXR0ZuU0VreHlZLUlnOE01OExRQXUydldMSmpGUQ?oc=5",
+    "original_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
+    "original_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
+    "ko_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
+    "ja_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
+    "ko_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -92,37 +164,37 @@
   {
     "id": "696fbfacc18942f6",
     "date": "2026-09-02",
-    "source": "taipeitimes.com",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MYlhHS2pVc1F4T3E4VmhfWlhyVEgyRkI2UFRfZHJTUzFLbzVoWFR6WUJSenY5WXQyc1N5eF9mbEpEOXVIY2lhSWY2dW1fMjhKN2JPa04wSUsxUWhFM0tPd2hFU0ZWUzJLSnh6UmhaS0FtYWs4dWc?oc=5",
-    "original_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - taipeitimes.com",
-    "original_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion taipeitimes.com",
+    "original_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
+    "original_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - taipeitimes.com",
-    "ko_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - taipeitimes.com",
-    "ja_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion taipeitimes.com",
-    "ko_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion taipeitimes.com",
+    "ja_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
+    "ko_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
+    "ja_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
+    "ko_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
-    "id": "56d394195f3a3739",
+    "id": "1ca7f7d2dbe99275",
     "date": "2026-09-02",
-    "source": "The Economic Times",
+    "source": "Global Sources",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGx0Z3JheVJXZnhhTnNKWEt6NlhzQWl0YS1OYzFpSDVfcUkxTmpGalQxZHZsM2ZQOGFTY25WREE5WGxMRkgyTVM0T3luNzYzR0xDQkhmZEJXNnQ1M2RhTVd6Q1MxLXBEZTNhT3hDYUVZUXZEckg1TzJSQnhSRXlGdUVjcWdueTg0R2NJc21JWmxzZW9GckcyZV9WTVg4aTcxaFdSQ01NaG1NYjFRYVJEZXZXV3ExNHBZUFFPendmWEFRUmFBMW9RYmZmbjAzZ2o4Rk1lRGlCcTZKQ09ySFREctIB5gFBVV95cUxNamVSb0lrN09pLVFTN3daMlN1YlhCci0tMTI4TWZrOE5BamcwZlFSejkxM3dOY1hKWGxxQThnblZONGx0aXl2MElRWkhha1k1MllyS19Gd3pTRUFIVTd0UXcxbi1wT1Y2SThBSTFmUGN5VnNpZnc5UXZ2a1NpNjkwOE8yYzR4SGJBN0dvODZ0dXdrUkJqZnpXTVhybFVrUTJZb2h6VjRYTHdLdWgzVTBGRXRlTnl0SmxROWo3bmJjcURUMHJqeGZzeEJXR0ZuU0VreHlZLUlnOE01OExRQXUydldMSmpGUQ?oc=5",
-    "original_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "original_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaS1tY0swN1M4QXhLRG5kVlFTV3FZam5NdTY3MDlBOGVJVHl3Z2FrWFRLWHA4VlNzLTFCQjRZdVMyWDVYVUVwNGIwYnFxd0VISGpmOHhlZ3ktQ0FoZkVRLWU1UDR0Rk9TcFh3bHI4eFB4UmlPMFZJWHBnemlYLXBsWFlFc1MzVDRpdmRHSm1IZEhaWHZJWmVFTHFuOGRuQ1FpQjdMLVJhQ2Zod0xpNHJMUkhTVXJOYnV5YXpLZGs1WExyczR3WVVFWk5KSDQyNTk2VlU2QkdoVTFyWkoyaENMWDRIbWZYaEFnM09jaHZDX2I?oc=5",
+    "original_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "original_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "ko_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "ja_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
-    "ko_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
+    "ja_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "ko_title": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance - Global Sources",
+    "ja_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
+    "ko_summary": "TSMC's new verification line in Kaohsiung signals shift towards advanced packaging dominance Global Sources",
     "translation_status": "pending_api_key"
   },
   {
@@ -162,6 +234,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "d835c0f55c4c96c2",
+    "date": "2026-09-01",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFX28yOExyRzRDeU5kZnZXWHB6bUlSMnpOaTRlR21SYmhCMUN4Nk03SHo3RXBtd2tmcm1tWGpLTzM5SEhJTkthd096MTk3ajY3eDZsdXdkdHhDdHZhNTFsdGdRUjVrTGZUaXVIV202TmNHMlRaQXl6SjF30gGOAUFVX3lxTFBYcUNGcGtOVmxpRk5CWXE0empyUkpvOC1SLTNOVjRZekFSSkhUZHRuSUNtYXkyRHZKaGdubi04YnJDbnFPUi0yQ1dJdDhtdlBuOV8yUlp6S0syWTdmR0tLSEs2NTBRelpNOUpTb0FJR0w5b0hneVc1MmxGaEJJMHg1STZtemFLcENuZGExbnc?oc=5",
+    "original_title": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "Big tech pivot to Intel packaging as TSMC backlog grows; Korea diversifies - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "3526fc383438d575",
     "date": "2026-09-01",
     "source": "finance.biggo.com",
@@ -177,24 +267,6 @@
     "ko_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
     "ja_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
     "ko_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "11b27b140e91756f",
-    "date": "2026-09-01",
-    "source": "Seoul Economic Daily",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFNwaFZXQ1FGbHZ5SmpkX1ZqZ2x1OFl6a1VrZGNpT2FLQXN2RERtMjQ3bDJxWUlEQ0Y2UnFmemFJRWpwMEJraGVsSF90am13NzFxV0FwX3p3dndLZVhFVUNFYkpMNVNJX2tHbThmYjVsMXZFM1RGZ0RkcWxFRFZFd1dJcWFRNnBWaUxxaVN6ckx3M1ljSUhnTXBCT3RSWTEyNnhtMQ?oc=5",
-    "original_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "original_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "ko_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "ja_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
-    "ko_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
     "translation_status": "pending_api_key"
   },
   {
@@ -218,19 +290,19 @@
   {
     "id": "62a2845c432e25a4",
     "date": "2026-08-31",
-    "source": "taipeitimes.com",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoLXZObUlYVmFDTEtDaXdyalFCM2FBT0hteTRKbHozUTVoaDNTaGhEdTVDdkk2Y3FRRVNxQTFrTWhYM1pPX2kwZ0x2c2p1bVFFVUpNN21pSVNaVzNraHdtdHFvelVPV0dNdTFwNXJ5Y19TZkNZR3c?oc=5",
-    "original_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - taipeitimes.com",
-    "original_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says taipeitimes.com",
+    "original_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "original_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - taipeitimes.com",
-    "ko_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - taipeitimes.com",
-    "ja_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says taipeitimes.com",
-    "ko_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says taipeitimes.com",
+    "ja_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ko_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ja_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "ko_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -249,60 +321,6 @@
     "ko_title": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan - 富途牛牛",
     "ja_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
     "ko_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d35a34c84439f510",
-    "date": "2026-08-28",
-    "source": "economy.ac",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TE9qcjdnMUpUSDdWSi1sdmlRNVgtTkpJSzJ4QUVobGFEekw2U0ZROXNWbmZWUEdkMkxORVMteTF6c2dBeUh4LUdwdGVFTkVTUkxsNEo0QQ?oc=5",
-    "original_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "original_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "ko_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "ja_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "ko_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7ec2446c216eb9ce",
-    "date": "2026-08-27",
-    "source": "TradingKey",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbTc0TExfUXBROW96LTJQMDZCY0V2am1KNmxIV1N4N0dPd1g2SEdMWHhCNTdfTUxSX1pmdDl1NURpN1BBUlJUZEg1djJJQmdIcThmcU8tT21mLW1Wa3JxSDRaWFI3OFc5dUg5TGZlUWVKSmNqRnpvaWs0Ung0a2N3NzZFVGloMHhXN29ORExpcW5hSmt5Z2s3c1FRQy15RC1lZFZSclo3ZHJ3Tkdhc3NiNmdOdkFlbVd3dGVSRGlUV0NnR2hJZTdyVm5MYWsyQzZSMzJ5TFBuUEc4YW5mY3hpbXdtZ0k?oc=5",
-    "original_title": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% - TradingKey",
-    "original_summary": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% TradingKey",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% - TradingKey",
-    "ko_title": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% - TradingKey",
-    "ja_summary": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% TradingKey",
-    "ko_summary": "Nvidia Earnings Beat Ignites Semiconductors; Kospi Surges Toward 7,000 Level as SK Hynix and Kioxia Soar 6% TradingKey",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "ef0efc61fe82e938",
-    "date": "2026-08-26",
-    "source": "digitimes",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhDWEMzc0kyQXE3R1o2WEtWc2taeXZQRWQtamJhdm42elI5VThLOURmRlRtMm12QVFiRHhSUlh1MVRKVEh1TDdxdGd1ZDluejFxd0lOYS0yQVluQ0p6QURhak9PeTRfNXFTZEgzTkxLbUVZWmt1N1BsdVRYdDhuT2tBT0N6dw?oc=5",
-    "original_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "original_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ko_title": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation - digitimes",
-    "ja_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
-    "ko_summary": "TSMC packaging shift could boost AMD CoWoS share and trim Nvidia's allocation digitimes",
     "translation_status": "pending_api_key"
   }
 ]
