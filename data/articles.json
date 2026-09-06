@@ -72,6 +72,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "5163ea19296fa75a",
+    "date": "2026-09-03",
+    "source": "Taipei Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MR2dfay00aGtOdDYzV3ROMkpGVmt2QjNnY1ZlNS1ZT0RzakdxWjkwRHVYVFJpZ2RmOEh0cjlBbHZsZG1tOEl6VDJmckxuNHFncGF1UXctTmx2ME5SbEh3T0x3NDVVZGJ3UUNKTFlEb1JCT3RGRGc?oc=5",
+    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "3402de85d45f2bf1",
     "date": "2026-09-03",
     "source": "finance.biggo.com",
@@ -213,24 +231,6 @@
     "ko_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
     "ja_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
     "ko_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "56d394195f3a3739",
-    "date": "2026-09-02",
-    "source": "The Economic Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTGx0Z3JheVJXZnhhTnNKWEt6NlhzQWl0YS1OYzFpSDVfcUkxTmpGalQxZHZsM2ZQOGFTY25WREE5WGxMRkgyTVM0T3luNzYzR0xDQkhmZEJXNnQ1M2RhTVd6Q1MxLXBEZTNhT3hDYUVZUXZEckg1TzJSQnhSRXlGdUVjcWdueTg0R2NJc21JWmxzZW9GckcyZV9WTVg4aTcxaFdSQ01NaG1NYjFRYVJEZXZXV3ExNHBZUFFPendmWEFRUmFBMW9RYmZmbjAzZ2o4Rk1lRGlCcTZKQ09ySFREctIB5gFBVV95cUxNamVSb0lrN09pLVFTN3daMlN1YlhCci0tMTI4TWZrOE5BamcwZlFSejkxM3dOY1hKWGxxQThnblZONGx0aXl2MElRWkhha1k1MllyS19Gd3pTRUFIVTd0UXcxbi1wT1Y2SThBSTFmUGN5VnNpZnc5UXZ2a1NpNjkwOE8yYzR4SGJBN0dvODZ0dXdrUkJqZnpXTVhybFVrUTJZb2h6VjRYTHdLdWgzVTBGRXRlTnl0SmxROWo3bmJjcURUMHJqeGZzeEJXR0ZuU0VreHlZLUlnOE01OExRQXUydldMSmpGUQ?oc=5",
-    "original_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "original_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "ko_title": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency - The Economic Times",
-    "ja_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
-    "ko_summary": "TSMC plans Kaohsiung site expansion to boost semiconductor testing efficiency The Economic Times",
     "translation_status": "pending_api_key"
   },
   {
