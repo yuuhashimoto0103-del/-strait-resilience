@@ -1,5 +1,41 @@
 [
   {
+    "id": "e338b7ee259a8cd0",
+    "date": "2026-09-07",
+    "source": "newelectronics.co.uk",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdKSDY4N1MwbWVhRXJpLXJKZHBWem5kMWp6dnNvZmRGNjdYN3dFR1c3RVBSRzlkYVVXanY4aDFSSmluRjNFOUtEZTlUT05wemhrLXMzTlBXcHJrUXF5a3haMXZVek5zV2EyeHV5RktrcXJWVm01clItZ3huTmstWUMwbVJDd0p2WEh0WVhFYXJqVGhnVUx2NG1RaUppSVhGSFI1YjItRU5BTUh6czhBNlhPRmNMNm1yZllyQ1VmV0VNSEJxem1lMQ?oc=5",
+    "original_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
+    "original_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
+    "ko_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
+    "ja_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
+    "ko_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "9c7a65ede6aa718e",
+    "date": "2026-09-07",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZQXlCX3lBclR6QnRJUURlUGFHSkVLWWdJeVAteEdZSmRhZ09vb3FxdXRPU0k2RDlvb2cwUFAyanBJSHdXWnBZMzVkRFJKT3RKa2ZaVDVHTlZuUEVfQ1lDTjUyYzdvaVJIRE1DcXlUUlZJNHcxZ3Jsek1B0gGOAUFVX3lxTE5XeERNbWJTWVMxSTNRdHdJQUhkeGt2cm1WUUdtNDFyUk1EaDExQVdiMndjTXhJU0NYM29KY2Vtakk0QXVkcENkLXBjQ0cweVVGaE9MSnVQOGlrMGc4eDF2SXFKZHZtOUV4YzNsbmktNzJyVFR2UzczNU13TjZNRHJRaDM5WWdzNVV0SlhXbmc?oc=5",
+    "original_title": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "TSMC and Taiwan industry launch silicon photonics alliance to lead AI era - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "27fa036d1dbf52eb",
     "date": "2026-09-07",
     "source": "semivision",
@@ -69,6 +105,24 @@
     "ko_title": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% - TradingKey",
     "ja_summary": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% TradingKey",
     "ko_summary": "Japan, South Korea Stocks Close Strongly Higher; KOSPI Surges Over 1.6%, Nikkei Reclaims 65,000 as SoftBank Soars 12% TradingKey",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "283b98e00ae7861b",
+    "date": "2026-09-04",
+    "source": "Digitimes",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmNJUnVYOTdsUktoNjgzZnZOU2VPemhFZ0tNYzNUcGpCTUJzb1ZmTDJkOGVtU0QwdXFObmlrYVh2djl2RS1jZU95Q1RKYWRCVGxFdmVJSW94SFJsY1lobFpqSnVGclhMNGp5NnBTOTg1NjVva1Z5T2hKQVVoUE5BY0d1NHFkV1BXdF9vWjFqZzY3Zw?oc=5",
+    "original_title": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging - Digitimes",
+    "original_summary": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging Digitimes",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging - Digitimes",
+    "ko_title": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging - Digitimes",
+    "ja_summary": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging Digitimes",
+    "ko_summary": "Inside UC San Diego's 'Made with Taiwan' push to train TSMC's future engineers, reinvent chip packaging Digitimes",
     "translation_status": "pending_api_key"
   },
   {
@@ -267,42 +321,6 @@
     "ko_title": "Korea, Japan discuss chip, AI cooperation in economic security dialogue - The Korea Herald",
     "ja_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
     "ko_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "62a2845c432e25a4",
-    "date": "2026-08-31",
-    "source": "Taipei Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoLXZObUlYVmFDTEtDaXdyalFCM2FBT0hteTRKbHozUTVoaDNTaGhEdTVDdkk2Y3FRRVNxQTFrTWhYM1pPX2kwZ0x2c2p1bVFFVUpNN21pSVNaVzNraHdtdHFvelVPV0dNdTFwNXJ5Y19TZkNZR3c?oc=5",
-    "original_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
-    "original_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
-    "ko_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
-    "ja_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
-    "ko_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "3551bce0581c3180",
-    "date": "2026-08-31",
-    "source": "富途牛牛",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON0xXQ2gtQzVtVzJDNTFLeGdNNlQzUzNDX2NOX1E1cXVHUDNVWGhqUWVuakJEN3N4WGkxU1hycnN5WHhaT045U1g1T3Z3Y29JSWI5QmZhbTZkdm1kWmJKQ0RVSUtvMllwVnl2TnctQlMtVlRFVHp2T1B4VGRmY0c2S0VnOWFxYjZJWVYxMUF0ZFpzdU9OVGd1a282clg?oc=5",
-    "original_title": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan - 富途牛牛",
-    "original_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan - 富途牛牛",
-    "ko_title": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan - 富途牛牛",
-    "ja_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
-    "ko_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
     "translation_status": "pending_api_key"
   }
 ]
