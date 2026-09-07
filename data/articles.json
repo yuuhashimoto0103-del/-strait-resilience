@@ -1,20 +1,38 @@
 [
   {
+    "id": "27fa036d1dbf52eb",
+    "date": "2026-09-07",
+    "source": "semivision",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1dXVTZQRmFvN0ZnXzVRMHlsV0VtN09lTm1qT1pIeVpGdVJXYjc5Ylg0Y2tjLU82NTFZRTZTdkdSYUUzUmJpNWdEUTd0SnRMcktNZ1NVNWliSHFsY3RVbzVSTzJtb1kwOE5rdVhyZmVhbGFpb1RwMk5zZzFUeHlJYTA0NVM?oc=5",
+    "original_title": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform - semivision",
+    "original_summary": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform semivision",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform - semivision",
+    "ko_title": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform - semivision",
+    "ja_summary": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform semivision",
+    "ko_summary": "TSMC COUPE Is Evolving: From a Silicon Photonics Engine to an Active Photonics Integration Platform semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "d1e3296d6a45efb7",
     "date": "2026-09-04",
-    "source": "minutemirror.com.pk",
+    "source": "Minute Mirror",
     "source_lang": "EN",
     "category": "Logistics",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzBYcnItRGEySFFYS25iUWJYVUxQUk5VTWxydEQ0czFIcDBXZ3BJeXJMNF82dm5rRkw5S2taNlZ0OWNMS0o0S1hQUXlaQnNadHQxb3RxSEp3b0tvR0xFZnZfODJ0MXo4eG1rWXpfTU9tRjJUQjNaR05MaXBBVHNld1dEbU9tNkdHb1hhSXI0Y1FlVVBsdE16YUFHWnV4Q29FT1hKZW90OVFDVzY3aGsyQWt1dUVEUGlhd1gzVF9SSG5hQ2lZOGU0dTRVa01WbEhCUzFrZDJIUXdvMTJoZDRGN0FMRE9pQkNGWE13?oc=5",
-    "original_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - minutemirror.com.pk",
-    "original_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains minutemirror.com.pk",
+    "original_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - Minute Mirror",
+    "original_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains Minute Mirror",
     "tags": [
       "Logistics"
     ],
-    "ja_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - minutemirror.com.pk",
-    "ko_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - minutemirror.com.pk",
-    "ja_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains minutemirror.com.pk",
-    "ko_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains minutemirror.com.pk",
+    "ja_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - Minute Mirror",
+    "ko_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - Minute Mirror",
+    "ja_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains Minute Mirror",
+    "ko_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains Minute Mirror",
     "translation_status": "pending_api_key"
   },
   {
@@ -216,21 +234,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "11b27b140e91756f",
+    "id": "3526fc383438d575",
     "date": "2026-09-01",
-    "source": "Seoul Economic Daily",
+    "source": "finance.biggo.com",
     "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFNwaFZXQ1FGbHZ5SmpkX1ZqZ2x1OFl6a1VrZGNpT2FLQXN2RERtMjQ3bDJxWUlEQ0Y2UnFmemFJRWpwMEJraGVsSF90am13NzFxV0FwX3p3dndLZVhFVUNFYkpMNVNJX2tHbThmYjVsMXZFM1RGZ0RkcWxFRFZFd1dJcWFRNnBWaUxxaVN6ckx3M1ljSUhnTXBCT3RSWTEyNnhtMQ?oc=5",
-    "original_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "original_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXR3eW1mbDU3amFsTjctZmVjbFNCNjZLczFJV1BIbmhSUFhTWml5ZUpfSTRmbUVTTWstNUJZVmVkWlJXQk1mRVY4RUVGWlE5MktXSUtmXzRjRV84Slh5aFUzblpZSGo0c3hLeXdTUlVlR29xZHc?oc=5",
+    "original_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "original_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
     "tags": [
-      "Logistics"
+      "Semiconductor"
     ],
-    "ja_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "ko_title": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo - Seoul Economic Daily",
-    "ja_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
-    "ko_summary": "Korea, Japan Discuss Tech and Supply Chain Security in Tokyo Seoul Economic Daily",
+    "ja_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "ko_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
+    "ja_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
+    "ko_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -285,24 +303,6 @@
     "ko_title": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan - 富途牛牛",
     "ja_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
     "ko_summary": "South Korea-Japan chip cooperation heats up as SK Hynix explores joint venture to build memory chip plant in Japan 富途牛牛",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d35a34c84439f510",
-    "date": "2026-08-28",
-    "source": "economy.ac",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TE9qcjdnMUpUSDdWSi1sdmlRNVgtTkpJSzJ4QUVobGFEekw2U0ZROXNWbmZWUEdkMkxORVMteTF6c2dBeUh4LUdwdGVFTkVTUkxsNEo0QQ?oc=5",
-    "original_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "original_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "ko_title": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers - economy.ac",
-    "ja_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
-    "ko_summary": "“Riding the AI Demand Boom” TSMC Dominates Global Foundry and Packaging Markets, Accelerates Ecosystem Expansion with Japanese Materials, Components and Equipment Suppliers economy.ac",
     "translation_status": "pending_api_key"
   }
 ]
