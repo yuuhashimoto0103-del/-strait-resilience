@@ -288,24 +288,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "3526fc383438d575",
-    "date": "2026-09-01",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fZXR3eW1mbDU3amFsTjctZmVjbFNCNjZLczFJV1BIbmhSUFhTWml5ZUpfSTRmbUVTTWstNUJZVmVkWlJXQk1mRVY4RUVGWlE5MktXSUtmXzRjRV84Slh5aFUzblpZSGo0c3hLeXdTUlVlR29xZHc?oc=5",
-    "original_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "original_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "ko_title": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster - finance.biggo.com",
-    "ja_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
-    "ko_summary": "Baipu Industrial Park to Break Ground in September, Forming Kaohsiung Advanced Packaging Equipment Cluster finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "0fe340497909e8e2",
     "date": "2026-09-01",
     "source": "The Korea Herald",
@@ -321,6 +303,24 @@
     "ko_title": "Korea, Japan discuss chip, AI cooperation in economic security dialogue - The Korea Herald",
     "ja_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
     "ko_summary": "Korea, Japan discuss chip, AI cooperation in economic security dialogue The Korea Herald",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "62a2845c432e25a4",
+    "date": "2026-08-31",
+    "source": "Taipei Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoLXZObUlYVmFDTEtDaXdyalFCM2FBT0hteTRKbHozUTVoaDNTaGhEdTVDdkk2Y3FRRVNxQTFrTWhYM1pPX2kwZ0x2c2p1bVFFVUpNN21pSVNaVzNraHdtdHFvelVPV0dNdTFwNXJ5Y19TZkNZR3c?oc=5",
+    "original_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "original_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ko_title": "Silicon photonics expected to dominate AI growth, TSMC vice president says - Taipei Times",
+    "ja_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
+    "ko_summary": "Silicon photonics expected to dominate AI growth, TSMC vice president says Taipei Times",
     "translation_status": "pending_api_key"
   }
 ]
