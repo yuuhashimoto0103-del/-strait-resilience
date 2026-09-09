@@ -1,5 +1,23 @@
 [
   {
+    "id": "f0729095f849ecdc",
+    "date": "2026-09-09",
+    "source": "TelecomLead",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd0hCTDkxaTZHMU1CMnFtdk5ZNk9LYW5iXzZUZzRDcllwelpQbkpwRUhzLUYwczdvV2tmYzlDSEpiTXNpcWxxamtFOUludnZiempZSHBlenBwa3NSQ0NsU1Nlbmtqc0JnX29IUXhibXZ0M2hpc0pSNi11ZG15NW5tYjVKWk9McWtlQ2JrSEFGVWxvb1dIOEhTemwzd3l2Q0pWTllUYlR3VHp1MFJ0d1FhMmNKc01sc3doa0lVWGdUWTdzRFM0cTRWQUtvTDFBelRVeE8w0gHbAUFVX3lxTFBXVXR1WVRQek1VNzhEY0dBZndmUFJwa3gtTUphYjhPaHA3VEVrRk9TcmVxaUFkUXNFLUFiZjNmTlFsd0RiaU5KVVJBbFBpQlZ3dXJtblBYb1Z4cF9qUHpaYTFtNnFnSDVGT05aaDFGaVROYTBNRkdFLWZ3NHBsaU1pNXowR0diMDJOeDBtdnRYU29qLWxSRkFLMDdEanZxd09EYU40RjF5LW9EWmotZVFYWG0wWnNBYmgtQzM2cHJ3ZGE3aDc4d3dUWFlsOEkwUnpEa19HdUV3VkN2Yw?oc=5",
+    "original_title": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% - TelecomLead",
+    "original_summary": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% TelecomLead",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% - TelecomLead",
+    "ko_title": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% - TelecomLead",
+    "ja_summary": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% TelecomLead",
+    "ko_summary": "Global Foundry Revenue Hits Record $53.49 Billion as TSMC Takes 72.5% Share and SMIC Surges 20% TelecomLead",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "dd22d824ba2d1bc9",
     "date": "2026-09-09",
     "source": "NDTV Profit",
@@ -74,19 +92,19 @@
   {
     "id": "e338b7ee259a8cd0",
     "date": "2026-09-07",
-    "source": "newelectronics.co.uk",
+    "source": "New Electronics",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdKSDY4N1MwbWVhRXJpLXJKZHBWem5kMWp6dnNvZmRGNjdYN3dFR1c3RVBSRzlkYVVXanY4aDFSSmluRjNFOUtEZTlUT05wemhrLXMzTlBXcHJrUXF5a3haMXZVek5zV2EyeHV5RktrcXJWVm01clItZ3huTmstWUMwbVJDd0p2WEh0WVhFYXJqVGhnVUx2NG1RaUppSVhGSFI1YjItRU5BTUh6czhBNlhPRmNMNm1yZllyQ1VmV0VNSEJxem1lMQ?oc=5",
-    "original_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
-    "original_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
+    "original_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
+    "original_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
-    "ko_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - newelectronics.co.uk",
-    "ja_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
-    "ko_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility newelectronics.co.uk",
+    "ja_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
+    "ko_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
+    "ja_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
+    "ko_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
     "translation_status": "pending_api_key"
   },
   {
@@ -200,19 +218,19 @@
   {
     "id": "5163ea19296fa75a",
     "date": "2026-09-03",
-    "source": "Taipei Times",
+    "source": "taipeitimes.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MR2dfay00aGtOdDYzV3ROMkpGVmt2QjNnY1ZlNS1ZT0RzakdxWjkwRHVYVFJpZ2RmOEh0cjlBbHZsZG1tOEl6VDJmckxuNHFncGF1UXctTmx2ME5SbEh3T0x3NDVVZGJ3UUNKTFlEb1JCT3RGRGc?oc=5",
-    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
+    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
-    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
+    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
+    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
+    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -272,19 +290,19 @@
   {
     "id": "d621e5c9b57157a5",
     "date": "2026-09-02",
-    "source": "Taipei Times",
+    "source": "taipeitimes.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQWJPQXB0MHEtYkZyVXdyMzQ1WHcyMjEyZWJRNWdLRXJ6WWR0bzFJMTBqUmRoeHpWeUM4V2NyUkx3N2tJbjNwT1VlWU1JQWI0dGRNUjUybEJzaHVaWFpaZnhOa0lfbkt6V2N4ZXdqZFdsMTJULWc?oc=5",
-    "original_title": "TSMC to develop site in Baipu park - Taipei Times",
-    "original_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "original_title": "TSMC to develop site in Baipu park - taipeitimes.com",
+    "original_summary": "TSMC to develop site in Baipu park taipeitimes.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC to develop site in Baipu park - Taipei Times",
-    "ko_title": "TSMC to develop site in Baipu park - Taipei Times",
-    "ja_summary": "TSMC to develop site in Baipu park Taipei Times",
-    "ko_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "ja_title": "TSMC to develop site in Baipu park - taipeitimes.com",
+    "ko_title": "TSMC to develop site in Baipu park - taipeitimes.com",
+    "ja_summary": "TSMC to develop site in Baipu park taipeitimes.com",
+    "ko_summary": "TSMC to develop site in Baipu park taipeitimes.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -303,24 +321,6 @@
     "ko_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - Focus Taiwan",
     "ja_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park Focus Taiwan",
     "ko_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park Focus Taiwan",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7aa2010312d9df28",
-    "date": "2026-09-02",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkTHMxNlg0aDJwZ2hqSHhZNTZhWkZTOE5TdE9ydDFrNmIxNXp4d2xPQU1BSzBGRjJBTHhiRDN5a1VyU2hGYkVGQ3dwODU0RVdIX0FMbWVWMHREejBLY0NzNm5WMFYxT1BwMWRFMm5Kd1ZTeTlZVFE?oc=5",
-    "original_title": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention - finance.biggo.com",
-    "original_summary": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention finance.biggo.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention - finance.biggo.com",
-    "ko_title": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention - finance.biggo.com",
-    "ja_summary": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention finance.biggo.com",
-    "ko_summary": "TSMC to Build Advanced Packaging Verification Base at Baipu Industrial Park; Two North Kaohsiung Housing Hotspots Draw Attention finance.biggo.com",
     "translation_status": "pending_api_key"
   }
 ]
