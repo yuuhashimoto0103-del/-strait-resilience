@@ -1,5 +1,23 @@
 [
   {
+    "id": "f854d45bc8a8fc8e",
+    "date": "2026-09-09",
+    "source": "TradingView",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUy1aUVI4aXIxQ2Fsd0hkZ0tsdmZwM29UbTdKbTJZWnlpWUVOdUU1cUFPSmxOTURXb1BIOWc3eEkwS2F0MzUwVDhUbFd0TWNQX0hKS3JDN0Vxb0Zhc3JYcjZqV3M1bGd4LXhfVlg2UFNENjQ3WktHQno5LVlqMjAtazFQa1hhZVc4ZndTb1AzcDBjaTdSUFFoNVFkUXh0cmZ6RjBiQkVIQk1hVFN4VTdYdmFtbElQMGNxeEw4Zw?oc=5",
+    "original_title": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? - TradingView",
+    "original_summary": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? TradingView",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? - TradingView",
+    "ko_title": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? - TradingView",
+    "ja_summary": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? TradingView",
+    "ko_summary": "Amkor Expands Advanced Packaging: Can Its $12B Arizona Bet Pay Off? TradingView",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f0729095f849ecdc",
     "date": "2026-09-09",
     "source": "TelecomLead",
@@ -38,19 +56,19 @@
   {
     "id": "ff3313e4da57c47a",
     "date": "2026-09-08",
-    "source": "The Manila Times",
+    "source": "manilatimes.net",
     "source_lang": "EN",
     "category": "Security",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGFkcDVMYkVBbjdyWGowZFBiYmdEM3ZoRnB0WVFGZVpsWlR6MG5YdzY1cTNKUjVrVWY5NjVnY0JsSm1pR1BXTDlTaW5TVml6dGMyRDhMYWxESTdNRzVYY3N1LXg3ZWkyUVNpWnhoSzFFNXlHY09uOFdveVZuZTRHaUdqUG83VDU5ZkNUZ2JsMnhLLVE1dDZfeFZibC1qUTViOVRJZjJteUhrWV9yNXQ3RlFfcVYycldUT0HSAboBQVVfeXFMTVBhZHA1TGJFQW43clhqMGRQYmJnRDN2aEZwdFlRRmVabFpUejBuWHc2NXEzSlI1a1VmOTY1Z2NCbEptaUdQV0w5U2luU1ZpenRjMkQ4TGFsREk3TUc1WGNzdS14N2VpMlFTaVp4aEsxRTV5R2NPbjhXb3lWbmU0R2lHalBvN1Q1OWZDVGdibDJ4Sy1RNXQ2X3hWYmwtalE1YjlUSWYybXlIa1lfcjV0N0ZRX3FWMnJXVE9B?oc=5",
-    "original_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "original_summary": "Cross-Strait semicon firms to join forces The Manila Times",
+    "original_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "original_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
     "tags": [
       "Security"
     ],
-    "ja_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "ko_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "ja_summary": "Cross-Strait semicon firms to join forces The Manila Times",
-    "ko_summary": "Cross-Strait semicon firms to join forces The Manila Times",
+    "ja_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "ko_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "ja_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
+    "ko_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
     "translation_status": "pending_api_key"
   },
   {
@@ -218,19 +236,19 @@
   {
     "id": "5163ea19296fa75a",
     "date": "2026-09-03",
-    "source": "taipeitimes.com",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MR2dfay00aGtOdDYzV3ROMkpGVmt2QjNnY1ZlNS1ZT0RzakdxWjkwRHVYVFJpZ2RmOEh0cjlBbHZsZG1tOEl6VDJmckxuNHFncGF1UXctTmx2ME5SbEh3T0x3NDVVZGJ3UUNKTFlEb1JCT3RGRGc?oc=5",
-    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
-    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
+    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
-    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - taipeitimes.com",
-    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
-    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments taipeitimes.com",
+    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
+    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
+    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -290,37 +308,19 @@
   {
     "id": "d621e5c9b57157a5",
     "date": "2026-09-02",
-    "source": "taipeitimes.com",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fQWJPQXB0MHEtYkZyVXdyMzQ1WHcyMjEyZWJRNWdLRXJ6WWR0bzFJMTBqUmRoeHpWeUM4V2NyUkx3N2tJbjNwT1VlWU1JQWI0dGRNUjUybEJzaHVaWFpaZnhOa0lfbkt6V2N4ZXdqZFdsMTJULWc?oc=5",
-    "original_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "original_summary": "TSMC to develop site in Baipu park taipeitimes.com",
+    "original_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "original_summary": "TSMC to develop site in Baipu park Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "ko_title": "TSMC to develop site in Baipu park - taipeitimes.com",
-    "ja_summary": "TSMC to develop site in Baipu park taipeitimes.com",
-    "ko_summary": "TSMC to develop site in Baipu park taipeitimes.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "923bcc9fc9d8213c",
-    "date": "2026-09-02",
-    "source": "focustaiwan.tw",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWjNpMHVEV3dfUk9ZWG4tY1Z5bDgteWxHRC14ZHFZNXNOUmd3eS1XZ2pEeUhSX05tWkc1T0g2OVNxeENLR1RzQU9IRzQ2akJDUkRjaXVnaw?oc=5",
-    "original_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - focustaiwan.tw",
-    "original_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park focustaiwan.tw",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - focustaiwan.tw",
-    "ko_title": "TSMC to establish advanced packaging hub in Kaohsiung industrial park - focustaiwan.tw",
-    "ja_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park focustaiwan.tw",
-    "ko_summary": "TSMC to establish advanced packaging hub in Kaohsiung industrial park focustaiwan.tw",
+    "ja_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ko_title": "TSMC to develop site in Baipu park - Taipei Times",
+    "ja_summary": "TSMC to develop site in Baipu park Taipei Times",
+    "ko_summary": "TSMC to develop site in Baipu park Taipei Times",
     "translation_status": "pending_api_key"
   }
 ]
