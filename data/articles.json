@@ -198,24 +198,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "3402de85d45f2bf1",
-    "date": "2026-09-03",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWnJ0ZGhYczE0aEFzc0piSUhTaXd4Qms5VkVvSGVXYXhUUFNrSHFfQUIwZ1d4ZlNSVktwMnlUWW9zWTVZSFNUc2htWUxxMnR3TVpNTi1fWE1KamNQVWZNYkR2NUk5MEpOSUFxenR2R3lXOWotSmc?oc=5",
-    "original_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "original_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "ko_title": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment - finance.biggo.com",
-    "ja_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
-    "ko_summary": "South Korea's HK Enters TSMC's Taiwan Supply Chain for the First Time with Laser Processing Equipment finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "e35388e50c8c2e72",
     "date": "2026-09-02",
     "source": "inkl",
@@ -321,6 +303,24 @@
     "ko_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
     "ja_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
     "ko_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "5c3b1d2fa8e2dd75",
+    "date": "2026-09-02",
+    "source": "digitimes.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUN3cHlZak1SRXMtS1drSTVNOXFsRkI0cTNDVFMxTEtIQm9nX3U5a3dzSUY2MlJTalRRanVMUXdrWmdRUFZ6WUlTcGhTbUpneGxlM2R2b0xMRHg3ek5iR3BhQ0lQeUFDS24wbGtFd0kxZEdORmVKMzh4ZFpETXBiWkExMzFkbzhIMzlIQlduT01mR2xmalpEb01ISQ?oc=5",
+    "original_title": "TSMC moves into Baipu Industrial Park, boosts advanced packaging - digitimes.com",
+    "original_summary": "TSMC moves into Baipu Industrial Park, boosts advanced packaging digitimes.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC moves into Baipu Industrial Park, boosts advanced packaging - digitimes.com",
+    "ko_title": "TSMC moves into Baipu Industrial Park, boosts advanced packaging - digitimes.com",
+    "ja_summary": "TSMC moves into Baipu Industrial Park, boosts advanced packaging digitimes.com",
+    "ko_summary": "TSMC moves into Baipu Industrial Park, boosts advanced packaging digitimes.com",
     "translation_status": "pending_api_key"
   }
 ]
