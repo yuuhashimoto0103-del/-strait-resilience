@@ -1,5 +1,41 @@
 [
   {
+    "id": "49c01758a3e03855",
+    "date": "2026-09-14",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yLTUwQTJhM1B2Z09fVmVONzMxclZycDdtcXNuOEo4Q3JJcGdCOEstd1pZbUhrZGxVWjZBQkhUM2xzcTMyTmRhbkpEdlNKSFN3NFVqa05XM2ZKT2diWnVPVGNoUWJtbVlpZWRNeFF2Vl82MkFSUFZoTm5B0gGOAUFVX3lxTE14QUpTdGJPc2sxM3NKZ1RERWVBTXFrc0xzVUNQYWlwRXd4Yk11WWFCbzZaQTdpTXpVMk80dEo5UW1xTnZSWHhCUVVuU0FfR1VWSWJQLVBhd211VU5fQVpabE1HY0tTRHl3TF84YlpJSkRRWGgzYUtHckxsR0hBdkVKdUlBZU5ZV1NJLUlkREE?oc=5",
+    "original_title": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "TSMC expands advanced nodes to meet surging AI chip demand - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "1ae1ecb885c80a19",
+    "date": "2026-09-14",
+    "source": "매일경제",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pc2oxVEZxQ1NRajB5WnJ2MjFMNFZjbWFNckZQSnBaZHB1UmFhSTBFTXZSdFMtN09RWUw4X0hac1Y4X2EwX0x4R18tR1Q3d1czdHVmNWxB?oc=5",
+    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "90ec7521fbc0e54f",
     "date": "2026-09-13",
     "source": "finance.biggo.com",
@@ -74,19 +110,19 @@
   {
     "id": "0a875b3a0d7f8a8c",
     "date": "2026-09-08",
-    "source": "Electronics For You BUSINESS",
+    "source": "electronicsforyou.biz",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLV9VTDVDMkJmRlBxb1FidWxqOGs2YXVXUUhuRVMxSURMWVlxZVM2N200WUFOek9fMlp6T2JzZ1hoZ0ZsbG5lX2N4TlZDMXdBTEgzUGNzNGhlUTU0OGM1cFdGa0hDUlRJcmREem1WeUpCQ3JBM0JNT3ZjbjRJSVYzTEY0VHZqelhzZElNU2piM3RDQUhNM0VjLUFFd01mTjJ5ZzktcWFB?oc=5",
-    "original_title": "TSMC Targets Faster Semiconductor Packaging Validation - Electronics For You BUSINESS",
-    "original_summary": "TSMC Targets Faster Semiconductor Packaging Validation Electronics For You BUSINESS",
+    "original_title": "TSMC Targets Faster Semiconductor Packaging Validation - electronicsforyou.biz",
+    "original_summary": "TSMC Targets Faster Semiconductor Packaging Validation electronicsforyou.biz",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Targets Faster Semiconductor Packaging Validation - Electronics For You BUSINESS",
-    "ko_title": "TSMC Targets Faster Semiconductor Packaging Validation - Electronics For You BUSINESS",
-    "ja_summary": "TSMC Targets Faster Semiconductor Packaging Validation Electronics For You BUSINESS",
-    "ko_summary": "TSMC Targets Faster Semiconductor Packaging Validation Electronics For You BUSINESS",
+    "ja_title": "TSMC Targets Faster Semiconductor Packaging Validation - electronicsforyou.biz",
+    "ko_title": "TSMC Targets Faster Semiconductor Packaging Validation - electronicsforyou.biz",
+    "ja_summary": "TSMC Targets Faster Semiconductor Packaging Validation electronicsforyou.biz",
+    "ko_summary": "TSMC Targets Faster Semiconductor Packaging Validation electronicsforyou.biz",
     "translation_status": "pending_api_key"
   },
   {
