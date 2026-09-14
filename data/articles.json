@@ -38,19 +38,19 @@
   {
     "id": "d2c7be60808e1291",
     "date": "2026-09-08",
-    "source": "The Manila Times",
+    "source": "manilatimes.net",
     "source_lang": "EN",
     "category": "Security",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdERtVFNHUEQ5d0dNcEVLdFdpN0ZnaGhNNmM0Mi0zSTZvRnpuRnRRYlF4MXZjUWxFQjF3bEZXVUs5R0c1dWpmdnN2Mlgxc1RkcEo2WVRTVFJPalh3blZSbm10T0VUY2J6RS15RVR4TE5vRS1SSHBtSU5tMHR6MHgxSUxuTU1wbS1KV0RQR0htbHZZZVRvVUVockF4T2FOVnBZTHFfS1Z2Qy1uYU1meThjR2EtY2XSAboBQVVfeXFMTVBhZHA1TGJFQW43clhqMGRQYmJnRDN2aEZwdFlRRmVabFpUejBuWHc2NXEzSlI1a1VmOTY1Z2NCbEptaUdQV0w5U2luU1ZpenRjMkQ4TGFsREk3TUc1WGNzdS14N2VpMlFTaVp4aEsxRTV5R2NPbjhXb3lWbmU0R2lHalBvN1Q1OWZDVGdibDJ4Sy1RNXQ2X3hWYmwtalE1YjlUSWYybXlIa1lfcjV0N0ZRX3FWMnJXVE9B?oc=5",
-    "original_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "original_summary": "Cross-Strait semicon firms to join forces The Manila Times",
+    "original_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "original_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
     "tags": [
       "Security"
     ],
-    "ja_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "ko_title": "Cross-Strait semicon firms to join forces - The Manila Times",
-    "ja_summary": "Cross-Strait semicon firms to join forces The Manila Times",
-    "ko_summary": "Cross-Strait semicon firms to join forces The Manila Times",
+    "ja_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "ko_title": "Cross-Strait semicon firms to join forces - manilatimes.net",
+    "ja_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
+    "ko_summary": "Cross-Strait semicon firms to join forces manilatimes.net",
     "translation_status": "pending_api_key"
   },
   {
@@ -123,42 +123,6 @@
     "ko_title": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains - Minute Mirror",
     "ja_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains Minute Mirror",
     "ko_summary": "Permanent Secretariat Anchors New Trilateral Pact as U.S., Japan and South Korea Coordinate on Security and Supply Chains Minute Mirror",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "696fbfacc18942f6",
-    "date": "2026-09-03",
-    "source": "Taipei Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MYlhHS2pVc1F4T3E4VmhfWlhyVEgyRkI2UFRfZHJTUzFLbzVoWFR6WUJSenY5WXQyc1N5eF9mbEpEOXVIY2lhSWY2dW1fMjhKN2JPa04wSUsxUWhFM0tPd2hFU0ZWUzJLSnh6UmhaS0FtYWs4dWc?oc=5",
-    "original_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
-    "original_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
-    "ko_title": "TSMC says unable to keep pace with AI boom despite fivefold expansion - Taipei Times",
-    "ja_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
-    "ko_summary": "TSMC says unable to keep pace with AI boom despite fivefold expansion Taipei Times",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "5163ea19296fa75a",
-    "date": "2026-09-03",
-    "source": "Taipei Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MR2dfay00aGtOdDYzV3ROMkpGVmt2QjNnY1ZlNS1ZT0RzakdxWjkwRHVYVFJpZ2RmOEh0cjlBbHZsZG1tOEl6VDJmckxuNHFncGF1UXctTmx2ME5SbEh3T0x3NDVVZGJ3UUNKTFlEb1JCT3RGRGc?oc=5",
-    "original_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "original_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "ko_title": "Scientech eyes 50% expansion in packaging equipment shipments - Taipei Times",
-    "ja_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
-    "ko_summary": "Scientech eyes 50% expansion in packaging equipment shipments Taipei Times",
     "translation_status": "pending_api_key"
   }
 ]
