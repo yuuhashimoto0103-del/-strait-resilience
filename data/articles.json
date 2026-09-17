@@ -54,6 +54,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "90ec7521fbc0e54f",
+    "date": "2026-09-13",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tYVhpVFhpdXkzTURidTlPX1JtX0NJUGRJX1ZhTTFrcWtzczVVNFBsWTI3bnNEcFFYVW9oQ0FMdkJ3M1lfOS1tSFJJSlVWUmQzUmZmcElkY2Uzd2FLemFINTFnY1BheE1vdG9NTFBjY09KUDlvc1E?oc=5",
+    "original_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
+    "original_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
+    "ko_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
+    "ja_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
+    "ko_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "d2c7be60808e1291",
     "date": "2026-09-08",
     "source": "The Manila Times",
@@ -105,24 +123,6 @@
     "ko_title": "TSMC Targets Faster Semiconductor Packaging Validation - Electronics For You BUSINESS",
     "ja_summary": "TSMC Targets Faster Semiconductor Packaging Validation Electronics For You BUSINESS",
     "ko_summary": "TSMC Targets Faster Semiconductor Packaging Validation Electronics For You BUSINESS",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e338b7ee259a8cd0",
-    "date": "2026-09-07",
-    "source": "New Electronics",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjdKSDY4N1MwbWVhRXJpLXJKZHBWem5kMWp6dnNvZmRGNjdYN3dFR1c3RVBSRzlkYVVXanY4aDFSSmluRjNFOUtEZTlUT05wemhrLXMzTlBXcHJrUXF5a3haMXZVek5zV2EyeHV5RktrcXJWVm01clItZ3huTmstWUMwbVJDd0p2WEh0WVhFYXJqVGhnVUx2NG1RaUppSVhGSFI1YjItRU5BTUh6czhBNlhPRmNMNm1yZllyQ1VmV0VNSEJxem1lMQ?oc=5",
-    "original_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
-    "original_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
-    "ko_title": "TSMC expands Kaohsiung operations with new advanced packaging verification facility - New Electronics",
-    "ja_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
-    "ko_summary": "TSMC expands Kaohsiung operations with new advanced packaging verification facility New Electronics",
     "translation_status": "pending_api_key"
   }
 ]
