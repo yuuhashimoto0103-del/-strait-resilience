@@ -18,24 +18,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "cc7998f67abe899f",
-    "date": "2026-09-16",
-    "source": "Longbridge",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdVV0UDJmTXNXU1VMUEpiczl0NmNOaUFaeERxMEQ3MGcxd3BEQjJQTmtPU25Bd3N2dktZNE5CbzAtNWt0cHdnUWJKc3ExZ081MjR3?oc=5",
-    "original_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "original_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "ko_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "ja_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "ko_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "f321a4c1e343122c",
     "date": "2026-09-15",
     "source": "天下雜誌",
@@ -54,21 +36,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "90ec7521fbc0e54f",
-    "date": "2026-09-13",
-    "source": "finance.biggo.com",
+    "id": "1ae1ecb885c80a19",
+    "date": "2026-09-14",
+    "source": "mk.co.kr",
     "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tYVhpVFhpdXkzTURidTlPX1JtX0NJUGRJX1ZhTTFrcWtzczVVNFBsWTI3bnNEcFFYVW9oQ0FMdkJ3M1lfOS1tSFJJSlVWUmQzUmZmcElkY2Uzd2FLemFINTFnY1BheE1vdG9NTFBjY09KUDlvc1E?oc=5",
-    "original_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
-    "original_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pc2oxVEZxQ1NRajB5WnJ2MjFMNFZjbWFNckZQSnBaZHB1UmFhSTBFTXZSdFMtN09RWUw4X0hac1Y4X2EwX0x4R18tR1Q3d1czdHVmNWxB?oc=5",
+    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
     "tags": [
-      "Semiconductor"
+      "Japan-Korea"
     ],
-    "ja_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
-    "ko_title": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders - finance.biggo.com",
-    "ja_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
-    "ko_summary": "TSMC's CoWoS Capacity to Double to 260,000 Wafers by 2028; Intel and OSAT Providers Capture Spillover Orders finance.biggo.com",
+    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
+    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
     "translation_status": "pending_api_key"
   }
 ]
