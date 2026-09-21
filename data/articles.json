@@ -1,20 +1,92 @@
 [
   {
-    "id": "5ff57ea2d3b92d22",
+    "id": "9496a0e51e84fe0a",
     "date": "2026-09-21",
-    "source": "天下雜誌",
+    "source": "Reuters",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVVVvd0xYSlpWNjVoWm02WDFjck00R3ExVmNLcHZyTVhZbXJ1SW5WOVl3bWV5RGo0bG9STlZmWHBuS1hyRUUyYXc4dEJZMllpVllUWHlxdnQwSDg4cUtKSmV5MUlJcTQ?oc=5",
-    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
-    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
+    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
-    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
-    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
-    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "93147eed1a21d60e",
+    "date": "2026-09-21",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoSTdTSG5HaGh5c1hEcHJRdXNyckVvSDdJTXFCXzMzb0Q4QVN0MTNuclFvT0Vjb0NCTXlHQXRITWxyRGthVzFiTzdZckNnZUktcmpiZUsxRUh3bkQ5T01rLTZHV3BCNlBZeDc5R0FQd3ZvQWR1T3c?oc=5",
+    "original_title": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume - finance.biggo.com",
+    "original_summary": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume - finance.biggo.com",
+    "ko_title": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume - finance.biggo.com",
+    "ja_summary": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume finance.biggo.com",
+    "ko_summary": "Taiwan's AUO reportedly courted by both Intel and TSMC; advanced packaging buzz sends shares surging over 9% on heavy volume finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "8ac8ea9ac61f6281",
+    "date": "2026-09-21",
+    "source": "Global Sources",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1dQei1iakNmQzl1blFfX3FGRmRPTGFRd0huYkdXZWIzTEFRclhfd3ZONXJvRHp3eVRGeXE3Rng5Wl90emdZbEY4WlRrQU1HNWhlVjVaTzNBSkhNNk9LNjAwZDFsZ1JKR3daZENnMWZObzdWV2Qyb2NGTi1JTE9ONE1rZ1VKbEVSWGxuWE94czNJZnpKeFZEcUZhai0wRnBDa2ZSc0VMZEptLXNoeW50SmFKaFowdTUtYWlkdnlGbF9UdHd0NVFsWFpXZWxTVnNyS0pOaHUwb2Y0ZFJEZ1E?oc=5",
+    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "5ff57ea2d3b92d22",
+    "date": "2026-09-21",
+    "source": "english.cw.com.tw",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVVVvd0xYSlpWNjVoWm02WDFjck00R3ExVmNLcHZyTVhZbXJ1SW5WOVl3bWV5RGo0bG9STlZmWHBuS1hyRUUyYXc4dEJZMllpVllUWHlxdnQwSDg4cUtKSmV5MUlJcTQ?oc=5",
+    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
+    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
+    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
+    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "13d552f182db90b0",
+    "date": "2026-09-21",
+    "source": "TNGlobal",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHVUQ3hzd1I0SGxEbmJDbmxNTjJZakJYQURiaU5fX0hnU2dELVMtMFRyb3FBYi1IVzViek81U0Y5RlgyYWRaelF0bWxOc29GalZrMUxzb3ZKd2UtVE8wQ2JiU0NUbVhkeDdOdVBseGw1bjZEN3hfTUs1SHBHTkJ2bWNwRFF5cHdUSGRuOU5yTHY?oc=5",
+    "original_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "original_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
+    "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
     "translation_status": "pending_api_key"
   },
   {
@@ -36,39 +108,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "cc7998f67abe899f",
-    "date": "2026-09-16",
-    "source": "Longbridge",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdVV0UDJmTXNXU1VMUEpiczl0NmNOaUFaeERxMEQ3MGcxd3BEQjJQTmtPU25Bd3N2dktZNE5CbzAtNWt0cHdnUWJKc3ExZ081MjR3?oc=5",
-    "original_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "original_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "ko_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
-    "ja_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "ko_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "f321a4c1e343122c",
     "date": "2026-09-15",
-    "source": "天下雜誌",
+    "source": "english.cw.com.tw",
     "source_lang": "EN",
     "category": "Security",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52OENDbmpJSjh4cnE5ajhzbG5NbDVPZVE4d3p0cnlYN2ZrWG95ampyTm4tZ0dHU1ZkWVB6QkFwUm5qZDFmQ0Z4Tk83ME9Da3pVT0ZmN2cxLTRZV1VBMFpJQ2tVVDE5dDg?oc=5",
-    "original_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
-    "original_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
+    "original_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
+    "original_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
     "tags": [
       "Security"
     ],
-    "ja_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
-    "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
-    "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
-    "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
+    "ja_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
+    "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
+    "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
+    "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
     "translation_status": "pending_api_key"
   },
   {
