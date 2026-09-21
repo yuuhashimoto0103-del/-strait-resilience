@@ -1,5 +1,23 @@
 [
   {
+    "id": "5ff57ea2d3b92d22",
+    "date": "2026-09-21",
+    "source": "天下雜誌",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVVVvd0xYSlpWNjVoWm02WDFjck00R3ExVmNLcHZyTVhZbXJ1SW5WOVl3bWV5RGo0bG9STlZmWHBuS1hyRUUyYXc4dEJZMllpVllUWHlxdnQwSDg4cUtKSmV5MUlJcTQ?oc=5",
+    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "bd566b6822025ff1",
     "date": "2026-09-18",
     "source": "finance.biggo.com",
@@ -18,6 +36,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "cc7998f67abe899f",
+    "date": "2026-09-16",
+    "source": "Longbridge",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DdVV0UDJmTXNXU1VMUEpiczl0NmNOaUFaeERxMEQ3MGcxd3BEQjJQTmtPU25Bd3N2dktZNE5CbzAtNWt0cHdnUWJKc3ExZ081MjR3?oc=5",
+    "original_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
+    "original_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
+    "ko_title": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t - Longbridge",
+    "ja_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
+    "ko_summary": "Unlocking APAC Semiconductor Bottleneck Opportunities: CSOP Solactive Asia AI Bottleneck Index ETF t Longbridge",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f321a4c1e343122c",
     "date": "2026-09-15",
     "source": "天下雜誌",
@@ -33,6 +69,24 @@
     "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
     "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
     "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "1ae1ecb885c80a19",
+    "date": "2026-09-14",
+    "source": "매일경제",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pc2oxVEZxQ1NRajB5WnJ2MjFMNFZjbWFNckZQSnBaZHB1UmFhSTBFTXZSdFMtN09RWUw4X0hac1Y4X2EwX0x4R18tR1Q3d1czdHVmNWxB?oc=5",
+    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
+    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
     "translation_status": "pending_api_key"
   },
   {
