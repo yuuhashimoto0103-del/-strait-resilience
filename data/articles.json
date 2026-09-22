@@ -1,5 +1,41 @@
 [
   {
+    "id": "dbe7ff7250cec2c8",
+    "date": "2026-09-22",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tZzRyTC1sdGN1SUF2aGRoMk9iUUIxSzBTeFhaYjBsOFdqSG1HM0RudHFDazVINEVteXdtY0s4aV9sUE1OSUxmcENCdmd5RmdReHhscC04MlpqSWJLNGhwMXpIQXg0NV91dGVKeHoycE5Jb2o1d1E?oc=5",
+    "original_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
+    "original_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
+    "ko_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
+    "ja_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
+    "ko_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "e87c58fe539b78bd",
+    "date": "2026-09-21",
+    "source": "247wallst.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "9496a0e51e84fe0a",
     "date": "2026-09-21",
     "source": "Reuters",
@@ -38,73 +74,55 @@
   {
     "id": "8ac8ea9ac61f6281",
     "date": "2026-09-21",
-    "source": "Global Sources",
+    "source": "globalsources.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1dQei1iakNmQzl1blFfX3FGRmRPTGFRd0huYkdXZWIzTEFRclhfd3ZONXJvRHp3eVRGeXE3Rng5Wl90emdZbEY4WlRrQU1HNWhlVjVaTzNBSkhNNk9LNjAwZDFsZ1JKR3daZENnMWZObzdWV2Qyb2NGTi1JTE9ONE1rZ1VKbEVSWGxuWE94czNJZnpKeFZEcUZhai0wRnBDa2ZSc0VMZEptLXNoeW50SmFKaFowdTUtYWlkdnlGbF9UdHd0NVFsWFpXZWxTVnNyS0pOaHUwb2Y0ZFJEZ1E?oc=5",
-    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
-    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
     "translation_status": "pending_api_key"
   },
   {
     "id": "5ff57ea2d3b92d22",
     "date": "2026-09-21",
-    "source": "english.cw.com.tw",
+    "source": "天下雜誌",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVVVvd0xYSlpWNjVoWm02WDFjck00R3ExVmNLcHZyTVhZbXJ1SW5WOVl3bWV5RGo0bG9STlZmWHBuS1hyRUUyYXc4dEJZMllpVllUWHlxdnQwSDg4cUtKSmV5MUlJcTQ?oc=5",
-    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
-    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
     "translation_status": "pending_api_key"
   },
   {
     "id": "50b9bbbb76495a08",
     "date": "2026-09-21",
-    "source": "the420.in",
+    "source": "The420.in",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlR3RLWXNVTFpfWFB2NWFCYnFSOE9IVjRqMWNUYnZ3VTEzVmZLQjV0WkFuZ1NvRFRQMXl2U21fX3Ezb0R0MHVyODk0dEwxVXVfRmw0czRjU3ZvTVhUUG5OQkV1U0xJajd5dXVHSDZrYzZoNHVPdW5vQXd5UEhXdw?oc=5",
-    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
-    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
+    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
+    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
-    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
-    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
-    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "15287145049e6240",
-    "date": "2026-09-21",
-    "source": "Classic Rock 103.5 WIMZ",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEp0Vk1IMzBfbVlJZk1uNVF0a0Fjd0NxY3pWNlFDdEU1UWthNW83RmVCSHI0VHBrcWhJdW9ZclRhLXJBR0xPWFVuNUx4aUN6VVpFcmxRUjYzWFhkVmNGcENhUmRJSzYxamY0RXJpYWQyWEJZNVpHZ0txaDRXdHZnNU9LNUZsaWdQOXlHSHJHcm5Dak42eVBzMw?oc=5",
-    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Classic Rock 103.5 WIMZ",
-    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Classic Rock 103.5 WIMZ",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Classic Rock 103.5 WIMZ",
-    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Classic Rock 103.5 WIMZ",
-    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Classic Rock 103.5 WIMZ",
-    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Classic Rock 103.5 WIMZ",
+    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
+    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
+    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
     "translation_status": "pending_api_key"
   },
   {
@@ -164,37 +182,37 @@
   {
     "id": "f321a4c1e343122c",
     "date": "2026-09-15",
-    "source": "english.cw.com.tw",
+    "source": "天下雜誌",
     "source_lang": "EN",
     "category": "Security",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52OENDbmpJSjh4cnE5ajhzbG5NbDVPZVE4d3p0cnlYN2ZrWG95ampyTm4tZ0dHU1ZkWVB6QkFwUm5qZDFmQ0Z4Tk83ME9Da3pVT0ZmN2cxLTRZV1VBMFpJQ2tVVDE5dDg?oc=5",
-    "original_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
-    "original_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
+    "original_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
+    "original_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
     "tags": [
       "Security"
     ],
-    "ja_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
-    "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - english.cw.com.tw",
-    "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
-    "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? english.cw.com.tw",
+    "ja_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
+    "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
+    "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
+    "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
     "translation_status": "pending_api_key"
   },
   {
     "id": "1ae1ecb885c80a19",
     "date": "2026-09-14",
-    "source": "매일경제",
+    "source": "mk.co.kr",
     "source_lang": "EN",
     "category": "Japan-Korea",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pc2oxVEZxQ1NRajB5WnJ2MjFMNFZjbWFNckZQSnBaZHB1UmFhSTBFTXZSdFMtN09RWUw4X0hac1Y4X2EwX0x4R18tR1Q3d1czdHVmNWxB?oc=5",
-    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
     "tags": [
       "Japan-Korea"
     ],
-    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
-    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
+    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - mk.co.kr",
+    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
+    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. mk.co.kr",
     "translation_status": "pending_api_key"
   }
 ]
