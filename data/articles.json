@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "7086c3206da94775",
+    "date": "2026-09-23",
+    "source": "Siemens Newsroom",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVclV6bDN2SnJ1aFA0aV9wMThJVk5vVUR6Wlc2bTNBTkFVekpDVkFaOFF6aVFJTUlvMk9VUkpKblZDMS1OUHRSclY4djRURlFKcGR3UmV2cElEcklHbEIyTWV3MDJsdjRuMzVDN1NGQm9jeEZ5c19jdA?oc=5",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "dbe7ff7250cec2c8",
     "date": "2026-09-22",
     "source": "finance.biggo.com",
@@ -38,37 +56,37 @@
   {
     "id": "16e2573d47e3d2e9",
     "date": "2026-09-22",
-    "source": "tspasemiconductor.substack.com",
+    "source": "semivision",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0xxaG9OQ2t4MGxEcVh0b0hPWWNEM3BEU0lUU1BOQmF1UkdkN1Z3djF2bm9aSjNfMWt0RmlmdWxoN08yX3ZRdkdVOVltU3c4VFhZYUwwelJuNTVUaTVaenltcnhOLWtOVzlpc2lQcEVLS01aMm1uMWdwMk8wS3lMeTQ4djY?oc=5",
-    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
+    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
-    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
+    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
+    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
     "translation_status": "pending_api_key"
   },
   {
     "id": "e87c58fe539b78bd",
     "date": "2026-09-21",
-    "source": "24/7 Wall St.",
+    "source": "247wallst.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -110,19 +128,19 @@
   {
     "id": "8ac8ea9ac61f6281",
     "date": "2026-09-21",
-    "source": "globalsources.com",
+    "source": "Global Sources",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1dQei1iakNmQzl1blFfX3FGRmRPTGFRd0huYkdXZWIzTEFRclhfd3ZONXJvRHp3eVRGeXE3Rng5Wl90emdZbEY4WlRrQU1HNWhlVjVaTzNBSkhNNk9LNjAwZDFsZ1JKR3daZENnMWZObzdWV2Qyb2NGTi1JTE9ONE1rZ1VKbEVSWGxuWE94czNJZnpKeFZEcUZhai0wRnBDa2ZSc0VMZEptLXNoeW50SmFKaFowdTUtYWlkdnlGbF9UdHd0NVFsWFpXZWxTVnNyS0pOaHUwb2Y0ZFJEZ1E?oc=5",
-    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
-    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
     "translation_status": "pending_api_key"
   },
   {
