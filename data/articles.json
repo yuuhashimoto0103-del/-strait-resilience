@@ -1,5 +1,23 @@
 [
   {
+    "id": "9198493b9f17cee6",
+    "date": "2026-09-23",
+    "source": "天下雜誌",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWDZhSVVZTW9tcWhPV3F4WGlvT0lrWmw3M01CQmJBblVqb2dLSVNNYVNVSi1Ja3VWX19GcXZiSDVHejFaeWg5M3AyNjVBQTJvcU1HX0pqLXBwc2IwWmVvajR4cEE0VEk?oc=5",
+    "original_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "original_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
+    "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "dbe7ff7250cec2c8",
     "date": "2026-09-22",
     "source": "finance.biggo.com",
@@ -38,19 +56,19 @@
   {
     "id": "e87c58fe539b78bd",
     "date": "2026-09-21",
-    "source": "24/7 Wall St.",
+    "source": "247wallst.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -128,19 +146,19 @@
   {
     "id": "50b9bbbb76495a08",
     "date": "2026-09-21",
-    "source": "The420.in",
+    "source": "the420.in",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlR3RLWXNVTFpfWFB2NWFCYnFSOE9IVjRqMWNUYnZ3VTEzVmZLQjV0WkFuZ1NvRFRQMXl2U21fX3Ezb0R0MHVyODk0dEwxVXVfRmw0czRjU3ZvTVhUUG5OQkV1U0xJajd5dXVHSDZrYzZoNHVPdW5vQXd5UEhXdw?oc=5",
-    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
-    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
+    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
     "translation_status": "pending_api_key"
   },
   {
@@ -159,24 +177,6 @@
     "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
     "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
     "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "0d50f0165082135d",
-    "date": "2026-09-21",
-    "source": "TradingView",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWm9PT19YWFZIT3dZVkFyUVVIVlFYSy1fenN1dWxrN2dhdGx5bEd0TlNyVjkxWi1fVzB2Y09hSWZrVmZnY1E2cXAwVkkwdXVZR2Q4N3VqMk51QlFzZVdZS3gyU0R6ZkF4NU9GcjN3V0hCbTVDSl9KVUFKb1pCcHpiT1dnZ3hCSzQzQXc3U1JFX1NfOTA2aHhJVmJacS1heXdJWXJmb092dDdFQmZRTnY4NkxadFVWOS16?oc=5",
-    "original_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
-    "original_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
-    "ko_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
-    "ja_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
-    "ko_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
     "translation_status": "pending_api_key"
   },
   {
