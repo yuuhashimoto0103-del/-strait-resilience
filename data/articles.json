@@ -1,20 +1,56 @@
 [
   {
-    "id": "e85c9685bb106479",
-    "date": "2026-09-23",
-    "source": "Siemens Newsroom",
+    "id": "db1d8c267f7c2ca4",
+    "date": "2026-09-24",
+    "source": "semivision",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DN21QamJRQmJ6OXhRYS1CZ2xZX1FvcjQzaVRLVW1fU3J1SS1fRWtxbHNQSEtKWTA3RDhiVTlYS2xjdnlJODM5alVGTkl3aUFWM3FhYnhJcDlmMHFLQ2RxdW5CdkVheTIyVkROS3Q1UFRiT0lxTVZlLQ?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TYXVlb0x6ZWd0SG9heV9JMHR0V2Vsd0d6RlNnd09QWV9oUUk0elJjVy1iOHNHS0JSZnMwTHo4QWNTSlgyZjNROUdicnZLYm9EYk9vYjdrZjZQeVJGVGlaZGlqWDF0eURpclVmd0xMczB5eU4wRk1vWmJLZGtLZw?oc=5",
+    "original_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "original_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "ja_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "ko_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "ja_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
+    "ko_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "115d7c79bf039b54",
+    "date": "2026-09-24",
+    "source": "news.siemens.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaEliZjU2ZnlSSjZWM2lTQmNtWWRfZXptTmFVT2V5YU1DbVFCRkR0U2pQbF9XNS1sM2FRZkZzbGl4QllQZHpzZG5KVWlDTkY4UHpRcGtVbDVzVHJzMHhoTUV1QlhuQWdvS2VpenpmMGdPTXUtRE0zTg?oc=5",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "b953a6be4a7d8b0b",
+    "date": "2026-09-23",
+    "source": "The Fast Mode",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcC11c2w1dDBUeWdFQ0laM2hLWkd0UjNLSll0LThwS25oY0FRZm9LbGljX044Q3BlTHN6NU9nY1lBM2RMT05zaVFfLTN5ZFB1b29uajZUUHNic3BUcGE2LTdEeUdLX3lOY2l4VjFhN1NrQzFUbk9rd0lmdEcxUWI4QUFSRnFuRHk4cVVXclo1ZjZUdGM4NEt2dUpPYkdhMHJUTzV4S0o4bU95cXl5RUN6anJZYW9wLVlEcktqRkVn?oc=5",
+    "original_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
+    "original_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
+    "ko_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
+    "ja_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
+    "ko_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
     "translation_status": "pending_api_key"
   },
   {
@@ -128,19 +164,19 @@
   {
     "id": "8ac8ea9ac61f6281",
     "date": "2026-09-21",
-    "source": "globalsources.com",
+    "source": "Global Sources",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1dQei1iakNmQzl1blFfX3FGRmRPTGFRd0huYkdXZWIzTEFRclhfd3ZONXJvRHp3eVRGeXE3Rng5Wl90emdZbEY4WlRrQU1HNWhlVjVaTzNBSkhNNk9LNjAwZDFsZ1JKR3daZENnMWZObzdWV2Qyb2NGTi1JTE9ONE1rZ1VKbEVSWGxuWE94czNJZnpKeFZEcUZhai0wRnBDa2ZSc0VMZEptLXNoeW50SmFKaFowdTUtYWlkdnlGbF9UdHd0NVFsWFpXZWxTVnNyS0pOaHUwb2Y0ZFJEZ1E?oc=5",
-    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
-    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
-    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
+    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
     "translation_status": "pending_api_key"
   },
   {
@@ -164,37 +200,37 @@
   {
     "id": "50b9bbbb76495a08",
     "date": "2026-09-21",
-    "source": "The420.in",
+    "source": "the420.in",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlR3RLWXNVTFpfWFB2NWFCYnFSOE9IVjRqMWNUYnZ3VTEzVmZLQjV0WkFuZ1NvRFRQMXl2U21fX3Ezb0R0MHVyODk0dEwxVXVfRmw0czRjU3ZvTVhUUG5OQkV1U0xJajd5dXVHSDZrYzZoNHVPdW5vQXd5UEhXdw?oc=5",
-    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "original_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "original_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
-    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
-    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "ja_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - the420.in",
+    "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
+    "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC the420.in",
     "translation_status": "pending_api_key"
   },
   {
     "id": "13d552f182db90b0",
     "date": "2026-09-21",
-    "source": "technode.global",
+    "source": "TNGlobal",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHVUQ3hzd1I0SGxEbmJDbmxNTjJZakJYQURiaU5fX0hnU2dELVMtMFRyb3FBYi1IVzViek81U0Y5RlgyYWRaelF0bWxOc29GalZrMUxzb3ZKd2UtVE8wQ2JiU0NUbVhkeDdOdVBseGw1bjZEN3hfTUs1SHBHTkJ2bWNwRFF5cHdUSGRuOU5yTHY?oc=5",
-    "original_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
-    "original_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
+    "original_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "original_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
-    "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
-    "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
-    "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
+    "ja_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
+    "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
+    "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
     "translation_status": "pending_api_key"
   },
   {
