@@ -1,5 +1,23 @@
 [
   {
+    "id": "e85c9685bb106479",
+    "date": "2026-09-23",
+    "source": "Siemens Newsroom",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DN21QamJRQmJ6OXhRYS1CZ2xZX1FvcjQzaVRLVW1fU3J1SS1fRWtxbHNQSEtKWTA3RDhiVTlYS2xjdnlJODM5alVGTkl3aUFWM3FhYnhJcDlmMHFLQ2RxdW5CdkVheTIyVkROS3Q1UFRiT0lxTVZlLQ?oc=5",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "9198493b9f17cee6",
     "date": "2026-09-23",
     "source": "天下雜誌",
@@ -15,24 +33,6 @@
     "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
     "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
     "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7086c3206da94775",
-    "date": "2026-09-23",
-    "source": "Siemens Newsroom",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVclV6bDN2SnJ1aFA0aV9wMThJVk5vVUR6Wlc2bTNBTkFVekpDVkFaOFF6aVFJTUlvMk9VUkpKblZDMS1OUHRSclY4djRURlFKcGR3UmV2cElEcklHbEIyTWV3MDJsdjRuMzVDN1NGQm9jeEZ5c19jdA?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
     "translation_status": "pending_api_key"
   },
   {
@@ -74,19 +74,19 @@
   {
     "id": "e87c58fe539b78bd",
     "date": "2026-09-21",
-    "source": "247wallst.com",
+    "source": "24/7 Wall St.",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "translation_status": "pending_api_key"
   },
   {
@@ -128,19 +128,19 @@
   {
     "id": "8ac8ea9ac61f6281",
     "date": "2026-09-21",
-    "source": "Global Sources",
+    "source": "globalsources.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1dQei1iakNmQzl1blFfX3FGRmRPTGFRd0huYkdXZWIzTEFRclhfd3ZONXJvRHp3eVRGeXE3Rng5Wl90emdZbEY4WlRrQU1HNWhlVjVaTzNBSkhNNk9LNjAwZDFsZ1JKR3daZENnMWZObzdWV2Qyb2NGTi1JTE9ONE1rZ1VKbEVSWGxuWE94czNJZnpKeFZEcUZhai0wRnBDa2ZSc0VMZEptLXNoeW50SmFKaFowdTUtYWlkdnlGbF9UdHd0NVFsWFpXZWxTVnNyS0pOaHUwb2Y0ZFJEZ1E?oc=5",
-    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "original_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "original_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - Global Sources",
-    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
-    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC Global Sources",
+    "ja_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "ko_title": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC - globalsources.com",
+    "ja_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
+    "ko_summary": "Taiwan advances semiconductor ecosystem with Kaohsiung packaging hub near TSMC globalsources.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -182,19 +182,37 @@
   {
     "id": "13d552f182db90b0",
     "date": "2026-09-21",
-    "source": "TNGlobal",
+    "source": "technode.global",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHVUQ3hzd1I0SGxEbmJDbmxNTjJZakJYQURiaU5fX0hnU2dELVMtMFRyb3FBYi1IVzViek81U0Y5RlgyYWRaelF0bWxOc29GalZrMUxzb3ZKd2UtVE8wQ2JiU0NUbVhkeDdOdVBseGw1bjZEN3hfTUs1SHBHTkJ2bWNwRFF5cHdUSGRuOU5yTHY?oc=5",
-    "original_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
-    "original_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
+    "original_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
+    "original_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
-    "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - TNGlobal",
-    "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
-    "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC TNGlobal",
+    "ja_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
+    "ko_title": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC - technode.global",
+    "ja_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
+    "ko_summary": "Taiwan breaks ground on Kaohsiung advanced-packaging park anchored by TSMC technode.global",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "0d50f0165082135d",
+    "date": "2026-09-21",
+    "source": "TradingView",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWm9PT19YWFZIT3dZVkFyUVVIVlFYSy1fenN1dWxrN2dhdGx5bEd0TlNyVjkxWi1fVzB2Y09hSWZrVmZnY1E2cXAwVkkwdXVZR2Q4N3VqMk51QlFzZVdZS3gyU0R6ZkF4NU9GcjN3V0hCbTVDSl9KVUFKb1pCcHpiT1dnZ3hCSzQzQXc3U1JFX1NfOTA2aHhJVmJacS1heXdJWXJmb092dDdFQmZRTnY4NkxadFVWOS16?oc=5",
+    "original_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
+    "original_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
+    "ko_title": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? - TradingView",
+    "ja_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
+    "ko_summary": "Amkor's AI and HPC Packaging Demand Grows: Can Growth Continue? TradingView",
     "translation_status": "pending_api_key"
   },
   {
