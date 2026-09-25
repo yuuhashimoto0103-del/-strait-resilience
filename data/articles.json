@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "115d7c79bf039b54",
+    "date": "2026-09-24",
+    "source": "news.siemens.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaEliZjU2ZnlSSjZWM2lTQmNtWWRfZXptTmFVT2V5YU1DbVFCRkR0U2pQbF9XNS1sM2FRZkZzbGl4QllQZHpzZG5KVWlDTkY4UHpRcGtVbDVzVHJzMHhoTUV1QlhuQWdvS2VpenpmMGdPTXUtRE0zTg?oc=5",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "b953a6be4a7d8b0b",
     "date": "2026-09-23",
     "source": "The Fast Mode",
@@ -33,24 +51,6 @@
     "ko_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
     "ja_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
     "ko_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "b0d3aea208f115ee",
-    "date": "2026-09-23",
-    "source": "Siemens Newsroom",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNWU4MlBSd2hkUmgzdTZQZkotTTBQazJyaGkyMmx0QVNFdDJuR1ZhTi1BR1FuNGJYY002aXpCdXRuX3ZLdXkwSnRkMnl1eTRKdzBFb3QtUUlCS2RRbU1YZ1k2MENvRk1jbG0yM0NNSXYxemlBd2dNMg?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
     "translation_status": "pending_api_key"
   },
   {
@@ -285,24 +285,6 @@
     "ko_title": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? - 天下雜誌",
     "ja_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
     "ko_summary": "What Is Taiwan’s “Silicon Shield”—and Does It Still Protect Taiwan in 2026? 天下雜誌",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "1ae1ecb885c80a19",
-    "date": "2026-09-14",
-    "source": "매일경제",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Pc2oxVEZxQ1NRajB5WnJ2MjFMNFZjbWFNckZQSnBaZHB1UmFhSTBFTXZSdFMtN09RWUw4X0hac1Y4X2EwX0x4R18tR1Q3d1czdHVmNWxB?oc=5",
-    "original_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "original_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "ko_title": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. - 매일경제",
-    "ja_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
-    "ko_summary": "The \"spring day\" continues in Korea-Japan relations. Shuttle diplomacy has been restored and economi.. 매일경제",
     "translation_status": "pending_api_key"
   }
 ]
