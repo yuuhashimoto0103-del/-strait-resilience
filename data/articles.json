@@ -1,5 +1,23 @@
 [
   {
+    "id": "f834a166ea0686d8",
+    "date": "2026-09-27",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDZGpKd2g5S003SEVTSWxmU1pUR09LZGtFazE2MVN6Ulg2Vml0NzdycUNwaWJFYU8tVEVSRDQyR2M3SXFZWmhnMTBFWkh2X2YxUEZwN2pmQkNJOUVkTnUySHNsS2tLY0o5X2ZnVjFweGI4ZG01bVE?oc=5",
+    "original_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - finance.biggo.com",
+    "original_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - finance.biggo.com",
+    "ko_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - finance.biggo.com",
+    "ja_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants finance.biggo.com",
+    "ko_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "652fda3d4660d24a",
     "date": "2026-09-26",
     "source": "아시아경제",
@@ -92,19 +110,19 @@
   {
     "id": "7086c3206da94775",
     "date": "2026-09-23",
-    "source": "Siemens Newsroom",
+    "source": "news.siemens.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVclV6bDN2SnJ1aFA0aV9wMThJVk5vVUR6Wlc2bTNBTkFVekpDVkFaOFF6aVFJTUlvMk9VUkpKblZDMS1OUHRSclY4djRURlFKcGR3UmV2cElEcklHbEIyTWV3MDJsdjRuMzVDN1NGQm9jeEZ5c19jdA?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -164,19 +182,19 @@
   {
     "id": "9496a0e51e84fe0a",
     "date": "2026-09-21",
-    "source": "reuters.com",
+    "source": "Reuters",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
-    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
+    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
-    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
-    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
-    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
+    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
+    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
     "translation_status": "pending_api_key"
   },
   {
