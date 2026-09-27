@@ -110,19 +110,19 @@
   {
     "id": "7086c3206da94775",
     "date": "2026-09-23",
-    "source": "news.siemens.com",
+    "source": "Siemens Newsroom",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVclV6bDN2SnJ1aFA0aV9wMThJVk5vVUR6Wlc2bTNBTkFVekpDVkFaOFF6aVFJTUlvMk9VUkpKblZDMS1OUHRSclY4djRURlFKcGR3UmV2cElEcklHbEIyTWV3MDJsdjRuMzVDN1NGQm9jeEZ5c19jdA?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation news.siemens.com",
+    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
+    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
     "translation_status": "pending_api_key"
   },
   {
@@ -249,6 +249,24 @@
     "ko_title": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC - The420.in",
     "ja_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
     "ko_summary": "Taiwan Breaks Ground on Advanced Packaging Park Anchored by TSMC The420.in",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "27580499142b01c9",
+    "date": "2026-09-21",
+    "source": "The Manila Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLTEzZUxWRVVTWS1rRVBqemJIUlNQLUlQWVFrWEszNHRxZHplcDktQUhsM2pYNC1qdUFLZ0FMcDczZWVFNUg2OTNlaGRWZ1I3dnMtY2N1bmJJWFVzVFdXZXVvZ2xkNThPWVVHQVpyZXJWV3RoY0RTUXI5aEZBdzRBQnJsMTBOXzRnRTFQUzlrZ2NCb3ljYkVPam1lcW5HSWxRWUFrM2lXa1FQLW9DQkNDX3BPUzZ0RnA3eDRoaTBwT3lFTkJ0ZE1PbDRWdVFIdURiaEtZ0gHYAUFVX3lxTE5paGVaaEZzdFE2dHp6SnlZQm96bUp3Q1NHcTdIZy1Gb1AybXFmQ21ZMXJaUDg3T2RxN2J2QVhCY3BHSDRwZy1zZUs2b3VHSV90bndPQnVFQ1RnYnh3aVRJaWtXd054UVpUT3lxaEtsWUxFalh3dHItN2tMMXJrUEFsQTJ3SkFLN3dZSWE1Q1Bod1FZQmw4dVNZdk03cE5ZTzdzUU1ZQ2FONVl1UEdEM1ppZ3ZFRzB1b3pNejJWU3FuWVZDeDlqWXlUQTd2c0w1WUdkOFloelZ1aQ?oc=5",
+    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
+    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
     "translation_status": "pending_api_key"
   },
   {
