@@ -1,5 +1,23 @@
 [
   {
+    "id": "652fda3d4660d24a",
+    "date": "2026-09-26",
+    "source": "아시아경제",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
+    "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
+    "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
+    "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
+    "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "a826ec0e151bb343",
     "date": "2026-09-25",
     "source": "The Korea Herald",
@@ -128,37 +146,37 @@
   {
     "id": "e87c58fe539b78bd",
     "date": "2026-09-21",
-    "source": "247wallst.com",
+    "source": "24/7 Wall St.",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "translation_status": "pending_api_key"
   },
   {
     "id": "9496a0e51e84fe0a",
     "date": "2026-09-21",
-    "source": "Reuters",
+    "source": "reuters.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
+    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
-    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
+    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - reuters.com",
+    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
+    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC reuters.com",
     "translation_status": "pending_api_key"
   },
   {
