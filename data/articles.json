@@ -18,39 +18,57 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "652fda3d4660d24a",
-    "date": "2026-09-26",
-    "source": "아시아경제",
+    "id": "99396d7906a02ca8",
+    "date": "2026-09-27",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
-    "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81TDUydVE4d2VuN0VRLWoxUjZ6ZG9FN3RrTnJBdnhJR1BFaVgycDU0ekRiVkRHOG9YYmJua1Q3Qy1qMXlzLVVpclhIVnJpb0VKcTBjN2lodnFDWGEwR2tUQ2ZNUXdvdjdIWFNFN1piZjVVTzdmaDUybg?oc=5",
+    "original_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
+    "original_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
-    "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "ja_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
+    "ko_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
+    "ja_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
+    "ko_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "652fda3d4660d24a",
+    "date": "2026-09-26",
+    "source": "asiae.co.kr",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
+    "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
+    "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
     "translation_status": "pending_api_key"
   },
   {
     "id": "a826ec0e151bb343",
     "date": "2026-09-25",
-    "source": "The Korea Herald",
+    "source": "koreaherald.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5obFRZNjRybjFsTUNrbTFkQ2NjREZfTmlRZXp3OHh3RUM5aFAxczhqbUpIa3V3MWNQMTc5dFNYLUJSaGxWZFhuQU5xZzREU1pUeVUtMTIxUQ?oc=5",
-    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
+    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
+    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
-    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
+    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
+    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
+    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
+    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -74,37 +92,37 @@
   {
     "id": "b953a6be4a7d8b0b",
     "date": "2026-09-23",
-    "source": "The Fast Mode",
+    "source": "thefastmode.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcC11c2w1dDBUeWdFQ0laM2hLWkd0UjNLSll0LThwS25oY0FRZm9LbGljX044Q3BlTHN6NU9nY1lBM2RMT05zaVFfLTN5ZFB1b29uajZUUHNic3BUcGE2LTdEeUdLX3lOY2l4VjFhN1NrQzFUbk9rd0lmdEcxUWI4QUFSRnFuRHk4cVVXclo1ZjZUdGM4NEt2dUpPYkdhMHJUTzV4S0o4bU95cXl5RUN6anJZYW9wLVlEcktqRkVn?oc=5",
-    "original_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "original_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
+    "original_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - thefastmode.com",
+    "original_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design thefastmode.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "ko_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "ja_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
-    "ko_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
+    "ja_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - thefastmode.com",
+    "ko_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - thefastmode.com",
+    "ja_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design thefastmode.com",
+    "ko_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design thefastmode.com",
     "translation_status": "pending_api_key"
   },
   {
     "id": "9198493b9f17cee6",
     "date": "2026-09-23",
-    "source": "english.cw.com.tw",
+    "source": "天下雜誌",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWDZhSVVZTW9tcWhPV3F4WGlvT0lrWmw3M01CQmJBblVqb2dLSVNNYVNVSi1Ja3VWX19GcXZiSDVHejFaeWg5M3AyNjVBQTJvcU1HX0pqLXBwc2IwWmVvajR4cEE0VEk?oc=5",
-    "original_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - english.cw.com.tw",
-    "original_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector english.cw.com.tw",
+    "original_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "original_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - english.cw.com.tw",
-    "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - english.cw.com.tw",
-    "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector english.cw.com.tw",
-    "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector english.cw.com.tw",
+    "ja_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
+    "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
+    "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
     "translation_status": "pending_api_key"
   },
   {
@@ -164,19 +182,19 @@
   {
     "id": "e87c58fe539b78bd",
     "date": "2026-09-21",
-    "source": "247wallst.com",
+    "source": "24/7 Wall St.",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 247wallst.com",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 247wallst.com",
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "translation_status": "pending_api_key"
   },
   {
@@ -218,19 +236,19 @@
   {
     "id": "5ff57ea2d3b92d22",
     "date": "2026-09-21",
-    "source": "english.cw.com.tw",
+    "source": "天下雜誌",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iVVVvd0xYSlpWNjVoWm02WDFjck00R3ExVmNLcHZyTVhZbXJ1SW5WOVl3bWV5RGo0bG9STlZmWHBuS1hyRUUyYXc4dEJZMllpVllUWHlxdnQwSDg4cUtKSmV5MUlJcTQ?oc=5",
-    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "original_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "original_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - english.cw.com.tw",
-    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
-    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only english.cw.com.tw",
+    "ja_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ko_title": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only - 天下雜誌",
+    "ja_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
+    "ko_summary": "TSMC's Baipu Plan: Advanced Packaging, Hidden in Plain Sight｜Industry｜2026-09-21｜web only 天下雜誌",
     "translation_status": "pending_api_key"
   },
   {
@@ -254,19 +272,19 @@
   {
     "id": "27580499142b01c9",
     "date": "2026-09-21",
-    "source": "manilatimes.net",
+    "source": "The Manila Times",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLTEzZUxWRVVTWS1rRVBqemJIUlNQLUlQWVFrWEszNHRxZHplcDktQUhsM2pYNC1qdUFLZ0FMcDczZWVFNUg2OTNlaGRWZ1I3dnMtY2N1bmJJWFVzVFdXZXVvZ2xkNThPWVVHQVpyZXJWV3RoY0RTUXI5aEZBdzRBQnJsMTBOXzRnRTFQUzlrZ2NCb3ljYkVPam1lcW5HSWxRWUFrM2lXa1FQLW9DQkNDX3BPUzZ0RnA3eDRoaTBwT3lFTkJ0ZE1PbDRWdVFIdURiaEtZ0gHYAUFVX3lxTE5paGVaaEZzdFE2dHp6SnlZQm96bUp3Q1NHcTdIZy1Gb1AybXFmQ21ZMXJaUDg3T2RxN2J2QVhCY3BHSDRwZy1zZUs2b3VHSV90bndPQnVFQ1RnYnh3aVRJaWtXd054UVpUT3lxaEtsWUxFalh3dHItN2tMMXJrUEFsQTJ3SkFLN3dZSWE1Q1Bod1FZQmw4dVNZdk03cE5ZTzdzUU1ZQ2FONVl1UEdEM1ppZ3ZFRzB1b3pNejJWU3FuWVZDeDlqWXlUQTd2c0w1WUdkOFloelZ1aQ?oc=5",
-    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - manilatimes.net",
-    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC manilatimes.net",
+    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - manilatimes.net",
-    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - manilatimes.net",
-    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC manilatimes.net",
-    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC manilatimes.net",
+    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - The Manila Times",
+    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
+    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC The Manila Times",
     "translation_status": "pending_api_key"
   },
   {
