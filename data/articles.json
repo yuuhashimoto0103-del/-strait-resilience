@@ -36,6 +36,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "d3af6219765642e6",
+    "date": "2026-09-28",
+    "source": "Advanced Manufacturing",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX05mUmRBc3I1VFlkTnBlUlQzYmtFNmVTV2ZHdE53d0gtZnJoeWg1TFBYM095ejNVcFd2T21WQTQyaC1tWlFmU3RXM255bTlsMjdnVnRUZkZWS2lUSUhLY1ZPeEJBU0FIeFd3MGNyRlRmVVBIVWg4RzhLREI2TUduejk0UExtRklxTkFjSTJMODVPN3N1aEhEMEpubmRGa0VwMW9KMk1reURxSzVmYXQ2MEJNLTQzemNSNHRsNGpCdUNIdnZYQjhheHpaTWltWW1MSHhpQW54aEx1NkkyU3lXOTBQTmcyUHNWSl8zRGVSWmlydTZMdi13eg?oc=5",
+    "original_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "original_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "ko_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "ja_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
+    "ko_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "53ed08b758c283ac",
     "date": "2026-09-28",
     "source": "Businesskorea",
@@ -144,12 +162,12 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "652fda3d4660d24a",
+    "id": "ab962570440bbade",
     "date": "2026-09-26",
     "source": "아시아경제",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lN202TDlUVDVjbzRCdkdUcWNISTNydURWVmtSbEliNF9oQm1CdU5GX193Qmh0S1VKaXF0ZGdVSDZzLWRiNEtXUnZsX3Ewd0l2Z1Q0dThfVlg1Y2VCZzJkNVZJaDlfTHhpMTlJU09Ed01XUkN5VEtoaQ?oc=5",
     "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
     "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
     "tags": [
@@ -231,24 +249,6 @@
     "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
     "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
     "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7086c3206da94775",
-    "date": "2026-09-23",
-    "source": "Siemens Newsroom",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVclV6bDN2SnJ1aFA0aV9wMThJVk5vVUR6Wlc2bTNBTkFVekpDVkFaOFF6aVFJTUlvMk9VUkpKblZDMS1OUHRSclY4djRURlFKcGR3UmV2cElEcklHbEIyTWV3MDJsdjRuMzVDN1NGQm9jeEZ5c19jdA?oc=5",
-    "original_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "original_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ko_title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
-    "ja_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
-    "ko_summary": "Siemens and TSMC advance AI-powered semiconductor design automation Siemens Newsroom",
     "translation_status": "pending_api_key"
   },
   {
