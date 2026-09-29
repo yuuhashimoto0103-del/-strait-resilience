@@ -1,5 +1,23 @@
 [
   {
+    "id": "99b256122eed8596",
+    "date": "2026-09-29",
+    "source": "Tech Edition",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3pRZGo0Y0hWR1EwbHRSRFRHcmF0Ui1IMW1fSjg0emlJdmFsUjlkYXVGNVFuSEEzdmJFQzZ2T2IyN3hNbWZKZGlOWFdoX1FIODVXTU1yZGhoTUlXOWZ3MVQyNHNpQXlpdXQ2bEwwTmVvTWZqV24xNWlUSExnTGktaXZITm1SUVJsTWc4QjZRTDFwOFU?oc=5",
+    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "6b6b8754ebad73ef",
     "date": "2026-09-29",
     "source": "Hinrich Foundation",
@@ -108,24 +126,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "517ab0083223f47c",
-    "date": "2026-09-28",
-    "source": "Chosunbiz",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQTBFdVh6VlN5ZnVDSlM2Rmd1aWRoTHVaUWdpelB0TGk2WHFrVnpxWmJwUld2OFdWSEFRc29SclN2Qm11ZnhwZ2ZLdFpRUHMyd01RN0ZQQ2NKR0EteVEtSERZLUJ2dFRfMDdZbllHUUE5SHpyQVlCaFV30gGOAUFVX3lxTE80dlRjYlNBazNRRXpHbFg0T1FBcUhkb3ZPSDFlT0p4Q1k1VG1BSmVTT1hmSVNBNFJJLVZwMTRZRHFwQnNjNERQZkRqcEQtR1hEem9haXNkUjhDbjdXU3NCS0dOQ251T2dEQS1hSzZRTk9rR3VuVmtPakEtNl95c29taEFxMFJQSmV1NkNMdlE?oc=5",
-    "original_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ - Chosunbiz",
-    "original_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ Chosunbiz",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ - Chosunbiz",
-    "ko_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ - Chosunbiz",
-    "ja_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ Chosunbiz",
-    "ko_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again - CHOSUNBIZ Chosunbiz",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "2ee8b3c6cf5f5dc2",
     "date": "2026-09-28",
     "source": "news.sbs.co.kr",
@@ -198,21 +198,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "652fda3d4660d24a",
+    "id": "ab962570440bbade",
     "date": "2026-09-26",
-    "source": "아시아경제",
+    "source": "asiae.co.kr",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
-    "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lN202TDlUVDVjbzRCdkdUcWNISTNydURWVmtSbEliNF9oQm1CdU5GX193Qmh0S1VKaXF0ZGdVSDZzLWRiNEtXUnZsX3Ewd0l2Z1Q0dThfVlg1Y2VCZzJkNVZJaDlfTHhpMTlJU09Ed01XUkN5VEtoaQ?oc=5",
+    "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
-    "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
-    "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
+    "ja_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - asiae.co.kr",
+    "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
+    "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners asiae.co.kr",
     "translation_status": "pending_api_key"
   },
   {
@@ -236,19 +236,19 @@
   {
     "id": "db1d8c267f7c2ca4",
     "date": "2026-09-24",
-    "source": "tspasemiconductor.substack.com",
+    "source": "semivision",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TYXVlb0x6ZWd0SG9heV9JMHR0V2Vsd0d6RlNnd09QWV9oUUk0elJjVy1iOHNHS0JSZnMwTHo4QWNTSlgyZjNROUdicnZLYm9EYk9vYjdrZjZQeVJGVGlaZGlqWDF0eURpclVmd0xMczB5eU4wRk1vWmJLZGtLZw?oc=5",
-    "original_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
-    "original_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
+    "original_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "original_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
-    "ko_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
-    "ja_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
-    "ko_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
+    "ja_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "ko_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
+    "ja_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
+    "ko_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
     "translation_status": "pending_api_key"
   },
   {
@@ -288,39 +288,39 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "dbe7ff7250cec2c8",
-    "date": "2026-09-22",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tZzRyTC1sdGN1SUF2aGRoMk9iUUIxSzBTeFhaYjBsOFdqSG1HM0RudHFDazVINEVteXdtY0s4aV9sUE1OSUxmcENCdmd5RmdReHhscC04MlpqSWJLNGhwMXpIQXg0NV91dGVKeHoycE5Jb2o1d1E?oc=5",
-    "original_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "original_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "ko_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "ja_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
-    "ko_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "16e2573d47e3d2e9",
     "date": "2026-09-22",
-    "source": "tspasemiconductor.substack.com",
+    "source": "semivision",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0xxaG9OQ2t4MGxEcVh0b0hPWWNEM3BEU0lUU1BOQmF1UkdkN1Z3djF2bm9aSjNfMWt0RmlmdWxoN08yX3ZRdkdVOVltU3c4VFhZYUwwelJuNTVUaTVaenltcnhOLWtOVzlpc2lQcEVLS01aMm1uMWdwMk8wS3lMeTQ4djY?oc=5",
-    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
+    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
-    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
-    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
+    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
+    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
+    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "e87c58fe539b78bd",
+    "date": "2026-09-21",
+    "source": "24/7 Wall St.",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
+    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
+    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
+    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
     "translation_status": "pending_api_key"
   }
 ]
