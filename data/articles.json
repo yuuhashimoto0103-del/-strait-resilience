@@ -1,20 +1,56 @@
 [
   {
-    "id": "fbf76a910757ca02",
-    "date": "2026-09-28",
-    "source": "tradingkey.com",
+    "id": "6b6b8754ebad73ef",
+    "date": "2026-09-29",
+    "source": "Hinrich Foundation",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmRneGg5R1ZScFpEOEhCN3dGSTdPSzdoZlJwQzNDRkVNQWwxdkY1UUJtb0E5cnhlN2drNDh6ZFBRR3pVWWJFUE9tTGlIcVo1Rzc2Q21wZTdKMzFSbno0Vkh0RkFUN0c0SlkzaEhCRkxLR0hLa2x6Ty02dHJpcWJ0c1I3S3MxT2FCOUpxTHpLN0RqOHlKaW90X0pwZDVZQ0U4eUk0a21KQ0FLZkF6SmhRUEJaZkJTSGc?oc=5",
-    "original_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - tradingkey.com",
-    "original_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand tradingkey.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
+    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - tradingkey.com",
-    "ko_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - tradingkey.com",
-    "ja_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand tradingkey.com",
-    "ko_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand tradingkey.com",
+    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "66030a74e78af384",
+    "date": "2026-09-29",
+    "source": "EE Times Asia",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak4tRWEwN0pLY1E3ZHpoTTdQTXBlV2I4NE11emU4N2REaU9zdHBJTUg5RW0wY2tpaXBIWm1DZVR4WFliVzJlRlF5eHIxUzBzREdJNERHN0pHeGVLRXRVS0V5VlMzYWVneEZHMmxMT2pydW8xSEpHRDBWa1VMOXdGTTZMLTBGYjMzajJIM2RqZTNuQnFmYVgtb2h3?oc=5",
+    "original_title": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement - EE Times Asia",
+    "original_summary": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement EE Times Asia",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement - EE Times Asia",
+    "ko_title": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement - EE Times Asia",
+    "ja_summary": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement EE Times Asia",
+    "ko_summary": "Siemens, TSMC Expand AI-driven EDA and Advanced-node Design Enablement EE Times Asia",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "fbf76a910757ca02",
+    "date": "2026-09-28",
+    "source": "TradingKey",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmRneGg5R1ZScFpEOEhCN3dGSTdPSzdoZlJwQzNDRkVNQWwxdkY1UUJtb0E5cnhlN2drNDh6ZFBRR3pVWWJFUE9tTGlIcVo1Rzc2Q21wZTdKMzFSbno0Vkh0RkFUN0c0SlkzaEhCRkxLR0hLa2x6Ty02dHJpcWJ0c1I3S3MxT2FCOUpxTHpLN0RqOHlKaW90X0pwZDVZQ0U4eUk0a21KQ0FLZkF6SmhRUEJaZkJTSGc?oc=5",
+    "original_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
+    "original_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
+    "ko_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
+    "ja_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
+    "ko_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
     "translation_status": "pending_api_key"
   },
   {
@@ -162,12 +198,12 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "ab962570440bbade",
+    "id": "652fda3d4660d24a",
     "date": "2026-09-26",
     "source": "아시아경제",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lN202TDlUVDVjbzRCdkdUcWNISTNydURWVmtSbEliNF9oQm1CdU5GX193Qmh0S1VKaXF0ZGdVSDZzLWRiNEtXUnZsX3Ewd0l2Z1Q0dThfVlg1Y2VCZzJkNVZJaDlfTHhpMTlJU09Ed01XUkN5VEtoaQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeE9UQ2xaei1jZFd3TFU3RVlFTkU3OGQ3YWpLb1d0UDBvNnQwZXliZ3JFZGYyWVVCTHpYNlREQ3pSWVBHTlRNMVl6Ykp6VWoybU9EbGd4dE5mYVNoY3poeElieEU?oc=5",
     "original_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
     "original_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
     "tags": [
@@ -200,19 +236,19 @@
   {
     "id": "db1d8c267f7c2ca4",
     "date": "2026-09-24",
-    "source": "semivision",
+    "source": "tspasemiconductor.substack.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TYXVlb0x6ZWd0SG9heV9JMHR0V2Vsd0d6RlNnd09QWV9oUUk0elJjVy1iOHNHS0JSZnMwTHo4QWNTSlgyZjNROUdicnZLYm9EYk9vYjdrZjZQeVJGVGlaZGlqWDF0eURpclVmd0xMczB5eU4wRk1vWmJLZGtLZw?oc=5",
-    "original_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
-    "original_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
+    "original_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
+    "original_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
-    "ko_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - semivision",
-    "ja_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
-    "ko_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization semivision",
+    "ja_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
+    "ko_title": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization - tspasemiconductor.substack.com",
+    "ja_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
+    "ko_summary": "When Everyone Wants to Replicate Taiwan: The Semiconductor Supply Chain Enters the Age of Localization tspasemiconductor.substack.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -272,55 +308,19 @@
   {
     "id": "16e2573d47e3d2e9",
     "date": "2026-09-22",
-    "source": "semivision",
+    "source": "tspasemiconductor.substack.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0xxaG9OQ2t4MGxEcVh0b0hPWWNEM3BEU0lUU1BOQmF1UkdkN1Z3djF2bm9aSjNfMWt0RmlmdWxoN08yX3ZRdkdVOVltU3c4VFhZYUwwelJuNTVUaTVaenltcnhOLWtOVzlpc2lQcEVLS01aMm1uMWdwMk8wS3lMeTQ4djY?oc=5",
-    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
-    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
+    "original_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
+    "original_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
-    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - semivision",
-    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
-    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung semivision",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e87c58fe539b78bd",
-    "date": "2026-09-21",
-    "source": "24/7 Wall St.",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hFdFI5VkExWl8tN1BtbUhaMWMwRTVLMnBnTnRhM0ZIaTBTZHdCdnA5aUZCa0dWSDBqSUo4X3AteXJpaXBSeXFORDh0NW1OMEI0dXlxSERRQ05Wc2YyVHdhdjZ3T2o2eVg5UVFTUFNIY1p3TXVQdTFBZXN1ZlQxQklOZjEyR3ZMMVlmNEg2eGk1LVU?oc=5",
-    "original_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "original_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ko_title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom - 24/7 Wall St.",
-    "ja_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
-    "ko_summary": "3 Chip Stocks Set to Win TSMC’s Packaging Boom 24/7 Wall St.",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "9496a0e51e84fe0a",
-    "date": "2026-09-21",
-    "source": "Reuters",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGV6cVJvQlJmWmV0dDdLM0Vka0hFMy03UlZlQzAxTkFZYVdncmZHNER0Sld3U2tWcGdweDdYRmJXMmg1cmVkSmxKaE1WLWM2TFhYVEw2azFIV1ozSzV4S1FOSTh5aUl3eHYydzV0T25uTDFKX0NDTk05X05VclhHTE5HdDYwSHRBcFgxX3F2ZTdORTV6bWVmbk42X2JXcUpkcEgtaWFveG1LNTg4YjNLd0VYV3hPRk0?oc=5",
-    "original_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "original_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "ko_title": "Taiwan breaks ground on advanced packaging park anchored by TSMC - Reuters",
-    "ja_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
-    "ko_summary": "Taiwan breaks ground on advanced packaging park anchored by TSMC Reuters",
+    "ja_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
+    "ko_title": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung - tspasemiconductor.substack.com",
+    "ja_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
+    "ko_summary": "Beyond Capacity Expansion: TSMC Builds an Advanced Packaging Validation Hub in Kaohsiung tspasemiconductor.substack.com",
     "translation_status": "pending_api_key"
   }
 ]
