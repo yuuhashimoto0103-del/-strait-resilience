@@ -1,5 +1,59 @@
 [
   {
+    "id": "e79fb2c0e512f686",
+    "date": "2026-09-30",
+    "source": "businesskorea.co.kr",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOS1JLUFzbnN2enR0SjV5V2hfV2xkVE40TmVrU0lndXJER2VvSW5jUVhVcnNPT3Rka1dkNS04RHRCbUFpZk5mZkJ4eTFxSEQwVjBWWVZucGlURDFGTzJMMXlKZU85X3p4Y1o4ZjRldjJ6N2Ju?oc=5",
+    "original_title": "TSMC Strengthens Grip on Foundry 2.0 Market - businesskorea.co.kr",
+    "original_summary": "TSMC Strengthens Grip on Foundry 2.0 Market businesskorea.co.kr",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Strengthens Grip on Foundry 2.0 Market - businesskorea.co.kr",
+    "ko_title": "TSMC Strengthens Grip on Foundry 2.0 Market - businesskorea.co.kr",
+    "ja_summary": "TSMC Strengthens Grip on Foundry 2.0 Market businesskorea.co.kr",
+    "ko_summary": "TSMC Strengthens Grip on Foundry 2.0 Market businesskorea.co.kr",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "c23ce9e3db39b164",
+    "date": "2026-09-30",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96bVdZamtPbDlFNldVOWtjMmpyS0hWWjBvRUZpVEpIczVXanl4VDNXdDlEclRNRmxERmN3VFhBNlVaTGxleWhGekJXUG9BQWhWbEFSbTFxaWV5NmR1X21yX0tfcU5GbmxiR1NTX2VPQlkydkQ0YVFaWGlR0gGOAUFVX3lxTE44NjcxWVZock95UGVja2ppa1hsNUJpdmJkaS12bmtHR3ZreGFzTnZFU0NRZHJpZC15ZWY3MXlheXdjM29MVnM5MXZ4c29xWER3bTE2YTFLdmFxeFFfNjB5ODRoVktkUXZUTS1XNzBHeXdwTzA3eFh5ekRnLXhESjg4VnZLY1hUN3VyWVZ0WkE?oc=5",
+    "original_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "78a9a044307de41b",
+    "date": "2026-09-30",
+    "source": "finance.biggo.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qUmhQdHY2UERVM0lIYnNxNGdaVVIyLURTaXYya2FkWFlyRjhSR1IyS2hDd0JDTEpPT2tuN2pkNDFIbmlJSTNtS1d5VjJRb0E5ZW12NUhfTXRuZ3dJNmx6YkFiSVc0YXJFQzd4NXBqSktiZlNFQ1E?oc=5",
+    "original_title": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% - finance.biggo.com",
+    "original_summary": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% finance.biggo.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% - finance.biggo.com",
+    "ko_title": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% - finance.biggo.com",
+    "ja_summary": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% finance.biggo.com",
+    "ko_summary": "AI Demand Lifts Entire Semiconductor Ecosystem… Q2 Foundry 2.0 Revenue Surges 25% finance.biggo.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "a4145145e51bb5f0",
     "date": "2026-09-29",
     "source": "조선일보",
@@ -38,19 +92,19 @@
   {
     "id": "6b6b8754ebad73ef",
     "date": "2026-09-29",
-    "source": "Hinrich Foundation",
+    "source": "hinrichfoundation.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
-    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - hinrichfoundation.com",
+    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article hinrichfoundation.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
-    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - hinrichfoundation.com",
+    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - hinrichfoundation.com",
+    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article hinrichfoundation.com",
+    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article hinrichfoundation.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -128,19 +182,19 @@
   {
     "id": "53ed08b758c283ac",
     "date": "2026-09-28",
-    "source": "Businesskorea",
+    "source": "businesskorea.co.kr",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02blJvMHZucm0tZ0oybndFUFUyQUtfcmdXVEpreUpSWHlJdm5tT1JUbGhpME9RdkpSN3lvZDc1am9JblF6WlBCdkFrLVp4Q3ZKWV82N2JicHNuRGVoNXpnVFdqZWR4VHVrcEJWYWhheldHUVVL?oc=5",
-    "original_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "original_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
+    "original_title": "TSMC Plans Five More Packaging Plants in Taiwan - businesskorea.co.kr",
+    "original_summary": "TSMC Plans Five More Packaging Plants in Taiwan businesskorea.co.kr",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "ko_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "ja_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
-    "ko_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
+    "ja_title": "TSMC Plans Five More Packaging Plants in Taiwan - businesskorea.co.kr",
+    "ko_title": "TSMC Plans Five More Packaging Plants in Taiwan - businesskorea.co.kr",
+    "ja_summary": "TSMC Plans Five More Packaging Plants in Taiwan businesskorea.co.kr",
+    "ko_summary": "TSMC Plans Five More Packaging Plants in Taiwan businesskorea.co.kr",
     "translation_status": "pending_api_key"
   },
   {
@@ -236,19 +290,19 @@
   {
     "id": "a826ec0e151bb343",
     "date": "2026-09-25",
-    "source": "koreaherald.com",
+    "source": "The Korea Herald",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5obFRZNjRybjFsTUNrbTFkQ2NjREZfTmlRZXp3OHh3RUM5aFAxczhqbUpIa3V3MWNQMTc5dFNYLUJSaGxWZFhuQU5xZzREU1pUeVUtMTIxUQ?oc=5",
-    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
+    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
-    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
+    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
+    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
     "translation_status": "pending_api_key"
   },
   {
@@ -267,60 +321,6 @@
     "ko_title": "Synopsys TSMC Collaboration Advances AI Chip Design and Advanced Semiconductor Technologies - Electronics Media",
     "ja_summary": "Synopsys TSMC Collaboration Advances AI Chip Design and Advanced Semiconductor Technologies Electronics Media",
     "ko_summary": "Synopsys TSMC Collaboration Advances AI Chip Design and Advanced Semiconductor Technologies Electronics Media",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "b953a6be4a7d8b0b",
-    "date": "2026-09-23",
-    "source": "The Fast Mode",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcC11c2w1dDBUeWdFQ0laM2hLWkd0UjNLSll0LThwS25oY0FRZm9LbGljX044Q3BlTHN6NU9nY1lBM2RMT05zaVFfLTN5ZFB1b29uajZUUHNic3BUcGE2LTdEeUdLX3lOY2l4VjFhN1NrQzFUbk9rd0lmdEcxUWI4QUFSRnFuRHk4cVVXclo1ZjZUdGM4NEt2dUpPYkdhMHJUTzV4S0o4bU95cXl5RUN6anJZYW9wLVlEcktqRkVn?oc=5",
-    "original_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "original_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "ko_title": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design - The Fast Mode",
-    "ja_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
-    "ko_summary": "Synopsys, TSMC Advance Agentic AI and Advanced Semiconductor Design The Fast Mode",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "9198493b9f17cee6",
-    "date": "2026-09-23",
-    "source": "天下雜誌",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wWDZhSVVZTW9tcWhPV3F4WGlvT0lrWmw3M01CQmJBblVqb2dLSVNNYVNVSi1Ja3VWX19GcXZiSDVHejFaeWg5M3AyNjVBQTJvcU1HX0pqLXBwc2IwWmVvajR4cEE0VEk?oc=5",
-    "original_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
-    "original_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
-    "ko_title": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector - 天下雜誌",
-    "ja_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
-    "ko_summary": "Sunlit Fluo & Chemical: The Critical, Under-the-Radar Cog in Taiwan's Semiconductor Sector 天下雜誌",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "dbe7ff7250cec2c8",
-    "date": "2026-09-22",
-    "source": "finance.biggo.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tZzRyTC1sdGN1SUF2aGRoMk9iUUIxSzBTeFhaYjBsOFdqSG1HM0RudHFDazVINEVteXdtY0s4aV9sUE1OSUxmcENCdmd5RmdReHhscC04MlpqSWJLNGhwMXpIQXg0NV91dGVKeHoycE5Jb2o1d1E?oc=5",
-    "original_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "original_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "ko_title": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push - finance.biggo.com",
-    "ja_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
-    "ko_summary": "Nomura Urges Malaysia to Triple Chip Incentives in Advanced Packaging Push finance.biggo.com",
     "translation_status": "pending_api_key"
   }
 ]
