@@ -92,19 +92,19 @@
   {
     "id": "99b256122eed8596",
     "date": "2026-09-29",
-    "source": "techedt.com",
+    "source": "Tech Edition",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3pRZGo0Y0hWR1EwbHRSRFRHcmF0Ui1IMW1fSjg0emlJdmFsUjlkYXVGNVFuSEEzdmJFQzZ2T2IyN3hNbWZKZGlOWFdoX1FIODVXTU1yZGhoTUlXOWZ3MVQyNHNpQXlpdXQ2bEwwTmVvTWZqV24xNWlUSExnTGktaXZITm1SUVJsTWc4QjZRTDFwOFU?oc=5",
-    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
-    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
+    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
-    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
-    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
-    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
+    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
+    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
     "translation_status": "pending_api_key"
   },
   {
@@ -252,6 +252,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "0461b3b415fbbf6d",
+    "date": "2026-09-28",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQTBFdVh6VlN5ZnVDSlM2Rmd1aWRoTHVaUWdpelB0TGk2WHFrVnpxWmJwUld2OFdWSEFRc29SclN2Qm11ZnhwZ2ZLdFpRUHMyd01RN0ZQQ2NKR0EteVEtSERZLUJ2dFRfMDdZbllHUUE5SHpyQVlCaFV3?oc=5",
+    "original_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - Chosunbiz",
+    "original_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - Chosunbiz",
+    "ko_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - Chosunbiz",
+    "ja_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again Chosunbiz",
+    "ko_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f834a166ea0686d8",
     "date": "2026-09-27",
     "source": "finance.biggo.com",
@@ -303,24 +321,6 @@
     "ko_title": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners - 아시아경제",
     "ja_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
     "ko_summary": "[Taiwan Chip News] \"Can't Keep Up Alone\"... Why TSMC Is Rallying Domestic Partners 아시아경제",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "a826ec0e151bb343",
-    "date": "2026-09-25",
-    "source": "The Korea Herald",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5obFRZNjRybjFsTUNrbTFkQ2NjREZfTmlRZXp3OHh3RUM5aFAxczhqbUpIa3V3MWNQMTc5dFNYLUJSaGxWZFhuQU5xZzREU1pUeVUtMTIxUQ?oc=5",
-    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
-    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
-    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
     "translation_status": "pending_api_key"
   }
 ]
