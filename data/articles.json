@@ -74,37 +74,37 @@
   {
     "id": "a4145145e51bb5f0",
     "date": "2026-09-29",
-    "source": "chosun.com",
+    "source": "조선일보",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0tCd1J2LWViRjhUQUxUN2NXeERjNkRTM0QzNDVSTTlaQm4xMl9oX1JoX2JrMm9Uc3F4REp3MXEzcVA4ckZzMEMwUm1lTkRkbFZJZmFSOXRvSmJvMFRKaG5Pem1FalpEWnJiZDd4LUV4U3pRRU5PcXFIWTUzNldEMTVEOEdnYVc3?oc=5",
-    "original_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
-    "original_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
+    "original_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
+    "original_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
-    "ko_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
-    "ja_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
-    "ko_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
+    "ja_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
+    "ko_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
+    "ja_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
+    "ko_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
     "translation_status": "pending_api_key"
   },
   {
     "id": "99b256122eed8596",
     "date": "2026-09-29",
-    "source": "Tech Edition",
+    "source": "techedt.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3pRZGo0Y0hWR1EwbHRSRFRHcmF0Ui1IMW1fSjg0emlJdmFsUjlkYXVGNVFuSEEzdmJFQzZ2T2IyN3hNbWZKZGlOWFdoX1FIODVXTU1yZGhoTUlXOWZ3MVQyNHNpQXlpdXQ2bEwwTmVvTWZqV24xNWlUSExnTGktaXZITm1SUVJsTWc4QjZRTDFwOFU?oc=5",
-    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
+    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
-    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
+    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
+    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - techedt.com",
+    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
+    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks techedt.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -308,19 +308,19 @@
   {
     "id": "a826ec0e151bb343",
     "date": "2026-09-25",
-    "source": "koreaherald.com",
+    "source": "The Korea Herald",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5obFRZNjRybjFsTUNrbTFkQ2NjREZfTmlRZXp3OHh3RUM5aFAxczhqbUpIa3V3MWNQMTc5dFNYLUJSaGxWZFhuQU5xZzREU1pUeVUtMTIxUQ?oc=5",
-    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
+    "original_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "original_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - koreaherald.com",
-    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
-    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race koreaherald.com",
+    "ja_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "ko_title": "Beyond CoWoS: Korean firms eye next AI packaging race - The Korea Herald",
+    "ja_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
+    "ko_summary": "Beyond CoWoS: Korean firms eye next AI packaging race The Korea Herald",
     "translation_status": "pending_api_key"
   }
 ]
