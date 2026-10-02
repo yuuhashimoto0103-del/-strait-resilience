@@ -1,5 +1,23 @@
 [
   {
+    "id": "f3a46ac4f1be5a31",
+    "date": "2026-10-02",
+    "source": "Spherical Insights",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlFkdm02VTBSZW10b3lqdEtSTzFHODZzOVZaczdlNmU2cGN5THA5ejhnT1YwdXVNdndzajlzQ2dEb3dhUHBGZ2tsOGRlSGlVQmFLbTRSc204OEpXTlJPZXVGb1dyZHhrWEl5end4ZDdDVnNVdG5oVEtlWVQwQTgzM2lKckRmU3VlMkpQWWt5MURfV1pILWF6RDJFalRFMUk5MUhCZmpJWnM?oc=5",
+    "original_title": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis - Spherical Insights",
+    "original_summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis Spherical Insights",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis - Spherical Insights",
+    "ko_title": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis - Spherical Insights",
+    "ja_summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis Spherical Insights",
+    "ko_summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis Spherical Insights",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "e79fb2c0e512f686",
     "date": "2026-09-30",
     "source": "Businesskorea",
@@ -38,19 +56,19 @@
   {
     "id": "c23ce9e3db39b164",
     "date": "2026-09-30",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96bVdZamtPbDlFNldVOWtjMmpyS0hWWjBvRUZpVEpIczVXanl4VDNXdDlEclRNRmxERmN3VFhBNlVaTGxleWhGekJXUG9BQWhWbEFSbTFxaWV5NmR1X21yX0tfcU5GbmxiR1NTX2VPQlkydkQ0YVFaWGlR0gGOAUFVX3lxTE44NjcxWVZock95UGVja2ppa1hsNUJpdmJkaS12bmtHR3ZreGFzTnZFU0NRZHJpZC15ZWY3MXlheXdjM29MVnM5MXZ4c29xWER3bTE2YTFLdmFxeFFfNjB5ODRoVktkUXZUTS1XNzBHeXdwTzA3eFh5ekRnLXhESjg4VnZLY1hUN3VyWVZ0WkE?oc=5",
-    "original_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - biz.chosun.com",
-    "original_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ biz.chosun.com",
+    "original_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - biz.chosun.com",
-    "ko_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - biz.chosun.com",
-    "ja_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ biz.chosun.com",
-    "ko_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ biz.chosun.com",
+    "ja_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
     "translation_status": "pending_api_key"
   },
   {
@@ -72,21 +90,39 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "43016ee308f4ac21",
+    "date": "2026-09-30",
+    "source": "헤럴드경제",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85QlpJSW05VlZqZi01UFc2dGZKWVduNm0xZEhpS3RmNFI5MkZVQjdvWE5Mb0RuUEtkN3A1MVVTeVRKUlVBMlM4dDZXM2F5Y3JIQzRZN1k0MA?oc=5",
+    "original_title": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event - 헤럴드경제",
+    "original_summary": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event 헤럴드경제",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event - 헤럴드경제",
+    "ko_title": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event - 헤럴드경제",
+    "ja_summary": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event 헤럴드경제",
+    "ko_summary": "14 Korean firms knock on Kyushu's supply chain door at Fukuoka matchmaking event 헤럴드경제",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "a4145145e51bb5f0",
     "date": "2026-09-29",
-    "source": "조선일보",
+    "source": "chosun.com",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0tCd1J2LWViRjhUQUxUN2NXeERjNkRTM0QzNDVSTTlaQm4xMl9oX1JoX2JrMm9Uc3F4REp3MXEzcVA4ckZzMEMwUm1lTkRkbFZJZmFSOXRvSmJvMFRKaG5Pem1FalpEWnJiZDd4LUV4U3pRRU5PcXFIWTUzNldEMTVEOEdnYVc3?oc=5",
-    "original_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
-    "original_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
+    "original_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
+    "original_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
-    "ko_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
-    "ja_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
-    "ko_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
+    "ja_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
+    "ko_title": "TSMC Plans Second Texas Semiconductor Plant - chosun.com",
+    "ja_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
+    "ko_summary": "TSMC Plans Second Texas Semiconductor Plant chosun.com",
     "translation_status": "pending_api_key"
   },
   {
@@ -144,57 +180,39 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "fbf76a910757ca02",
-    "date": "2026-09-28",
-    "source": "TradingKey",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmRneGg5R1ZScFpEOEhCN3dGSTdPSzdoZlJwQzNDRkVNQWwxdkY1UUJtb0E5cnhlN2drNDh6ZFBRR3pVWWJFUE9tTGlIcVo1Rzc2Q21wZTdKMzFSbno0Vkh0RkFUN0c0SlkzaEhCRkxLR0hLa2x6Ty02dHJpcWJ0c1I3S3MxT2FCOUpxTHpLN0RqOHlKaW90X0pwZDVZQ0U4eUk0a21KQ0FLZkF6SmhRUEJaZkJTSGc?oc=5",
-    "original_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
-    "original_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
-    "ko_title": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand - TradingKey",
-    "ja_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
-    "ko_summary": "TSMC-Backed VIS Opens First Fab in Singapore, Considers Second Driven by AI Demand TradingKey",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "e1fcf8e10d756b2c",
     "date": "2026-09-28",
-    "source": "biz.chosun.com",
+    "source": "Chosunbiz",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UQW1YMFo0dEc0c0xnUTFPdG40MDRiRm9wTUppTkdxS1V6QTFwcjNLNXRtZE1pb1F0TzZ0cWI2UFR6TmwzLXlwT2N6UVpkVmZqdWhLVEtWVWtHUXB2TGwwcGxoQ0ZfLTBGNlRSTjhhOWp3YlRZVFJNNUlR0gGOAUFVX3lxTE9vMEY0Zk9XN3dXcWhSYUpZTHZNWUNnZUhGTzV6dERrTDg4ZTU4OTJhelhNdm5fTHY3RWdESlllMmotVTVmeE9MbjRPWGVQVDVpUk1RZzA3YnR3RGtqUTg1RHJfcHI4UVE5WEhHLXhJRHFJOERiQTVkdTBlTUdhYWluZU1qaHM5MGZ0c3kzeVE?oc=5",
-    "original_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - biz.chosun.com",
-    "original_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ biz.chosun.com",
+    "original_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - biz.chosun.com",
-    "ko_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - biz.chosun.com",
-    "ja_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ biz.chosun.com",
-    "ko_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ biz.chosun.com",
+    "ja_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
     "translation_status": "pending_api_key"
   },
   {
     "id": "d3af6219765642e6",
     "date": "2026-09-28",
-    "source": "advancedmanufacturing.org",
+    "source": "Advanced Manufacturing",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX05mUmRBc3I1VFlkTnBlUlQzYmtFNmVTV2ZHdE53d0gtZnJoeWg1TFBYM095ejNVcFd2T21WQTQyaC1tWlFmU3RXM255bTlsMjdnVnRUZkZWS2lUSUhLY1ZPeEJBU0FIeFd3MGNyRlRmVVBIVWg4RzhLREI2TUduejk0UExtRklxTkFjSTJMODVPN3N1aEhEMEpubmRGa0VwMW9KMk1reURxSzVmYXQ2MEJNLTQzemNSNHRsNGpCdUNIdnZYQjhheHpaTWltWW1MSHhpQW54aEx1NkkyU3lXOTBQTmcyUHNWSl8zRGVSWmlydTZMdi13eg?oc=5",
-    "original_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - advancedmanufacturing.org",
-    "original_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design advancedmanufacturing.org",
+    "original_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "original_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - advancedmanufacturing.org",
-    "ko_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - advancedmanufacturing.org",
-    "ja_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design advancedmanufacturing.org",
-    "ko_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design advancedmanufacturing.org",
+    "ja_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "ko_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
+    "ja_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
+    "ko_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
     "translation_status": "pending_api_key"
   },
   {
@@ -249,24 +267,6 @@
     "ko_title": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub - finance.biggo.com",
     "ja_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub finance.biggo.com",
     "ko_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub finance.biggo.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "0461b3b415fbbf6d",
-    "date": "2026-09-28",
-    "source": "biz.chosun.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KQTBFdVh6VlN5ZnVDSlM2Rmd1aWRoTHVaUWdpelB0TGk2WHFrVnpxWmJwUld2OFdWSEFRc29SclN2Qm11ZnhwZ2ZLdFpRUHMyd01RN0ZQQ2NKR0EteVEtSERZLUJ2dFRfMDdZbllHUUE5SHpyQVlCaFV3?oc=5",
-    "original_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - biz.chosun.com",
-    "original_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again biz.chosun.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - biz.chosun.com",
-    "ko_title": "SK hynix validates HBM5 with TSMC, wins partner of year again - biz.chosun.com",
-    "ja_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again biz.chosun.com",
-    "ko_summary": "SK hynix validates HBM5 with TSMC, wins partner of year again biz.chosun.com",
     "translation_status": "pending_api_key"
   },
   {
