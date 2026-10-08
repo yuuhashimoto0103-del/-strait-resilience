@@ -54,6 +54,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "d15df1d933d93b1c",
+    "date": "2026-09-30",
+    "source": "Businesskorea",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42d2kyR0F1Y2VhSk9HZDZLakhjV1F1WE1LWUFzS0ZNelFGTGQ3NmlwQ1UtaGZsQTFpMmMxZzRTVUI1Yk9mWGpfbERfTDZlNEFfMkRSRDJiZ0tabG90bHdVd3lTVkdTMFQ5ZWJiZGtQTmgyQ3Zt?oc=5",
+    "original_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
+    "original_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
+    "ko_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
+    "ja_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
+    "ko_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "43016ee308f4ac21",
     "date": "2026-09-30",
     "source": "헤럴드경제",
@@ -90,39 +108,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "99b256122eed8596",
-    "date": "2026-09-29",
-    "source": "Tech Edition",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3pRZGo0Y0hWR1EwbHRSRFRHcmF0Ui1IMW1fSjg0emlJdmFsUjlkYXVGNVFuSEEzdmJFQzZ2T2IyN3hNbWZKZGlOWFdoX1FIODVXTU1yZGhoTUlXOWZ3MVQyNHNpQXlpdXQ2bEwwTmVvTWZqV24xNWlUSExnTGktaXZITm1SUVJsTWc4QjZRTDFwOFU?oc=5",
-    "original_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "original_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "ko_title": "Siemens and TSMC bring AI agents into semiconductor design checks - Tech Edition",
-    "ja_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
-    "ko_summary": "Siemens and TSMC bring AI agents into semiconductor design checks Tech Edition",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "6b6b8754ebad73ef",
     "date": "2026-09-29",
     "source": "Hinrich Foundation",
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
-    "original_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "original_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
+    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "ko_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "ja_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
-    "ko_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
+    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "translation_status": "pending_api_key"
   },
   {
