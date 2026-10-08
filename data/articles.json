@@ -1,5 +1,23 @@
 [
   {
+    "id": "526e9f96e5fc79da",
+    "date": "2026-10-08",
+    "source": "semivision",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTBqSG5PS09GN1dCODhMZnhrZzhybFQ0WnAwOFZQU2dPeDYyeVJTZ1RIT0o3Y0tjVXRabWJGNmk5NEpYeGxBY25nUFRwZkE1RnV0UHJneGxKdGt6dHNlZDhxNlpLaTlEVUsxdnBicU1GS0p6QjV1RGlmaVNDTnNyYw?oc=5",
+    "original_title": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle - semivision",
+    "original_summary": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle semivision",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle - semivision",
+    "ko_title": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle - semivision",
+    "ja_summary": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle semivision",
+    "ko_summary": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f3a46ac4f1be5a31",
     "date": "2026-10-02",
     "source": "Spherical Insights",
@@ -33,42 +51,6 @@
     "ko_title": "TSMC Strengthens Grip on Foundry 2.0 Market - Businesskorea",
     "ja_summary": "TSMC Strengthens Grip on Foundry 2.0 Market Businesskorea",
     "ko_summary": "TSMC Strengthens Grip on Foundry 2.0 Market Businesskorea",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d15df1d933d93b1c",
-    "date": "2026-09-30",
-    "source": "Businesskorea",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42d2kyR0F1Y2VhSk9HZDZLakhjV1F1WE1LWUFzS0ZNelFGTGQ3NmlwQ1UtaGZsQTFpMmMxZzRTVUI1Yk9mWGpfbERfTDZlNEFfMkRSRDJiZ0tabG90bHdVd3lTVkdTMFQ5ZWJiZGtQTmgyQ3Zt?oc=5",
-    "original_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "original_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "ko_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "ja_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
-    "ko_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "c23ce9e3db39b164",
-    "date": "2026-09-30",
-    "source": "Chosunbiz",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96bVdZamtPbDlFNldVOWtjMmpyS0hWWjBvRUZpVEpIczVXanl4VDNXdDlEclRNRmxERmN3VFhBNlVaTGxleWhGekJXUG9BQWhWbEFSbTFxaWV5NmR1X21yX0tfcU5GbmxiR1NTX2VPQlkydkQ0YVFaWGlR0gGOAUFVX3lxTE44NjcxWVZock95UGVja2ppa1hsNUJpdmJkaS12bmtHR3ZreGFzTnZFU0NRZHJpZC15ZWY3MXlheXdjM29MVnM5MXZ4c29xWER3bTE2YTFLdmFxeFFfNjB5ODRoVktkUXZUTS1XNzBHeXdwTzA3eFh5ekRnLXhESjg4VnZLY1hUN3VyWVZ0WkE?oc=5",
-    "original_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
-    "original_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
-    "ko_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
-    "ja_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
-    "ko_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
     "translation_status": "pending_api_key"
   },
   {
@@ -231,42 +213,6 @@
     "ko_title": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub - BigGo Finance",
     "ja_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub BigGo Finance",
     "ko_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "f834a166ea0686d8",
-    "date": "2026-09-27",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDZGpKd2g5S003SEVTSWxmU1pUR09LZGtFazE2MVN6Ulg2Vml0NzdycUNwaWJFYU8tVEVSRDQyR2M3SXFZWmhnMTBFWkh2X2YxUEZwN2pmQkNJOUVkTnUySHNsS2tLY0o5X2ZnVjFweGI4ZG01bVE?oc=5",
-    "original_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - BigGo Finance",
-    "original_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - BigGo Finance",
-    "ko_title": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants - BigGo Finance",
-    "ja_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants BigGo Finance",
-    "ko_summary": "Taiwan's Chiayi Science Park Phase 3 Expansion Kicks Off; TSMC Reportedly Plans 5 Additional Advanced Packaging Plants BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "99396d7906a02ca8",
-    "date": "2026-09-27",
-    "source": "Taipei Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81TDUydVE4d2VuN0VRLWoxUjZ6ZG9FN3RrTnJBdnhJR1BFaVgycDU0ekRiVkRHOG9YYmJua1Q3Qy1qMXlzLVVpclhIVnJpb0VKcTBjN2lodnFDWGEwR2tUQ2ZNUXdvdjdIWFNFN1piZjVVTzdmaDUybg?oc=5",
-    "original_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
-    "original_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
-    "ko_title": "Chiayi Science Park signaling Phase III development - Taipei Times",
-    "ja_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
-    "ko_summary": "Chiayi Science Park signaling Phase III development Taipei Times",
     "translation_status": "pending_api_key"
   }
 ]
