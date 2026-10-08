@@ -1,5 +1,41 @@
 [
   {
+    "id": "f12f4ba6e9780421",
+    "date": "2026-10-08",
+    "source": "The Register",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDgzUGh3d0RUUTBQMDFuRTlHbjJBSXp1Q1hJRjM2VmE3SEZiQi1HRnJiSk9UNGt6bHBRQkVSa0xjVU9uc3NHNHZkdW1xTkxrQUlmeW02NHNkdlRpMW13WEtKV3lNVTUyekN6U1lLTEwwMXhPV2YzbFR0dXNsQWgtcGtKMU1FZXZFVl9xVWJmYUk2SVRDVFpNRDF1aHRpX2dIOVlhSEowMEp5Vy1TR0h0dGJsbHh2QXhINFh4WjlqeUtxU2FkUnF6WjNfQlhQS2N6?oc=5",
+    "original_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
+    "original_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
+    "ko_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
+    "ja_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
+    "ko_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "93f950ce499843d9",
+    "date": "2026-10-08",
+    "source": "Kings Research",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11QmRGQ2x5NE9ZSURheldBdnhlSkRVRlFuOHFXYWZpNFhDT2pjeldtTXRJSkU5T21fUi1tWjM1OVVHR1h4TGRwUFl3WnBmR2lMTFRtbHZQV0lFYTlTRzBSS0VlNGVYNnhmODRrYVluUl9OZl9xQlFVNA?oc=5",
+    "original_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
+    "original_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
+    "ko_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
+    "ja_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
+    "ko_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "526e9f96e5fc79da",
     "date": "2026-10-08",
     "source": "semivision",
@@ -33,42 +69,6 @@
     "ko_title": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis - Spherical Insights",
     "ja_summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis Spherical Insights",
     "ko_summary": "TSMC Expands Advanced Semiconductor Capacity to Support AI Demand- Spherical Insights Analysis Spherical Insights",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e79fb2c0e512f686",
-    "date": "2026-09-30",
-    "source": "Businesskorea",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuOS1JLUFzbnN2enR0SjV5V2hfV2xkVE40TmVrU0lndXJER2VvSW5jUVhVcnNPT3Rka1dkNS04RHRCbUFpZk5mZkJ4eTFxSEQwVjBWWVZucGlURDFGTzJMMXlKZU85X3p4Y1o4ZjRldjJ6N2Ju?oc=5",
-    "original_title": "TSMC Strengthens Grip on Foundry 2.0 Market - Businesskorea",
-    "original_summary": "TSMC Strengthens Grip on Foundry 2.0 Market Businesskorea",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Strengthens Grip on Foundry 2.0 Market - Businesskorea",
-    "ko_title": "TSMC Strengthens Grip on Foundry 2.0 Market - Businesskorea",
-    "ja_summary": "TSMC Strengthens Grip on Foundry 2.0 Market Businesskorea",
-    "ko_summary": "TSMC Strengthens Grip on Foundry 2.0 Market Businesskorea",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d15df1d933d93b1c",
-    "date": "2026-09-30",
-    "source": "Businesskorea",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42d2kyR0F1Y2VhSk9HZDZLakhjV1F1WE1LWUFzS0ZNelFGTGQ3NmlwQ1UtaGZsQTFpMmMxZzRTVUI1Yk9mWGpfbERfTDZlNEFfMkRSRDJiZ0tabG90bHdVd3lTVkdTMFQ5ZWJiZGtQTmgyQ3Zt?oc=5",
-    "original_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "original_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "ko_title": "Korea-Japan Firms Deepen Semiconductor Ties - Businesskorea",
-    "ja_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
-    "ko_summary": "Korea-Japan Firms Deepen Semiconductor Ties Businesskorea",
     "translation_status": "pending_api_key"
   },
   {
