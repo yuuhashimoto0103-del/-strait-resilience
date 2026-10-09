@@ -18,6 +18,42 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "a61def01825287f3",
+    "date": "2026-10-09",
+    "source": "New Electronics",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWG1vQXFySW9CWTI0Ni1NYzFkcVNZc0xmNzVBQ3lxMW5IM0hfMnlfVlBYSmF0MTAzWEdtTGhlRXVhWDVBOWdNSF92TGNpay0yb05IQ0p1QndKNWt1bkNZc1g4YkpfWTBPcWxzXzQzblgtS0pRZTBHVmhNSHFWMnNoejF4WUxyMkY4V1VtQzYtLUlCMS13R1JIeVo1bXVDUG9hVUpfWFNqQ01idUViS0RjY3otU0syaGZ6YWhFR0k3cTlQbDhyWXA0NXlCd1E3cGctRUZtdm1CZ1hOYUk?oc=5",
+    "original_title": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging - New Electronics",
+    "original_summary": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging New Electronics",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging - New Electronics",
+    "ko_title": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging - New Electronics",
+    "ja_summary": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging New Electronics",
+    "ko_summary": "GlobalFoundries and TSMC partner to establish US silicon interposer supply chain for AI packaging New Electronics",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "2711ca532de93ecc",
+    "date": "2026-10-09",
+    "source": "Asia Business Outlook",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlpMbEJYZXltbjk2dnB2Zk5hbTdRdXh1MzVoV1ZyWmNlTjJaVFRveGRaaFVLdHd4dGlpcElKNXI3bnBSU0hsVlA2ZUcwTDZvTUE3MUxvcVFWamlja2wyZDE1RlgzaVBlVlUtYnZhMWZvRDVfX2lOaGFhc2wzR29id3lpVzhFbTQyRU1SUWdRVUU2WldaYUhiZHpRYlc5YVpmeG1jNnk3bjdnMTBOck9QcFZPblM3TXNSbGwtOG9RQjR6MW54ZFRJZg?oc=5",
+    "original_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
+    "original_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
+    "ko_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
+    "ja_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "ko_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f12f4ba6e9780421",
     "date": "2026-10-08",
     "source": "The Register",
@@ -132,15 +168,15 @@
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
-    "original_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "original_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
+    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "ko_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
-    "ja_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
-    "ko_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
+    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
+    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "translation_status": "pending_api_key"
   }
 ]
