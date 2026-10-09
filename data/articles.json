@@ -36,21 +36,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "2711ca532de93ecc",
+    "id": "67d2d35447f6d2a3",
     "date": "2026-10-09",
-    "source": "Asia Business Outlook",
+    "source": "Manufacturing Dive",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSlpMbEJYZXltbjk2dnB2Zk5hbTdRdXh1MzVoV1ZyWmNlTjJaVFRveGRaaFVLdHd4dGlpcElKNXI3bnBSU0hsVlA2ZUcwTDZvTUE3MUxvcVFWamlja2wyZDE1RlgzaVBlVlUtYnZhMWZvRDVfX2lOaGFhc2wzR29id3lpVzhFbTQyRU1SUWdRVUU2WldaYUhiZHpRYlc5YVpmeG1jNnk3bjdnMTBOck9QcFZPblM3TXNSbGwtOG9RQjR6MW54ZFRJZg?oc=5",
-    "original_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
-    "original_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXozVGJlV2ZraVY0UUdHU3BOVkJqTGdfNVVRVlV2b3BRNkg1RXpOamVraFVUM3lDREJrcFRnQ183V1NWSGZLT25NNXFQaDNnLWVVR0oxNllEdG14ZDFXYTNZT2VfWFR5WnZOVWtpV1F3WDZUN09DWkgxdXI3ZVJQYnZrakpWYWdRcno3cUVIRVMxbGFHR3hPa0pyVTFscHFuWUVR?oc=5",
+    "original_title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers - Manufacturing Dive",
+    "original_summary": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers Manufacturing Dive",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
-    "ko_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
-    "ja_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
-    "ko_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "ja_title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers - Manufacturing Dive",
+    "ko_title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers - Manufacturing Dive",
+    "ja_summary": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers Manufacturing Dive",
+    "ko_summary": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers Manufacturing Dive",
     "translation_status": "pending_api_key"
   },
   {
@@ -126,6 +126,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "c23ce9e3db39b164",
+    "date": "2026-09-30",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96bVdZamtPbDlFNldVOWtjMmpyS0hWWjBvRUZpVEpIczVXanl4VDNXdDlEclRNRmxERmN3VFhBNlVaTGxleWhGekJXUG9BQWhWbEFSbTFxaWV5NmR1X21yX0tfcU5GbmxiR1NTX2VPQlkydkQ0YVFaWGlR0gGOAUFVX3lxTE44NjcxWVZock95UGVja2ppa1hsNUJpdmJkaS12bmtHR3ZreGFzTnZFU0NRZHJpZC15ZWY3MXlheXdjM29MVnM5MXZ4c29xWER3bTE2YTFLdmFxeFFfNjB5ODRoVktkUXZUTS1XNzBHeXdwTzA3eFh5ekRnLXhESjg4VnZLY1hUN3VyWVZ0WkE?oc=5",
+    "original_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "AI demand powers Foundry 2.0 revenue 25% as TSMC leads 42%, Samsung 4% - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "43016ee308f4ac21",
     "date": "2026-09-30",
     "source": "헤럴드경제",
@@ -159,24 +177,6 @@
     "ko_title": "TSMC Plans Second Texas Semiconductor Plant - 조선일보",
     "ja_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
     "ko_summary": "TSMC Plans Second Texas Semiconductor Plant 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "6b6b8754ebad73ef",
-    "date": "2026-09-29",
-    "source": "Hinrich Foundation",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
-    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
-    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
     "translation_status": "pending_api_key"
   }
 ]
