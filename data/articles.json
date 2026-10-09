@@ -1,5 +1,23 @@
 [
   {
+    "id": "c2af59f58253af88",
+    "date": "2026-10-09",
+    "source": "semivision",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdVdESnlGQzNDQWFqU3JpZ2E1aHNkVzFCTDZmUXRITkJYMEpvQjNRNWpqaG5jRGpfNkV4MWtsRjBmVkJoM0xKUjNTQUNHd2tzb3BBRTFYekwyXzFNQjlrYkszRFFSVmg0aWhKNVRHNVVaa2s3Y2lCQTNSdlBPZw?oc=5",
+    "original_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
+    "original_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
+    "ko_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
+    "ja_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
+    "ko_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f12f4ba6e9780421",
     "date": "2026-10-08",
     "source": "The Register",
@@ -114,105 +132,15 @@
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxHamZibFc0UFlZdTA0Y3NNRVVHcEV3TXNIT0hrakw3YmVLMEstY2FTcy1qT184ZGtoazRiT0YwYzFmY0xaY1ZrenBadVdKZ3h3OVM5bUEzODAwLTM0MzloZXNRSm1TUHh4RmczMEM0UG5EZ2F0QmFfNEpueTROZHhLM1k2Rkc0cDNxWV9BR09ub0pwN1Rzdlpma3NGUzZ4RUVQemg2YUJxQzRCNXlmUWl0dzFCdlpjbGc?oc=5",
-    "original_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "original_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
+    "original_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
+    "original_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ko_title": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article - Hinrich Foundation",
-    "ja_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
-    "ko_summary": "Taiwan’s semiconductor chokepoint is less vulnerable now, but only less so | Article Hinrich Foundation",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e1fcf8e10d756b2c",
-    "date": "2026-09-28",
-    "source": "Chosunbiz",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UQW1YMFo0dEc0c0xnUTFPdG40MDRiRm9wTUppTkdxS1V6QTFwcjNLNXRtZE1pb1F0TzZ0cWI2UFR6TmwzLXlwT2N6UVpkVmZqdWhLVEtWVWtHUXB2TGwwcGxoQ0ZfLTBGNlRSTjhhOWp3YlRZVFJNNUlR0gGOAUFVX3lxTE9vMEY0Zk9XN3dXcWhSYUpZTHZNWUNnZUhGTzV6dERrTDg4ZTU4OTJhelhNdm5fTHY3RWdESlllMmotVTVmeE9MbjRPWGVQVDVpUk1RZzA3YnR3RGtqUTg1RHJfcHI4UVE5WEhHLXhJRHFJOERiQTVkdTBlTUdhYWluZU1qaHM5MGZ0c3kzeVE?oc=5",
-    "original_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
-    "original_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
-    "ko_title": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ - Chosunbiz",
-    "ja_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
-    "ko_summary": "Tsmc adds five Chiayi packaging plants as AI demand surges, builds Taichung hub - CHOSUNBIZ Chosunbiz",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d3af6219765642e6",
-    "date": "2026-09-28",
-    "source": "Advanced Manufacturing",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX05mUmRBc3I1VFlkTnBlUlQzYmtFNmVTV2ZHdE53d0gtZnJoeWg1TFBYM095ejNVcFd2T21WQTQyaC1tWlFmU3RXM255bTlsMjdnVnRUZkZWS2lUSUhLY1ZPeEJBU0FIeFd3MGNyRlRmVVBIVWg4RzhLREI2TUduejk0UExtRklxTkFjSTJMODVPN3N1aEhEMEpubmRGa0VwMW9KMk1reURxSzVmYXQ2MEJNLTQzemNSNHRsNGpCdUNIdnZYQjhheHpaTWltWW1MSHhpQW54aEx1NkkyU3lXOTBQTmcyUHNWSl8zRGVSWmlydTZMdi13eg?oc=5",
-    "original_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
-    "original_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
-    "ko_title": "Siemens, TSMC Advance AI-Powered Semiconductor Design - Advanced Manufacturing",
-    "ja_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
-    "ko_summary": "Siemens, TSMC Advance AI-Powered Semiconductor Design Advanced Manufacturing",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "53ed08b758c283ac",
-    "date": "2026-09-28",
-    "source": "Businesskorea",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02blJvMHZucm0tZ0oybndFUFUyQUtfcmdXVEpreUpSWHlJdm5tT1JUbGhpME9RdkpSN3lvZDc1am9JblF6WlBCdkFrLVp4Q3ZKWV82N2JicHNuRGVoNXpnVFdqZWR4VHVrcEJWYWhheldHUVVL?oc=5",
-    "original_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "original_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "ko_title": "TSMC Plans Five More Packaging Plants in Taiwan - Businesskorea",
-    "ja_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
-    "ko_summary": "TSMC Plans Five More Packaging Plants in Taiwan Businesskorea",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "2ee8b3c6cf5f5dc2",
-    "date": "2026-09-28",
-    "source": "news.sbs.co.kr",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ERHA5THhHQ1JVdDlvbXY3b3NfUlRZTVB2ZjBkcVlNNWFib2Z2WnhqSWxOSEs4azJLZU1WR1hJYXJlVTg1SEhMMmVsTEF6ZGlDYl9mVlBKTzFFZDhDTEhkdTBfMl9JWkpXSUNEQ1F3?oc=5",
-    "original_title": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan - news.sbs.co.kr",
-    "original_summary": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan news.sbs.co.kr",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan - news.sbs.co.kr",
-    "ko_title": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan - news.sbs.co.kr",
-    "ja_summary": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan news.sbs.co.kr",
-    "ko_summary": "TSMC Pushes to Build 5 More Advanced Packaging Plants in Southern Taiwan news.sbs.co.kr",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "1c94b9fd7b84f93c",
-    "date": "2026-09-28",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4SVU4WGZpTVRGbk00UkJMSV9ITEw4YWZQbE54YjlXSEdPVGotbmpOMXJGVHowLVFzcWJVVjMwU3BSclVHOXFSMFhnTHJyTTNjdXNLODRKdEt1VUYyZS1vV2FBY1JuZVNVODZMN3VieGM0SzlhZ0E?oc=5",
-    "original_title": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub - BigGo Finance",
-    "original_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub - BigGo Finance",
-    "ko_title": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub - BigGo Finance",
-    "ja_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub BigGo Finance",
-    "ko_summary": "TSMC to Add Five Advanced Packaging Plants in Chiayi, Cementing World's Largest Production Hub BigGo Finance",
+    "ja_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
+    "ko_title": "Taiwan’s semiconductor industry is less vulnerable now, but only less so - Hinrich Foundation",
+    "ja_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
+    "ko_summary": "Taiwan’s semiconductor industry is less vulnerable now, but only less so Hinrich Foundation",
     "translation_status": "pending_api_key"
   }
 ]
