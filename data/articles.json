@@ -1,5 +1,41 @@
 [
   {
+    "id": "db62ef0dfd3518b6",
+    "date": "2026-10-12",
+    "source": "New Electronics",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQS10MjMydERvOHBoYjRNMzNxTnFrakZGcnU3S0UtdHZNMzNaZVk1ZnRXRmZ3Uk96dGVEUXl4elpQZWxQZllFc3Z6el9EbWtRc0dUaWp4MTcyOFIyOFhGSkxjQUVaaEFJQVlkcjVjZWJxNTF6VWlpOG9oamlzREY5VHNhaGprcFdITDZLYjFCT0kwMXJVSllmejE5YzlXWmlyeG5hajgzR3k5SG5RMWEzYU0xUE1JT1d3cElPOTBjODRPWlE?oc=5",
+    "original_title": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging - New Electronics",
+    "original_summary": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging New Electronics",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging - New Electronics",
+    "ko_title": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging - New Electronics",
+    "ja_summary": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging New Electronics",
+    "ko_summary": "TSMC, GF partnership focuses spotlight on change dynamics of advanced packaging New Electronics",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "474818c5f14243fc",
+    "date": "2026-10-12",
+    "source": "Chosunbiz",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVWI3MXB5aElUdEhFRTJEUEp3c0UzVUZJQkcyakgzN0haSTdlSE16YWpEZHRrSzJXZElqN3FGM243blY4NDJiN2x5eS1jNERyX1d6S1hQWmlwMWIwWHFzMS1iY1Q0OGN4b2RZVFhYM0F1M1JWUnFNTXB30gGOAUFVX3lxTE85QjYzRVBONWM3ZTZkTUM1WjkzZzBsbEZHeWZFdWg4dXBWN21nWm5XbE9zU2dzV05vTHhUQnJRVHh6UFBwY2NqSjJ1SnJJZXdTV1RhMEJQUFc4ZWFwdHd4NFNQREc0QzJISHNXUXJ3NTRmOElYMTBNclEwSFF5RExGOFVrNmotNm40Z2lTMHc?oc=5",
+    "original_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
+    "original_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
+    "ko_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
+    "ja_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
+    "ko_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "c2af59f58253af88",
     "date": "2026-10-09",
     "source": "semivision",
@@ -123,6 +159,24 @@
     "ko_title": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle - semivision",
     "ja_summary": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle semivision",
     "ko_summary": "AMD’s Taiwan Capacity Push: Why Lisa Su Is Locking In the Supply Chain for the Next AI Cycle semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "2002a68e658fc7a6",
+    "date": "2026-10-08",
+    "source": "Reuters",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5",
+    "original_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
+    "original_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
+    "ko_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
+    "ja_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
+    "ko_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
     "translation_status": "pending_api_key"
   },
   {
