@@ -54,21 +54,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "c2af59f58253af88",
+    "id": "c71bda43e0d96cb8",
     "date": "2026-10-09",
-    "source": "semivision",
+    "source": "Taipei Times",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XdVdESnlGQzNDQWFqU3JpZ2E1aHNkVzFCTDZmUXRITkJYMEpvQjNRNWpqaG5jRGpfNkV4MWtsRjBmVkJoM0xKUjNTQUNHd2tzb3BBRTFYekwyXzFNQjlrYkszRFFSVmg0aWhKNVRHNVVaa2s3Y2lCQTNSdlBPZw?oc=5",
-    "original_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
-    "original_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ba2RXaS1VU0twSVU1UGh4amtINVVtUjQ2S0JkeHhYVzNmbmJNaTJDR2hzV2oybUkwaVF0NmFrZ25OTDF4NVh2VGVSZ2p3WFBaNWU0SUJfUl8yVTVVUDNWdDg5MWVhTzFwNmk1VkNJamgxTThvN3c?oc=5",
+    "original_title": "GlobalFoundries rallies after US$2bn TSMC deal - Taipei Times",
+    "original_summary": "GlobalFoundries rallies after US$2bn TSMC deal Taipei Times",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
-    "ko_title": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain - semivision",
-    "ja_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
-    "ko_summary": "TSMC and GlobalFoundries: How a $2 Billion Deal Could Reshape America’s Advanced Packaging Supply Chain semivision",
+    "ja_title": "GlobalFoundries rallies after US$2bn TSMC deal - Taipei Times",
+    "ko_title": "GlobalFoundries rallies after US$2bn TSMC deal - Taipei Times",
+    "ja_summary": "GlobalFoundries rallies after US$2bn TSMC deal Taipei Times",
+    "ko_summary": "GlobalFoundries rallies after US$2bn TSMC deal Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -105,6 +105,24 @@
     "ko_title": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? - Asia Business Outlook",
     "ja_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
     "ko_summary": "Why Advanced Packaging Is the New Bottleneck for AI Chips in Asia? Asia Business Outlook",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "712c8f6cfd70538f",
+    "date": "2026-10-09",
+    "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbm1IWTZzT2VkRHp5dXRsUHJPd2ZYa2liaGhLRU4yTTdzNzVFYWVUTHp2dXFMT3lKd1JCOF9OcFJGTDl6aS1xZ1RGRkpmZ1l6ZVY0LTljNmxOWnhrVURieDBUM2RZUkVhcEtBLXhUYlpSQ3dVTWN3U28wbmNCSDNWcmlVX1I?oc=5",
+    "original_title": "The AI Packaging Opportunity Extends Beyond TSMC - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "original_summary": "The AI Packaging Opportunity Extends Beyond TSMC Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "The AI Packaging Opportunity Extends Beyond TSMC - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "ko_title": "The AI Packaging Opportunity Extends Beyond TSMC - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "ja_summary": "The AI Packaging Opportunity Extends Beyond TSMC Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "ko_summary": "The AI Packaging Opportunity Extends Beyond TSMC Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
     "translation_status": "pending_api_key"
   },
   {
