@@ -1,5 +1,23 @@
 [
   {
+    "id": "a7b83a7ef6df78a0",
+    "date": "2026-10-15",
+    "source": "Businesskorea",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1abjNrWkVEbXNFZkUyNG5wQjA3ZUpMczRaV2xlcWxCWWNSdzE2ck1NamRsQUFzN1REV1J4VTdmZ0RKYjJXLXo1SHViQTFsVTNFS296cXhfNWc3M0JwWldfVTZaS2VnZUNCS3RtMkhqR0dGeWV2?oc=5",
+    "original_title": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? - Businesskorea",
+    "original_summary": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? Businesskorea",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? - Businesskorea",
+    "ko_title": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? - Businesskorea",
+    "ja_summary": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? Businesskorea",
+    "ko_summary": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? Businesskorea",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "20466679a0c6529d",
     "date": "2026-10-14",
     "source": "재경일보",
@@ -15,6 +33,24 @@
     "ko_title": "TSMC and NVIDIA push AI chip limits with advanced packaging to boost capacity : Global : JKN - 재경일보",
     "ja_summary": "TSMC and NVIDIA push AI chip limits with advanced packaging to boost capacity : Global : JKN 재경일보",
     "ko_summary": "TSMC and NVIDIA push AI chip limits with advanced packaging to boost capacity : Global : JKN 재경일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "624de925b912060b",
+    "date": "2026-10-13",
+    "source": "Thomasnet",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnFNMWFFZkg1Q3E1WHFVcEdUUjhZUnZVSjNfOUl3ZHdHRUxTRTRmX1hQa1p1bWNhQW9DTnpUNDlTMXpRTUJ2ZlVaMExFdkpyeTV6TVBrTC1tTTBQSjdfVXpSX1U5V3MzVGxaZm5uUHJJRDdGdGtQeUhaNWc5elNNaWRkVmZSbDg?oc=5",
+    "original_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "original_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "ko_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "ja_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
+    "ko_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
     "translation_status": "pending_api_key"
   },
   {
