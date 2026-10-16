@@ -1,23 +1,5 @@
 [
   {
-    "id": "af51410c206458a4",
-    "date": "2026-10-15",
-    "source": "Stocktwits",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNekkwR2pXNTByWk5UVE4xelJiU0RRM29meUg3bHpYeWdsWVo0dXQ0WVpQcktsaXNZQ2RobVJMMDNPbmpxRXg4dHE0TWhIajE2NzdkQUVGa1lNdWd5YVZvYm5WaWduRk1scmF2d296NFhOR09QVkZLOUxFcTExMTZMSXBDV21wUnVnYTM1OTNLMlRhcURMcUwxdWQ1TDNIUENueGRaaVVvOUVhUW14OTBKcmtQNG5ScXB2Z21FTlI4QjlmQU5XbXpEQ214MUNBZHR5QTZMblMxdTVGYWY5QkFWXzFTb3JFUFBzY0RpSDctSVB5Zw?oc=5",
-    "original_title": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand - Stocktwits",
-    "original_summary": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand Stocktwits",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand - Stocktwits",
-    "ko_title": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand - Stocktwits",
-    "ja_summary": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand Stocktwits",
-    "ko_summary": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand Stocktwits",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "a7b83a7ef6df78a0",
     "date": "2026-10-15",
     "source": "Businesskorea",
@@ -33,6 +15,24 @@
     "ko_title": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? - Businesskorea",
     "ja_summary": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? Businesskorea",
     "ko_summary": "Does Japan’s $21B U.S. Chip Investment Raise Pressure on Korea? Businesskorea",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "792872191c359bfa",
+    "date": "2026-10-15",
+    "source": "semivision",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnVXYkRNSFd2SXhUeDl3czBnck5yd0FUMl9fMk5mM095eTVIcnN3eGdKTnlBeVRaSXFVZm1mTkxtQ19WTU5pZG5zc0k1M0NaUG9wbUt1ZUlTZzQxaTFRcTBRVHlpYmhRUkRiTFVuUVRVeEtWY1dFOVdzVWt3aHprdmllTDE?oc=5",
+    "original_title": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision",
+    "original_summary": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity semivision",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision",
+    "ko_title": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision",
+    "ja_summary": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity semivision",
+    "ko_summary": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity semivision",
     "translation_status": "pending_api_key"
   },
   {
