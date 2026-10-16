@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "af51410c206458a4",
+    "date": "2026-10-15",
+    "source": "Stocktwits",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNekkwR2pXNTByWk5UVE4xelJiU0RRM29meUg3bHpYeWdsWVo0dXQ0WVpQcktsaXNZQ2RobVJMMDNPbmpxRXg4dHE0TWhIajE2NzdkQUVGa1lNdWd5YVZvYm5WaWduRk1scmF2d296NFhOR09QVkZLOUxFcTExMTZMSXBDV21wUnVnYTM1OTNLMlRhcURMcUwxdWQ1TDNIUENueGRaaVVvOUVhUW14OTBKcmtQNG5ScXB2Z21FTlI4QjlmQU5XbXpEQ214MUNBZHR5QTZMblMxdTVGYWY5QkFWXzFTb3JFUFBzY0RpSDctSVB5Zw?oc=5",
+    "original_title": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short - Stocktwits",
+    "original_summary": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short Stocktwits",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short - Stocktwits",
+    "ko_title": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short - Stocktwits",
+    "ja_summary": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short Stocktwits",
+    "ko_summary": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short Stocktwits",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "a7b83a7ef6df78a0",
     "date": "2026-10-15",
     "source": "Businesskorea",
@@ -213,6 +231,24 @@
     "ko_title": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers - Manufacturing Dive",
     "ja_summary": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers Manufacturing Dive",
     "ko_summary": "GlobalFoundries and TSMC reach $2B deal for US-based silicon interposers Manufacturing Dive",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "0b0d8f0219106808",
+    "date": "2026-10-09",
+    "source": "Pluang",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTFLZWliVzhmV1g2TTNjR25iUlZlYkozRll0VkxGWDVyTWVRM0RpTnhjR3lMYkVQNmM1Z2c4ZlozT1NmMDJLX0JCNm4tVjZpNm42VjJNMDNPaF9JWk55NjA1cnVWZTZBQnM3LXhObk1BeTQxaThHWUZIZTZzNkVoTlRBSDgzNzRoSXZUdWxn?oc=5",
+    "original_title": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. - Pluang",
+    "original_summary": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. Pluang",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. - Pluang",
+    "ko_title": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. - Pluang",
+    "ja_summary": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. Pluang",
+    "ko_summary": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. Pluang",
     "translation_status": "pending_api_key"
   },
   {
