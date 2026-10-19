@@ -232,41 +232,5 @@
     "ja_summary": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. Pluang",
     "ko_summary": "TSMC outpaces ASML in growth and valuation for next 5 years despite risks in Taiwan Strait and China exposure. Pluang",
     "translation_status": "pending_api_key"
-  },
-  {
-    "id": "f12f4ba6e9780421",
-    "date": "2026-10-08",
-    "source": "The Register",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDgzUGh3d0RUUTBQMDFuRTlHbjJBSXp1Q1hJRjM2VmE3SEZiQi1HRnJiSk9UNGt6bHBRQkVSa0xjVU9uc3NHNHZkdW1xTkxrQUlmeW02NHNkdlRpMW13WEtKV3lNVTUyekN6U1lLTEwwMXhPV2YzbFR0dXNsQWgtcGtKMU1FZXZFVl9xVWJmYUk2SVRDVFpNRDF1aHRpX2dIOVlhSEowMEp5Vy1TR0h0dGJsbHh2QXhINFh4WjlqeUtxU2FkUnF6WjNfQlhQS2N6?oc=5",
-    "original_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
-    "original_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
-    "ko_title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal - The Register",
-    "ja_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
-    "ko_summary": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal The Register",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "2002a68e658fc7a6",
-    "date": "2026-10-08",
-    "source": "Reuters",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5",
-    "original_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
-    "original_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
-    "ko_title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal - Reuters",
-    "ja_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
-    "ko_summary": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal Reuters",
-    "translation_status": "pending_api_key"
   }
 ]
