@@ -1,41 +1,5 @@
 [
   {
-    "id": "3d4d63dbe52bb999",
-    "date": "2026-10-19",
-    "source": "Silicon UK",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOUFCLWNRMHFFTGJURjJBMnN6ZzFkdGNzUV9GNHFWa2NOaHJ6ZExJa3FDdmZVT055WGpWdTY0ZGVyOGFXd1I3VVQ5Y0EtUGFxWll3VFFQYWdYOHRyRy1lRm1vcTVaUXZWSE9mV3F1M2VMTE9HejFtc3RMUDRKUlU?oc=5",
-    "original_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "original_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "ko_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "ja_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
-    "ko_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "5bbf58f77ced7d8c",
-    "date": "2026-10-16",
-    "source": "헤럴드경제",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83cGtpRlZNWEN2akpoYUk3bVhrd2cwaGVFTkVRYTM5YjZfTWhLYnp0OXNyd1RnX1VXRzRYZ19ST0o3WDM5NVdhOTZYeDlUOXZNb2RYeGpJZw?oc=5",
-    "original_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "original_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "ko_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "ja_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
-    "ko_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "aaed08936721ed17",
     "date": "2026-10-15",
     "source": "semivision",
@@ -87,6 +51,24 @@
     "ko_title": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity - semivision",
     "ja_summary": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity semivision",
     "ko_summary": "TSMC’s 2026 Q3 Earnings Call : AI Demand, A14, Texas Expansion and the Race for Chip Capacity semivision",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "624de925b912060b",
+    "date": "2026-10-13",
+    "source": "Thomasnet",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnFNMWFFZkg1Q3E1WHFVcEdUUjhZUnZVSjNfOUl3ZHdHRUxTRTRmX1hQa1p1bWNhQW9DTnpUNDlTMXpRTUJ2ZlVaMExFdkpyeTV6TVBrTC1tTTBQSjdfVXpSX1U5V3MzVGxaZm5uUHJJRDdGdGtQeUhaNWc5elNNaWRkVmZSbDg?oc=5",
+    "original_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "original_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "ko_title": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal - Thomasnet",
+    "ja_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
+    "ko_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
     "translation_status": "pending_api_key"
   },
   {
