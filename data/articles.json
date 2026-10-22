@@ -1,20 +1,38 @@
 [
   {
-    "id": "3d4d63dbe52bb999",
-    "date": "2026-10-19",
-    "source": "Silicon UK",
+    "id": "f006bbc60e5de62d",
+    "date": "2026-10-22",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
+    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "8da6163eaaff59fb",
+    "date": "2026-10-22",
+    "source": "조선일보",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOUFCLWNRMHFFTGJURjJBMnN6ZzFkdGNzUV9GNHFWa2NOaHJ6ZExJa3FDdmZVT055WGpWdTY0ZGVyOGFXd1I3VVQ5Y0EtUGFxWll3VFFQYWdYOHRyRy1lRm1vcTVaUXZWSE9mV3F1M2VMTE9HejFtc3RMUDRKUlU?oc=5",
-    "original_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "original_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkhxcTJxVGZiSG5SOEpseWJlWlpRbHlkdmR4NEU4QkhVa2doQ0Jpb2pBUGdVVzFVRm5mY2YtUF85NngzUjhEWVpTMUU4NnhmQUdsS0hnbTFDM0FMbVRfdWkzLV9McWJhRzVkVVNyQ2ZFc2pHNll1UDhpQzNiZk04aFJiZ192blJ5?oc=5",
+    "original_title": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments - 조선일보",
+    "original_summary": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "ko_title": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal - Silicon UK",
-    "ja_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
-    "ko_summary": "GlobalFoundries To Make AI Chip Parts For TSMC In $5bn Deal Silicon UK",
+    "ja_title": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments - 조선일보",
+    "ko_title": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments - 조선일보",
+    "ja_summary": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments 조선일보",
+    "ko_summary": "NVIDIA Secures AI Semiconductor Supply Chain with Component Investments 조선일보",
     "translation_status": "pending_api_key"
   },
   {
