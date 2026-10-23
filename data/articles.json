@@ -142,41 +142,5 @@
     "ja_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
     "ko_summary": "GlobalFoundries to Supply TSMC With US-Made Chip Packaging in $2B Deal Thomasnet",
     "translation_status": "pending_api_key"
-  },
-  {
-    "id": "89356e50ab8817ba",
-    "date": "2026-10-12",
-    "source": "New Electronics",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanFzVnAzRGliTmNYaGc3VGpuOHFEX21USnE0aWxodkxOZEtoMF9nallZYTZmWXktajVXeGNGQWgwLW9HMDJvTEhLeTFRcTJmVEkyN2RERWpxc2ZZZWtsUUZwRWplNklMenJRQnhqdmFZTXVZT0dNeWRQRVU5YjRWVzZXendzQmdod0dESFRzZGZsLU1mN0JQTE1mblVPRkJsWmo3QVZxUUtHUEpoeHhtRklDdER5MXVNQ0dSVV9ZMVFVbTVWcEE?oc=5",
-    "original_title": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging - New Electronics",
-    "original_summary": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging New Electronics",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging - New Electronics",
-    "ko_title": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging - New Electronics",
-    "ja_summary": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging New Electronics",
-    "ko_summary": "TSMC, GF partnership focuses spotlight on changing dynamics of advanced packaging New Electronics",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "474818c5f14243fc",
-    "date": "2026-10-12",
-    "source": "Chosunbiz",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVWI3MXB5aElUdEhFRTJEUEp3c0UzVUZJQkcyakgzN0haSTdlSE16YWpEZHRrSzJXZElqN3FGM243blY4NDJiN2x5eS1jNERyX1d6S1hQWmlwMWIwWHFzMS1iY1Q0OGN4b2RZVFhYM0F1M1JWUnFNTXB30gGOAUFVX3lxTE85QjYzRVBONWM3ZTZkTUM1WjkzZzBsbEZHeWZFdWg4dXBWN21nWm5XbE9zU2dzV05vTHhUQnJRVHh6UFBwY2NqSjJ1SnJJZXdTV1RhMEJQUFc4ZWFwdHd4NFNQREc0QzJISHNXUXJ3NTRmOElYMTBNclEwSFF5RExGOFVrNmotNm40Z2lTMHc?oc=5",
-    "original_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
-    "original_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
-    "ko_title": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ - Chosunbiz",
-    "ja_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
-    "ko_summary": "TSMC taps U.S. interposers to speed AI chip packaging shift, pressure Korea - CHOSUNBIZ Chosunbiz",
-    "translation_status": "pending_api_key"
   }
 ]
