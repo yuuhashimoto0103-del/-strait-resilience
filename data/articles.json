@@ -1,56 +1,20 @@
 [
   {
-    "id": "f006bbc60e5de62d",
+    "id": "60788959993acdbf",
     "date": "2026-10-22",
-    "source": "조선일보",
+    "source": "TechnoSports Media Group",
     "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
-    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RdDdUTUdYeERzYkwwR1NSMGtJT0QxRkNZb2hOOGQ3c1FfYXQ3WnVuWVJaOFo1ZjZjUC1oYkhZbFl1UVVyWGV5Q0h5UFN2ZElPc2V3OW9DbWNIeGgzZkE1TExjZHMxOVljZTNXRk0xUjQ?oc=5",
+    "original_title": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips - TechnoSports Media Group",
+    "original_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
     "tags": [
-      "Logistics"
+      "Semiconductor"
     ],
-    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "61aa69e1f9657c55",
-    "date": "2026-10-20",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNm5rbksydlJhby1vdy1zbUJEdEk0SVlweTVUS25jS2x6R1lTRWtHV2JvUHBNUVhCUTlIWUZnYmJ4dDQ3bFlVcTVPdE8tRkpnUDJTMHI3UXB2ZmdVVDgzS0RZUlQtWnYtQXdyZ0dfaU5JdkUzaGc?oc=5",
-    "original_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "original_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ko_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ja_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "ko_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d707a5d11ee56ea2",
-    "date": "2026-10-16",
-    "source": "헤럴드경제",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVQ0VFOE4yMWd3SXdZZDhVYzRKUFJfdUZURHQtY0RPcXhkd0Q1REZDeUVxWHRTZ0QxOG9kY2laMmdGYlp4Nm1fdXFPV0p0U2lKdkZuZEhn?oc=5",
-    "original_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "original_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "ko_title": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media - 헤럴드경제",
-    "ja_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
-    "ko_summary": "Chey Tae-won's Korea-Japan economic community proposal draws attention in Japanese media 헤럴드경제",
+    "ja_title": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips - TechnoSports Media Group",
+    "ko_title": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips - TechnoSports Media Group",
+    "ja_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
+    "ko_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
     "translation_status": "pending_api_key"
   }
 ]
