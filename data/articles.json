@@ -1,5 +1,77 @@
 [
   {
+    "id": "f7666e1cdc828ac5",
+    "date": "2026-10-27",
+    "source": "Yahoo Finance UK",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJHQmxveWsxOEtUeHdXZndXUHhKT1lEV3p6ajFOZ0dJcjJPemt0akY1eGt3bmpUdE9XbHJtOG0zWUZNNXFIeUFVU2dFY0NzcGtjX3ZQY21KOVB1OXlwdmRPM09kSkxSQjhjV0w4NkliVHNjMEpXNE1rYVNtbkdhY2F5TlBqNkNEX1E4?oc=5",
+    "original_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance UK",
+    "original_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance UK",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance UK",
+    "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance UK",
+    "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance UK",
+    "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance UK",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "204d24ac2b66e680",
+    "date": "2026-10-27",
+    "source": "TipRanks",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UTdRSTgxUmJCQ25jeDhSaHdVVnhoS0ZKT3BWbGRSY1d6YktfMU5BM1M0bWtpWXhsVmltdENROWJzbjRyOGh6ZS1wRTdEMGppQWh5QkJIdzh6enRPX0VMTmJQTmNuWjhIT2NIbkFQOXhqaFBNeUVad1JBUUFQTmM?oc=5",
+    "original_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "original_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ko_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ja_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "ko_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "1b734232096da925",
+    "date": "2026-10-25",
+    "source": "The East is Read",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYYzBnelMxRzdJTTJ0ZjNsMHJIR0VHSk5kUElMRVRLUFF3SGZ5UHY3RFZpV0M2NjhwZlF2MTFuSUdsMmdFdXRtYzF5ZFdsRWg5S0F3bkJXWk5RT0R1cm1IRk9vaGtka3kwQlBUX3otMWs?oc=5",
+    "original_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
+    "original_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
+    "ko_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
+    "ja_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
+    "ko_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "f006bbc60e5de62d",
+    "date": "2026-10-22",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
+    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "60788959993acdbf",
     "date": "2026-10-22",
     "source": "TechnoSports Media Group",
@@ -15,6 +87,24 @@
     "ko_title": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips - TechnoSports Media Group",
     "ja_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
     "ko_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "61aa69e1f9657c55",
+    "date": "2026-10-20",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNm5rbksydlJhby1vdy1zbUJEdEk0SVlweTVUS25jS2x6R1lTRWtHV2JvUHBNUVhCUTlIWUZnYmJ4dDQ3bFlVcTVPdE8tRkpnUDJTMHI3UXB2ZmdVVDgzS0RZUlQtWnYtQXdyZ0dfaU5JdkUzaGc?oc=5",
+    "original_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
+    "original_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
+    "ko_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
+    "ja_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
+    "ko_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
