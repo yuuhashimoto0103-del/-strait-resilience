@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "acc1d506cab0c5b4",
+    "date": "2026-10-27",
+    "source": "Yahoo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW95WjZwanFramQzNVFhb1JIV0R4WjQ2cGxxLW1vYUtNOFBWMVZ6OW9Hdm5IMHgzT2NvckNyVHBkbzhYM1g4ZHZaa0JyMVluaHJfM1lYYXJXUzBManFxb04wbS1pQW8xblRXNWM3NUxtWDVEUV9IX0Z0dExaSTJ6SHVBejBqYXlYdnVzWDhkS3AycGxqUEo2czU2OWFudw?oc=5",
+    "original_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
+    "original_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
+    "ko_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
+    "ja_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
+    "ko_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "204d24ac2b66e680",
     "date": "2026-10-27",
     "source": "TipRanks",
@@ -36,42 +54,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "1b734232096da925",
-    "date": "2026-10-25",
-    "source": "The East is Read",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYYzBnelMxRzdJTTJ0ZjNsMHJIR0VHSk5kUElMRVRLUFF3SGZ5UHY3RFZpV0M2NjhwZlF2MTFuSUdsMmdFdXRtYzF5ZFdsRWg5S0F3bkJXWk5RT0R1cm1IRk9vaGtka3kwQlBUX3otMWs?oc=5",
-    "original_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
-    "original_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
-    "ko_title": "How Chinese Scholars View U.S. Think Tanks on Taiwan - The East is Read",
-    "ja_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
-    "ko_summary": "How Chinese Scholars View U.S. Think Tanks on Taiwan The East is Read",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "f006bbc60e5de62d",
-    "date": "2026-10-22",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
-    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "60788959993acdbf",
     "date": "2026-10-22",
     "source": "TechnoSports Media Group",
@@ -87,24 +69,6 @@
     "ko_title": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips - TechnoSports Media Group",
     "ja_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
     "ko_summary": "Samsung’s TSMC CoWoS Deal Targets Nvidia Next-Gen Memory Chips TechnoSports Media Group",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "61aa69e1f9657c55",
-    "date": "2026-10-20",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNm5rbksydlJhby1vdy1zbUJEdEk0SVlweTVUS25jS2x6R1lTRWtHV2JvUHBNUVhCUTlIWUZnYmJ4dDQ3bFlVcTVPdE8tRkpnUDJTMHI3UXB2ZmdVVDgzS0RZUlQtWnYtQXdyZ0dfaU5JdkUzaGc?oc=5",
-    "original_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "original_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ko_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ja_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "ko_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
