@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "a9d37d9f7cdc6081",
+    "date": "2026-10-28",
+    "source": "inkl",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG9tUTRRRXV5OW9GdnBNVUluOUlZc2xJMzl3RmktT1o3dzFBQlQ0SkluYzJhVjJCYkhYNWphT1RVZGhBRE5BdHhHaTJONURETk5DNEtHaTFJM3R1aGh6TEcxSHJqc0J0WUFSTXFSb1NGOGdZYkZzUF9wQ2RHOW40d1pXcHhXSkZGcDhFcw?oc=5",
+    "original_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - inkl",
+    "original_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline inkl",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - inkl",
+    "ko_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - inkl",
+    "ja_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline inkl",
+    "ko_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline inkl",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "acc1d506cab0c5b4",
     "date": "2026-10-27",
     "source": "Yahoo Finance",
@@ -51,24 +69,6 @@
     "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
     "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
     "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "f006bbc60e5de62d",
-    "date": "2026-10-22",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
-    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
-    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
     "translation_status": "pending_api_key"
   }
 ]
