@@ -1,5 +1,23 @@
 [
   {
+    "id": "c90d8c967dac43d0",
+    "date": "2026-10-28",
+    "source": "Business Standard",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2FqU3RZTW5BRk1QZnRqT0pMRklId29DQzVUc1lZNzllQngzQldoWWc4cVZjYjVoWU12QUlzYVg5aFFzdXMwUEh4MV8tb092X1h6akFLUm1zVXBzM1NkVVlvOGZULTd1ZktVVjVJc0FJdkI5X0Y4Q1ZtYzd5Y0VwRkF5dGJzd1ZUdjdEU3lKWEVvYThSaGtLSkJVZlRlV3ZKUFAtLTVhazk4THBfb0hldG54YXE5c3RrR29yVDktVkI1UVFpd0I0b21COHY3aDNT0gHWAUFVX3lxTE4zdTE2M1Z4X3BDck1GWmp0bnJwdmxXYkJTaEk3dFM1YmVJTWRiTWlDWDlQbnA3ckVVNG9ZbE1FTnh0V093Y0thSEhlWXQ3cjV4RS1GZHFleWdLTjI3alIybk56TFMwQXpXZFR1RlQ2d1BCXzREbGUzQXg0SDBGbHNvUzd4NUtZSXc4LTh6ZlVqbW9SbldRMGVGeXFJNHlJZUtUUkVkNTZ1M3NteUEtaUswWmlpMFhMZFgteTRWREpzUTFRWFhlTkRBUnhIOTVzOE5SQ016aWc?oc=5",
+    "original_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
+    "original_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
+    "ko_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
+    "ja_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
+    "ko_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "acc1d506cab0c5b4",
     "date": "2026-10-27",
     "source": "Yahoo Finance",
@@ -51,24 +69,6 @@
     "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
     "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
     "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "61aa69e1f9657c55",
-    "date": "2026-10-20",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtNm5rbksydlJhby1vdy1zbUJEdEk0SVlweTVUS25jS2x6R1lTRWtHV2JvUHBNUVhCUTlIWUZnYmJ4dDQ3bFlVcTVPdE8tRkpnUDJTMHI3UXB2ZmdVVDgzS0RZUlQtWnYtQXdyZ0dfaU5JdkUzaGc?oc=5",
-    "original_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "original_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ko_title": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain - BigGo Finance",
-    "ja_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
-    "ko_summary": "SK hynix Teams Up With South Korean Government and Four Major Banks on 2 Trillion Won Guarantee to Support Domestic Semiconductor Supply Chain BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
