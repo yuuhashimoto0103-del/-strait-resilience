@@ -36,6 +36,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "48f9623445668525",
+    "date": "2026-10-28",
+    "source": "TIKR.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3luSFdYRzlnYVJkdTJTVWJ2VHhkMVlscnhKZ3N1RUxJQnRCOEdlVmpCTXlBMjB3UC1DVHpqZVdmQWd0WlNUMTRHVC1WamVvbG9OYVJQT05FTHhLSzdWOEJncWZCSFJTYk1FVmc3UWRtNldBWndqY2hFT0lLQmdfRFZ0Rjk0dTBLbVRzWGdDRQ?oc=5",
+    "original_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "original_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "ko_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "ja_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "ko_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "acc1d506cab0c5b4",
     "date": "2026-10-27",
     "source": "Yahoo Finance",
@@ -54,21 +72,39 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "03c5211a96bbe839",
+    "id": "aa9a507ab398b17b",
     "date": "2026-10-27",
-    "source": "Yahoo Finance",
+    "source": "Investing.com",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXprTXl0Q2V4bzI5bEh4M0kwNDNsSzJnOWxFMFVhLUlRWmVWMm5CS2YtVWNXVkEtQWx3S1lNZlVmTWtyNVFRak5ha05XR3VEeW8wVWdJWmdGZkFYMDAxOVpwc2dzTmJqU0ZaVnJvU2pOYm1VM3Q5SGlUOFYzQ2hWdERGdldhUHZ1QnN3WHlOU2tpN0tqSVF5amljQS1WOUk?oc=5",
-    "original_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "original_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTDRSLV9rNmhWLXNCMm5id0w4Wi1uVU5ySHZSR0ZXSGQwZEQwaExrMnNMWGMxa0pYbktnLS15WGswZUxVOE8xY0dfVWItc0RHYjlGVnQ0UFdvOWZYMVRJRldqbFNiVDdTVUlXby1sY2tDQ2ZzR3hiLVZuWWs0cHlXRFE1ZWVvMUZVc1A2TmV4OTgwZlRzMm42eW1fTlZMcktmYmZQQ3pqUllZenZlQU5RNm5oREhJazYzbm5fX1hFZkFuVUE?oc=5",
+    "original_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Investing.com",
+    "original_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Investing.com",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
-    "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
+    "ja_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Investing.com",
+    "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Investing.com",
+    "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Investing.com",
+    "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Investing.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "204d24ac2b66e680",
+    "date": "2026-10-27",
+    "source": "TipRanks",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UTdRSTgxUmJCQ25jeDhSaHdVVnhoS0ZKT3BWbGRSY1d6YktfMU5BM1M0bWtpWXhsVmltdENROWJzbjRyOGh6ZS1wRTdEMGppQWh5QkJIdzh6enRPX0VMTmJQTmNuWjhIT2NIbkFQOXhqaFBNeUVad1JBUUFQTmM?oc=5",
+    "original_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "original_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ko_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ja_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "ko_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
     "translation_status": "pending_api_key"
   },
   {
