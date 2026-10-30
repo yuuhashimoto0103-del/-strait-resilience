@@ -1,5 +1,23 @@
 [
   {
+    "id": "cef097735d446694",
+    "date": "2026-10-30",
+    "source": "Semiconductor Engineering",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Ql8tSTFkZEZFelhhTlZWLWVKRFUzR2gxbHlDYm1CSG95eW1nZkFlLUk1UGgyYnV4OXBiNjIxQXN3TktpSHZRU0VCWDRHNWplU2hUanB4aFRyNHY4XzVJTW9DU1lPSVFfMkgtTUpn?oc=5",
+    "original_title": "Chip Industry Week In Review - Semiconductor Engineering",
+    "original_summary": "Chip Industry Week In Review Semiconductor Engineering",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Chip Industry Week In Review - Semiconductor Engineering",
+    "ko_title": "Chip Industry Week In Review - Semiconductor Engineering",
+    "ja_summary": "Chip Industry Week In Review Semiconductor Engineering",
+    "ko_summary": "Chip Industry Week In Review Semiconductor Engineering",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "8cf438a1401c8a7c",
     "date": "2026-10-30",
     "source": "Chosunbiz",
@@ -51,24 +69,6 @@
     "ko_title": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player - BigGo Finance",
     "ja_summary": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player BigGo Finance",
     "ko_summary": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "c90d8c967dac43d0",
-    "date": "2026-10-28",
-    "source": "Business Standard",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2FqU3RZTW5BRk1QZnRqT0pMRklId29DQzVUc1lZNzllQngzQldoWWc4cVZjYjVoWU12QUlzYVg5aFFzdXMwUEh4MV8tb092X1h6akFLUm1zVXBzM1NkVVlvOGZULTd1ZktVVjVJc0FJdkI5X0Y4Q1ZtYzd5Y0VwRkF5dGJzd1ZUdjdEU3lKWEVvYThSaGtLSkJVZlRlV3ZKUFAtLTVhazk4THBfb0hldG54YXE5c3RrR29yVDktVkI1UVFpd0I0b21COHY3aDNT0gHWAUFVX3lxTE4zdTE2M1Z4X3BDck1GWmp0bnJwdmxXYkJTaEk3dFM1YmVJTWRiTWlDWDlQbnA3ckVVNG9ZbE1FTnh0V093Y0thSEhlWXQ3cjV4RS1GZHFleWdLTjI3alIybk56TFMwQXpXZFR1RlQ2d1BCXzREbGUzQXg0SDBGbHNvUzd4NUtZSXc4LTh6ZlVqbW9SbldRMGVGeXFJNHlJZUtUUkVkNTZ1M3NteUEtaUswWmlpMFhMZFgteTRWREpzUTFRWFhlTkRBUnhIOTVzOE5SQ016aWc?oc=5",
-    "original_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
-    "original_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
-    "ko_title": "After memory, AI drives up chip costs: Will phones and laptops get pricier? - Business Standard",
-    "ja_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
-    "ko_summary": "After memory, AI drives up chip costs: Will phones and laptops get pricier? Business Standard",
     "translation_status": "pending_api_key"
   },
   {
