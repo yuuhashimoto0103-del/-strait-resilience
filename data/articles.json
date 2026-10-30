@@ -18,6 +18,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "4204fae220b1851e",
+    "date": "2026-10-30",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yRFJEM001Q0k0dm8zRlhEMzVSX19YNFlUVGtaTEFreWY4MUMtTmgyVlFERF9sMklsM3BHN0QzbDVxRjlmb3lWeTdEbzJwZnBpUzVsdV96c2I1WXVwR1ZjTGgzY0xkMnZ3eW9CcE83N1lrYmx3b2c?oc=5",
+    "original_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
+    "original_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
+    "ko_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
+    "ja_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
+    "ko_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "8dd805b67817bfc7",
     "date": "2026-10-29",
     "source": "BigGo Finance",
@@ -141,24 +159,6 @@
     "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
     "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
     "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "1dcca6c62ee2834f",
-    "date": "2026-10-26",
-    "source": "TradingKey",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHlvYm9yQkJacmFKT0tLbWs0VnJHTFVvZ3dJZ2prVDRHWFdpdWpIcTNPSTBOZHl6bWtiNlZWWkR2S18wYmZmNlNhMDd1eVUtUzdXYWExNGdZQjJCV1huUnZQM0U1UHJ3aGQxc3dKVHpoekhQbndDWnB2Q3V6U2FCX1h2Y0xPTnBHQk51bHRmbWFsa0ZudUxBUXpUWVFRbmhNOFNSOVpYRE9KZ1huQWw1VG1jOXYyanBTTEhocndtelFpZF9Dem9rWmYtUF8?oc=5",
-    "original_title": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend - TradingKey",
-    "original_summary": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend TradingKey",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend - TradingKey",
-    "ko_title": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend - TradingKey",
-    "ja_summary": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend TradingKey",
-    "ko_summary": "Japan and South Korea Stocks Close Lower as KOSPI Drops Below 5,500; Samsung and Kioxia Fall Over 1%, SK Hynix Bucks Trend TradingKey",
     "translation_status": "pending_api_key"
   }
 ]
