@@ -36,42 +36,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "4204fae220b1851e",
-    "date": "2026-10-30",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yRFJEM001Q0k0dm8zRlhEMzVSX19YNFlUVGtaTEFreWY4MUMtTmgyVlFERF9sMklsM3BHN0QzbDVxRjlmb3lWeTdEbzJwZnBpUzVsdV96c2I1WXVwR1ZjTGgzY0xkMnZ3eW9CcE83N1lrYmx3b2c?oc=5",
-    "original_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
-    "original_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
-    "ko_title": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties - BigGo Finance",
-    "ja_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
-    "ko_summary": "SK Hynix Holds First Partners Day in Japan, Cementing AI Memory Supply Chain Ties BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "8dd805b67817bfc7",
-    "date": "2026-10-29",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOFYwa3QxNWk2YmI2dTlKY3haakRrX1R5ZTJrTGUyOTR3aGpaUlNhcE1QdlpUZWR5bmFtMzh6WmQ2RHR5RUZjUllyMF92V0thdklnUW5aTk91a0d0VjE1cnNqUDAtVy1Id1JPbzBJMVpGUi10MUE?oc=5",
-    "original_title": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player - BigGo Finance",
-    "original_summary": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player BigGo Finance",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player - BigGo Finance",
-    "ko_title": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player - BigGo Finance",
-    "ja_summary": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player BigGo Finance",
-    "ko_summary": "Warsh Says He Pays \"Particular Attention\" to South Korea's Economy, Flags It as Key AI Supply Chain Player BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "c90d8c967dac43d0",
     "date": "2026-10-28",
     "source": "Business Standard",
@@ -90,21 +54,75 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "705f117a110c544e",
+    "id": "8c9a4214b17e57f4",
     "date": "2026-10-28",
-    "source": "Yahoo Finance",
+    "source": "The Globe and Mail",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3UtckREdlJ1c3JCRHdVNURWNVNsOW1TaVYwa1JIdk9tbEV5YTk4YmRoZDJIMkFGcXhWeTRaZ2RHT2JzWEZaeWRkMEJvRk41WW0xNGVwa3RpWVB3Y09vRVdPbHRQRms1UHAtaUpWS3cxNHAwNnJzdzVXWjJ2WFNPQWVHMHhOa2VUTWhzYnUyRXRaUQ?oc=5",
-    "original_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "original_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV2JlNWxBSW5mMG1rT1NEdExZVkMzUmRvTE44MXRoa0cyV0Z3UFRSNUF3N3VVT0tWb0J5Vmg1bjZCMVY2dWRZZUNPcDd4cXp0SWVVR2llV2MyUUswcVhpR0pZTnJPdkdXQS1IREloaEhxM0N1bC1UeVgzUTFLSkFOZGR3ZHJVOWxaRVl4eHRxbDdzTS04bVVUdDRvTzNacG5UQmxneHZwNTdhamtKZk5Ea2I1TkR0Vzl3M2R2bUVOWmNITlZ3bHQ5bWlaSlJWZGFjUnpIdTdvWExodw?oc=5",
+    "original_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
+    "original_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "ko_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "ja_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
-    "ko_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
+    "ja_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
+    "ko_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
+    "ja_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
+    "ko_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "48f9623445668525",
+    "date": "2026-10-28",
+    "source": "TIKR.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3luSFdYRzlnYVJkdTJTVWJ2VHhkMVlscnhKZ3N1RUxJQnRCOEdlVmpCTXlBMjB3UC1DVHpqZVdmQWd0WlNUMTRHVC1WamVvbG9OYVJQT05FTHhLSzdWOEJncWZCSFJTYk1FVmc3UWRtNldBWndqY2hFT0lLQmdfRFZ0Rjk0dTBLbVRzWGdDRQ?oc=5",
+    "original_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "original_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "ko_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - TIKR.com",
+    "ja_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "ko_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging TIKR.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "a2bfe590850539b1",
+    "date": "2026-10-27",
+    "source": "Yahoo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekpKYkZzMEpfQmFkR2wtNmttWjJJOWQ2SWFzdS1oa0dhbU5nU1NnVHhqaHhXX243RmZDUHBNX0Q5a3pUWlg5SnVNSFNVVVRHVWxiOHJrSmZEdmpnSVpmZjlCMlZrR25BOWhVTHBSYmxOY3ZSajRTb2xVWkpSRF9LS2lqOEp3UzBfNDRLdzE1b211R2Nqc3lnQ0tHS2c?oc=5",
+    "original_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
+    "original_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
+    "ko_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
+    "ja_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
+    "ko_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "204d24ac2b66e680",
+    "date": "2026-10-27",
+    "source": "TipRanks",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UTdRSTgxUmJCQ25jeDhSaHdVVnhoS0ZKT3BWbGRSY1d6YktfMU5BM1M0bWtpWXhsVmltdENROWJzbjRyOGh6ZS1wRTdEMGppQWh5QkJIdzh6enRPX0VMTmJQTmNuWjhIT2NIbkFQOXhqaFBNeUVad1JBUUFQTmM?oc=5",
+    "original_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "original_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ko_title": "TSMC’s AI Chip Packaging Prices Could Jump 20% - TipRanks",
+    "ja_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
+    "ko_summary": "TSMC’s AI Chip Packaging Prices Could Jump 20% TipRanks",
     "translation_status": "pending_api_key"
   },
   {
@@ -123,6 +141,42 @@
     "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
     "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
     "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "f006bbc60e5de62d",
+    "date": "2026-10-22",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTEydkQxNnVnQmJLTUM3enJaNXhhSmdTOGFfQzhnVXctRzg2emExNm0tZzN1clliZDRhTXVmVWRkTmhhdWUxclMyd2dYTVNXOU5HVHpVeTkzRWZBbXItN0NvOHNXU3VDNFhrQXZzMDNFNDZuZE1xWkVqNFFSM25PbHdXUHkxOFhZ?oc=5",
+    "original_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "original_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ko_title": "South Korea Overtakes Japan in Global Export Rankings - 조선일보",
+    "ja_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "ko_summary": "South Korea Overtakes Japan in Global Export Rankings 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "1e0ba19b3b7fda31",
+    "date": "2026-10-22",
+    "source": "The Korea Times",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEFsREpNclhfYmFNTl9SdzdTckxUVUVJbXM1OXRiRmNkM2pmREdtOTR2c29LR2hsTnpxbFIzNXU2SlVOR1NCQXNpdnJOanhxUmo3a2RWLTFIUENhaDZNN2pPS3VrSTR3UUN1QlE4aXIxZ1A2QTVVM1BYOGRYZV96N0RXNEJrdnROOFdkV2xOVjMzNWdkQUV1Wl9QajZfOXRVOHd3YmttaTVtUV9TeVd5TXNPcjRzcHB1UnpvV1dnaG1uWG8yUTF5NXVEcVM0cTVPZjBrWWQyWUJrdFXSAeABQVVfeXFMT3NLaFFZZkdZWTZydXlzQUJiUzNuMWtxWXRISEpXdm9FYVlqaVRrZzg4bmo0dUhKbmVPc3ZuUUhfOVdwcWRfMkRNeHoxemFCMDF3SFNzN3lxNG5JejBlcWxSR01MSVB6SEc5NHQ0clZaS2ljMzBqV002d01Md3IwSXZxTGU5czBnc3NFb3NVN1ktWUhRMjlsY0ZOc1IwV1AxVjZ5SjVrOUZ0MkRFSFJjZHV4R2VveGhGWnN0NFVFbE1iTnF4YkE0NkY4d3ROV3JWdjZKTnlQcTd2TTR0emppV3g?oc=5",
+    "original_title": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea - The Korea Times",
+    "original_summary": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea The Korea Times",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea - The Korea Times",
+    "ko_title": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea - The Korea Times",
+    "ja_summary": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea The Korea Times",
+    "ko_summary": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea The Korea Times",
     "translation_status": "pending_api_key"
   }
 ]
