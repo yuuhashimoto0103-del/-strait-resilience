@@ -1,11 +1,29 @@
 [
   {
-    "id": "8c9a4214b17e57f4",
+    "id": "ba0c2e3f58def469",
+    "date": "2026-11-03",
+    "source": "www.tokenpost.com",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4dDVZTGZjMjF6UTZ6dkRKQjRZdHRXNTVqQm1RYmlFalI3LURFUmVaaDVGaHZPc2JRTEZmNmd3NzBoQXlPWTlhVWtSM0JWSThKVmhmSEFoNUY?oc=5",
+    "original_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
+    "original_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
+    "ko_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
+    "ja_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
+    "ko_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "dc821e952d59925f",
     "date": "2026-10-28",
     "source": "The Globe and Mail",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV2JlNWxBSW5mMG1rT1NEdExZVkMzUmRvTE44MXRoa0cyV0Z3UFRSNUF3N3VVT0tWb0J5Vmg1bjZCMVY2dWRZZUNPcDd4cXp0SWVVR2llV2MyUUswcVhpR0pZTnJPdkdXQS1IREloaEhxM0N1bC1UeVgzUTFLSkFOZGR3ZHJVOWxaRVl4eHRxbDdzTS04bVVUdDRvTzNacG5UQmxneHZwNTdhamtKZk5Ea2I1TkR0Vzl3M2R2bUVOWmNITlZ3bHQ5bWlaSlJWZGFjUnpIdTdvWExodw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2FiTGkxWWVkend5UUQ2YXdTYXJycm52SXJxcGFaNWxwMzdFTDNwcFM2WUFQRk8tTEVnZDVGWi1hVnFWWWRWemVGZ0puQ21oZ05oX3BKWDZQemR4bzlXc29jU2N3N3ZvcnphZTFGRVRTNnRuMUkwTUxpQV9OdTlJa3dmalNHVFVzQk5uNDlkVkZkU2JMSFVHeW8wN0hCaXo3Rkl6ZnBHdEpPY05vQnd2WkFNV0FnUHdlbXZQeDg2clNSU0FKSndST2drQWlQbV95amFGSmtWNE1SaDg?oc=5",
     "original_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
     "original_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
     "tags": [
@@ -51,24 +69,6 @@
     "ko_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
     "ja_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
     "ko_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "a2bfe590850539b1",
-    "date": "2026-10-27",
-    "source": "Yahoo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekpKYkZzMEpfQmFkR2wtNmttWjJJOWQ2SWFzdS1oa0dhbU5nU1NnVHhqaHhXX243RmZDUHBNX0Q5a3pUWlg5SnVNSFNVVVRHVWxiOHJrSmZEdmpnSVpmZjlCMlZrR25BOWhVTHBSYmxOY3ZSajRTb2xVWkpSRF9LS2lqOEp3UzBfNDRLdzE1b211R2Nqc3lnQ0tHS2c?oc=5",
-    "original_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
-    "original_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
-    "ko_title": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging - Yahoo Finance",
-    "ja_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
-    "ko_summary": "Nvidia, Chipmakers Face Higher Costs? TSMC Reportedly Plans Up To 20% Price Hike For Advanced Chip Packaging Yahoo Finance",
     "translation_status": "pending_api_key"
   },
   {
