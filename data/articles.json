@@ -1,74 +1,20 @@
 [
   {
-    "id": "deaa599f2edfc8b4",
-    "date": "2026-11-02",
-    "source": "Aju Press",
+    "id": "1e9c7632f98a3301",
+    "date": "2026-11-04",
+    "source": "BigGo Finance",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WSkpLM2NSSG4tYXh4c3lNXzY2UFFfV2s4dWtpZm5hMktaTUNBNzNJRi1rNHhRQmVvN0xFVkpSUXdpa29zd0ZuWWdhQ2FQTDhSZlB0SjduMNIBV0FVX3lxTE1WSkpLM2NSSG4tYXh4c3lNXzY2UFFfV2s4dWtpZm5hMktaTUNBNzNJRi1rNHhRQmVvN0xFVkpSUXdpa29zd0ZuWWdhQ2FQTDhSZlB0SjduMA?oc=5",
-    "original_title": "AI necessity draws Korean chipmakers closer to Japan - Aju Press",
-    "original_summary": "AI necessity draws Korean chipmakers closer to Japan Aju Press",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBERXZpb3JzSjJldDVWVXZ2d3RXM1lYa2JsakxaWVVKZmhBYjFMQ3JfOUlPVGdHOEtnV19oZlhmeHpTRW9NalVwMVEtV2JNODZBRThiR3J0YkpOSlFJVTNiTDlEbkVZbXNTbTV2QkJpUWV5NGphRWc?oc=5",
+    "original_title": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration - BigGo Finance",
+    "original_summary": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration BigGo Finance",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "AI necessity draws Korean chipmakers closer to Japan - Aju Press",
-    "ko_title": "AI necessity draws Korean chipmakers closer to Japan - Aju Press",
-    "ja_summary": "AI necessity draws Korean chipmakers closer to Japan Aju Press",
-    "ko_summary": "AI necessity draws Korean chipmakers closer to Japan Aju Press",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "718c8e8a2f46563b",
-    "date": "2026-11-01",
-    "source": "The Korea Herald",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4R2oxNUlxRTExZnVpTUp2ZktoWE91MW9PU1VKRnJ6NC1mSnlhOXdhWVdacmFJeDA5c2c4S0ctajd1d20ybzBTaVBOTW1kamVwYmU4eFg4OA?oc=5",
-    "original_title": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain - The Korea Herald",
-    "original_summary": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain The Korea Herald",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain - The Korea Herald",
-    "ko_title": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain - The Korea Herald",
-    "ja_summary": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain The Korea Herald",
-    "ko_summary": "SK hynix hosts first Partners Day in Japan to strengthen chip supply chain The Korea Herald",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "8cf438a1401c8a7c",
-    "date": "2026-10-30",
-    "source": "Chosunbiz",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XTVVzZEx1c0lPOThyMWdpTkJ6TFpJeF85anJWM3N0RnRIcktuU0pXWVR4dUlEMGY2VGdZbWtOUVBLOTgwQ2pyMzNUWjNQRUtUeTc0cG80QTZyQlZhQ3FRazFOSzZhTXhJR0Y0cXR2QlIydmhfQWhkanNn0gGOAUFVX3lxTE1ENlIxZHZ3dXE2SWdObFMxX2tsbk1ZU05peXZQT3FBYnJFSDFIUGNCS3VSREZEdHlMUkthSnlIVEUtNHRCejRIMGN4UlU2Xzd4WG5LN1Jkc3lmZmNFQW4xZkFlbTR5TVB5ZXZuUGFJRXA4UnQ5Q0FyYk5lUmw4TW1QMHdNSENxNnZhcHNKNGc?oc=5",
-    "original_title": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain - Chosunbiz",
-    "original_summary": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain Chosunbiz",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain - Chosunbiz",
-    "ko_title": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain - Chosunbiz",
-    "ja_summary": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain Chosunbiz",
-    "ko_summary": "SK hynix deepens Japan ties to align AI memory roadmap and supply chain Chosunbiz",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "dc821e952d59925f",
-    "date": "2026-10-28",
-    "source": "The Globe and Mail",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2FiTGkxWWVkend5UUQ2YXdTYXJycm52SXJxcGFaNWxwMzdFTDNwcFM2WUFQRk8tTEVnZDVGWi1hVnFWWWRWemVGZ0puQ21oZ05oX3BKWDZQemR4bzlXc29jU2N3N3ZvcnphZTFGRVRTNnRuMUkwTUxpQV9OdTlJa3dmalNHVFVzQk5uNDlkVkZkU2JMSFVHeW8wN0hCaXo3Rkl6ZnBHdEpPY05vQnd2WkFNV0FnUHdlbXZQeDg2clNSU0FKSndST2drQWlQbV95amFGSmtWNE1SaDg?oc=5",
-    "original_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
-    "original_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
-    "ko_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
-    "ja_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
-    "ko_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
+    "ja_title": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration - BigGo Finance",
+    "ko_title": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration - BigGo Finance",
+    "ja_summary": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration BigGo Finance",
+    "ko_summary": "MediaTek Recruits Former Intel Executive Vice President Shahriari to Lead Advanced Packaging, Deepen TSMC Collaboration BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
