@@ -1,23 +1,5 @@
 [
   {
-    "id": "ba0c2e3f58def469",
-    "date": "2026-11-03",
-    "source": "www.tokenpost.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4dDVZTGZjMjF6UTZ6dkRKQjRZdHRXNTVqQm1RYmlFalI3LURFUmVaaDVGaHZPc2JRTEZmNmd3NzBoQXlPWTlhVWtSM0JWSThKVmhmSEFoNUY?oc=5",
-    "original_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
-    "original_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
-    "ko_title": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp - www.tokenpost.com",
-    "ja_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
-    "ko_summary": "Taiwan Suppliers Prepare Plants and Chip IP for TSMC’s 2-Nanometer Ramp www.tokenpost.com",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "deaa599f2edfc8b4",
     "date": "2026-11-02",
     "source": "Aju Press",
@@ -87,60 +69,6 @@
     "ko_title": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline - The Globe and Mail",
     "ja_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
     "ko_summary": "Taiwan Semiconductor Flexes Pricing Power on AI's Frontline The Globe and Mail",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "705f117a110c544e",
-    "date": "2026-10-28",
-    "source": "Yahoo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3UtckREdlJ1c3JCRHdVNURWNVNsOW1TaVYwa1JIdk9tbEV5YTk4YmRoZDJIMkFGcXhWeTRaZ2RHT2JzWEZaeWRkMEJvRk41WW0xNGVwa3RpWVB3Y09vRVdPbHRQRms1UHAtaUpWS3cxNHAwNnJzdzVXWjJ2WFNPQWVHMHhOa2VUTWhzYnUyRXRaUQ?oc=5",
-    "original_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "original_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "ko_title": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging - Yahoo Finance",
-    "ja_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
-    "ko_summary": "TSMC Gains 3% on Reported 20% Price Hike for AI Chip Packaging Yahoo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "acc1d506cab0c5b4",
-    "date": "2026-10-27",
-    "source": "Yahoo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW95WjZwanFramQzNVFhb1JIV0R4WjQ2cGxxLW1vYUtNOFBWMVZ6OW9Hdm5IMHgzT2NvckNyVHBkbzhYM1g4ZHZaa0JyMVluaHJfM1lYYXJXUzBManFxb04wbS1pQW8xblRXNWM3NUxtWDVEUV9IX0Z0dExaSTJ6SHVBejBqYXlYdnVzWDhkS3AycGxqUEo2czU2OWFudw?oc=5",
-    "original_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
-    "original_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
-    "ko_title": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand - Yahoo Finance",
-    "ja_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
-    "ko_summary": "TSMC Reportedly Plans Up to 20% Increase in Advanced Chip Packaging Prices Amid AI Demand Yahoo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "03c5211a96bbe839",
-    "date": "2026-10-27",
-    "source": "Yahoo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXprTXl0Q2V4bzI5bEh4M0kwNDNsSzJnOWxFMFVhLUlRWmVWMm5CS2YtVWNXVkEtQWx3S1lNZlVmTWtyNVFRak5ha05XR3VEeW8wVWdJWmdGZkFYMDAxOVpwc2dzTmJqU0ZaVnJvU2pOYm1VM3Q5SGlUOFYzQ2hWdERGdldhUHZ1QnN3WHlOU2tpN0tqSVF5amljQS1WOUk?oc=5",
-    "original_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "original_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "ko_title": "TSMC to raise advanced chip packaging prices by up to 20%, report says - Yahoo Finance",
-    "ja_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
-    "ko_summary": "TSMC to raise advanced chip packaging prices by up to 20%, report says Yahoo Finance",
     "translation_status": "pending_api_key"
   }
 ]
