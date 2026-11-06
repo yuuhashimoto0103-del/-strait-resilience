@@ -1,5 +1,23 @@
 [
   {
+    "id": "b7538a6719d7ab37",
+    "date": "2026-11-06",
+    "source": "Reuters",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
+    "original_title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
+    "original_summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
+    "ko_title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
+    "ja_summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
+    "ko_summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "87767397d54cb921",
     "date": "2026-11-06",
     "source": "Businesskorea",
@@ -15,6 +33,24 @@
     "ko_title": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff - Businesskorea",
     "ja_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
     "ko_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "2fa65cfcf43e4d02",
+    "date": "2026-11-06",
+    "source": "파이낸셜뉴스",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNW5POWlQTVFwVGtjNTBwQ1BjdlF5eWJmT2hDRG91dl9UVkNNSlVjaGtlYkZPdTZoZFBSY3Nfa0pHaVV3MjRMdkRkRDBOLUNFSEtNQUZFMlI?oc=5",
+    "original_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
+    "original_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
+    "ko_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
+    "ja_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
+    "ko_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
     "translation_status": "pending_api_key"
   },
   {
