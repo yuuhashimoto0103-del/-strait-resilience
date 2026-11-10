@@ -6,15 +6,15 @@
     "source_lang": "EN",
     "category": "Semiconductor",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkd0SDVMdU5BeGZCdmJNbmdDTktGWFNnZEdCR3dMRlh5OEMzMkJ0Tzdzb1V4aXlLSkpFSi1iT3dnYm9Bd0wtSkRneXF5SFZUQ0lCZ2FJMWJfUFFSRDdTa0ZCX0owQlY4N1BIc3c2QjNYa2tkMGZ3dlhHRGRyczhWbE93YUNoNWM?oc=5",
-    "original_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
-    "original_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
+    "original_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
+    "original_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
-    "ko_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
-    "ja_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
-    "ko_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
+    "ja_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
+    "ko_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
+    "ja_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
+    "ko_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
     "translation_status": "pending_api_key"
   },
   {
@@ -33,24 +33,6 @@
     "ko_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
     "ja_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
     "ko_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "6bf2b031791c113d",
-    "date": "2026-11-08",
-    "source": "Korea IT Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90ZmNaYnE3eUVyQnBiOEg3RFU0d3pxMXJBX0NDZEMxMzl0cDEwRTJaUnE0R1hEakEwU3hUUDFpQ2Q3LU5hVXRJMnE4aDN1VkJiYk5FQXA2LWtpM2kyRHVIajV3WVVzRy12Wi1WTjVRUmo?oc=5",
-    "original_title": "AI Chip Race Moves Beyond HBM to Advanced Packaging - Korea IT Times",
-    "original_summary": "AI Chip Race Moves Beyond HBM to Advanced Packaging Korea IT Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "AI Chip Race Moves Beyond HBM to Advanced Packaging - Korea IT Times",
-    "ko_title": "AI Chip Race Moves Beyond HBM to Advanced Packaging - Korea IT Times",
-    "ja_summary": "AI Chip Race Moves Beyond HBM to Advanced Packaging Korea IT Times",
-    "ko_summary": "AI Chip Race Moves Beyond HBM to Advanced Packaging Korea IT Times",
     "translation_status": "pending_api_key"
   },
   {
@@ -87,24 +69,6 @@
     "ko_title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
     "ja_summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
     "ko_summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "87767397d54cb921",
-    "date": "2026-11-06",
-    "source": "Businesskorea",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92c1NJLVFKdkVuN05nVWxqTkRHYUJScGpadlVhMXpTUThhcVMzM3lkeUxzMmNRbGdvQUdZc3JuU0J6ak1Sc0NKWVBwbXoxbDVKc3NBS1ktRDN2UUM4enpWYW9xblMzSHpJS2xEcUxDMlVJTk1s?oc=5",
-    "original_title": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff - Businesskorea",
-    "original_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff - Businesskorea",
-    "ko_title": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff - Businesskorea",
-    "ja_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
-    "ko_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
     "translation_status": "pending_api_key"
   }
 ]
