@@ -1,5 +1,23 @@
 [
   {
+    "id": "da3a7dcd695d2ed1",
+    "date": "2026-11-09",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkd0SDVMdU5BeGZCdmJNbmdDTktGWFNnZEdCR3dMRlh5OEMzMkJ0Tzdzb1V4aXlLSkpFSi1iT3dnYm9Bd0wtSkRneXF5SFZUQ0lCZ2FJMWJfUFFSRDdTa0ZCX0owQlY4N1BIc3c2QjNYa2tkMGZ3dlhHRGRyczhWbE93YUNoNWM?oc=5",
+    "original_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
+    "original_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
+    "ko_title": "Semiconductor Prices: Market vs. Politics - 조선일보",
+    "ja_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
+    "ko_summary": "Semiconductor Prices: Market vs. Politics 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "e48ecf969933d69e",
     "date": "2026-11-08",
     "source": "Technology Org",
@@ -87,42 +105,6 @@
     "ko_title": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff - Businesskorea",
     "ja_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
     "ko_summary": "AI Fears Send Asia’s Semiconductor Belt Into a Selloff Businesskorea",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "2fa65cfcf43e4d02",
-    "date": "2026-11-06",
-    "source": "파이낸셜뉴스",
-    "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNW5POWlQTVFwVGtjNTBwQ1BjdlF5eWJmT2hDRG91dl9UVkNNSlVjaGtlYkZPdTZoZFBSY3Nfa0pHaVV3MjRMdkRkRDBOLUNFSEtNQUZFMlI?oc=5",
-    "original_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
-    "original_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
-    "tags": [
-      "Japan-Korea"
-    ],
-    "ja_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
-    "ko_title": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI - 파이낸셜뉴스",
-    "ja_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
-    "ko_summary": "South Korean AI and semiconductors meet Japanese robotics as business leaders from both countries expand cooperation on physical AI 파이낸셜뉴스",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e470d07e4bb62f99",
-    "date": "2026-11-05",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRQzU5NVo5MEdTYnY3dnh0VnM0QVR5WDJobGo2aWV2Vmx4eTdEWWs2MVJFNGRSblBwQTJNWFZBWGFHNU9YUVk0eV9tMnJGdWFVWmxkQ3FaX3JDV01aRGhVb1puZXBEVmtfUVFtdnBMamtFZVRMSWc?oc=5",
-    "original_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "original_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "ko_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "ja_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
-    "ko_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
