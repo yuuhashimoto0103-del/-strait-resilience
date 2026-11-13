@@ -1,23 +1,5 @@
 [
   {
-    "id": "f27496d6be356b94",
-    "date": "2026-11-12",
-    "source": "Vietnam.vn",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDhBTmV2ZTNiUHVMMWFfNXBaZzdTeUUyR0NBSnlLNDA3NGVHMWp5eU96MXFCNWxxRXU3QXR4T2dtUkp1TldsS1ZEVFhqc1EtR3JYNlo5Sk9tMUViZnZhblZnLS0zYkRPMHdFQ1NvRzc0WUlJNEFFZzhEdjZkZmg3eWtSMEh0cEsydUU5YW1VU0VZdGJWMnVMX1dCSFBlWFZMOHc3YnZpcHc2clNK?oc=5",
-    "original_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "original_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ko_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ja_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "ko_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "c2401e98f657e230",
     "date": "2026-11-12",
     "source": "openPR.com",
@@ -108,24 +90,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "e48ecf969933d69e",
-    "date": "2026-11-08",
-    "source": "Technology Org",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUNIQTc1VjVsamdFdUE3OEozbHNEZkd0Z25fTWVsWXR6LUc3YWIybk5TTXp0UkxWNDRrVEt3cDgtRmEzT3c2UmdJSlNXY0Q0UFVsejhNU2U2OHhjZzA1aTZFekJBamVRaUV1dnlXbFhwVDU0SHlHaWlLZXdLQjNUZmRKME14WnJNeWk4UzZZQnFIdw?oc=5",
-    "original_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
-    "original_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
-    "ko_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
-    "ja_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
-    "ko_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "e470d07e4bb62f99",
     "date": "2026-11-05",
     "source": "BigGo Finance",
@@ -141,24 +105,6 @@
     "ko_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
     "ja_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
     "ko_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "0541d79107529161",
-    "date": "2026-11-05",
-    "source": "Gulf Times",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPajhlb3BBOWlsYVhaNl9hcW9OTlFScDNUbXlFelhTaE8td3cyY0YxYTNTQk5CZl9wTlhIX0VlenJJd21kZEZzY3hPUk1mdHFiakVZZFowZ2F2SDBYa0lseUZEUVJyWVgwNFNtRzQ1bzdBNVVXdV9RZ1NsRThCbTN4N3lxckNVbkJmWkE3eGc1ZG50cGNiOGlJQVd3QXlibmlvTHpPTmZUUTHSAa4BQVVfeXFMUHZacGVYTXJfalp6NllvWFFIc0RqTTJ6ZzRNWE9zeGloUFg5clF0amdBUm43NzhfZ00yczQ5OXp5RUN4MUZCSTkzQXlBZ1Rzc0RDdEgwZElWSzBDTkg5aEpwOGV3VVNLNmFwLUxDUTJGbUdxWEFlb1FpaGQ0QXBManNUNHBKUUM5anc2Q1lQend1YV9TSDdLOF8yR0hEVGh6dEZfM0F4YndXakVOU013?oc=5",
-    "original_title": "Advanced packaging emerges as new AI chip battleground | Gulf Times - Gulf Times",
-    "original_summary": "Advanced packaging emerges as new AI chip battleground | Gulf Times Gulf Times",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Advanced packaging emerges as new AI chip battleground | Gulf Times - Gulf Times",
-    "ko_title": "Advanced packaging emerges as new AI chip battleground | Gulf Times - Gulf Times",
-    "ja_summary": "Advanced packaging emerges as new AI chip battleground | Gulf Times Gulf Times",
-    "ko_summary": "Advanced packaging emerges as new AI chip battleground | Gulf Times Gulf Times",
     "translation_status": "pending_api_key"
   }
 ]
