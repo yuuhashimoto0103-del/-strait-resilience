@@ -1,5 +1,23 @@
 [
   {
+    "id": "f2f2b3a74fc7d562",
+    "date": "2026-11-13",
+    "source": "Báo VietNamNet",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckR0Y2s2S29ZRnZ4RDJDeGNCQk1VSEpTLWlBX0xXSlhGMjdnZE1rVURTSzhWcnhIN2FxVzFHdlAyWTlzWWhwaU1ocVhWeTBpY1VnYmpibEpzb1MydG5vc3NGY0ZmNjhfc0piREc1aFNQZHN1M3hBa1dsb2hOVXhaN1ZfZ0lzeTB5bnVZbnBQaWthNnR3aTZfQWp3ZkVhRWl1cF9IZUE5YVJRVlE?oc=5",
+    "original_title": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals - Báo VietNamNet",
+    "original_summary": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals Báo VietNamNet",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals - Báo VietNamNet",
+    "ko_title": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals - Báo VietNamNet",
+    "ja_summary": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals Báo VietNamNet",
+    "ko_summary": "Vietnam, South Korea deepen AI and semiconductor ties with eight deals Báo VietNamNet",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "a08487ae27656721",
     "date": "2026-11-13",
     "source": "TradingKey",
@@ -15,6 +33,24 @@
     "ko_title": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 - TradingKey",
     "ja_summary": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 TradingKey",
     "ko_summary": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 TradingKey",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "f27496d6be356b94",
+    "date": "2026-11-12",
+    "source": "Vietnam.vn",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDhBTmV2ZTNiUHVMMWFfNXBaZzdTeUUyR0NBSnlLNDA3NGVHMWp5eU96MXFCNWxxRXU3QXR4T2dtUkp1TldsS1ZEVFhqc1EtR3JYNlo5Sk9tMUViZnZhblZnLS0zYkRPMHdFQ1NvRzc0WUlJNEFFZzhEdjZkZmg3eWtSMEh0cEsydUU5YW1VU0VZdGJWMnVMX1dCSFBlWFZMOHc3YnZpcHc2clNK?oc=5",
+    "original_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
+    "original_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
+    "ko_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
+    "ja_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
+    "ko_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
     "translation_status": "pending_api_key"
   },
   {
@@ -54,39 +90,21 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "2118e86554d5dec7",
-    "date": "2026-11-11",
-    "source": "BigGo Finance",
+    "id": "e48ecf969933d69e",
+    "date": "2026-11-08",
+    "source": "Technology Org",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PVThncVJrVXhMUnlpeHh1dFlSM2FOeXFzeXR2cXdfMWdTMkRabGt3eldsdzU4bFJVdEhqSVZ4cFdBcGI3X2Y0MjZySEp5dHF6SzliOWc3c0E2U1VwN0JKNzVnMW9fcG1OMjVIUkJ3WV9QRWxGX3c?oc=5",
-    "original_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
-    "original_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUNIQTc1VjVsamdFdUE3OEozbHNEZkd0Z25fTWVsWXR6LUc3YWIybk5TTXp0UkxWNDRrVEt3cDgtRmEzT3c2UmdJSlNXY0Q0UFVsejhNU2U2OHhjZzA1aTZFekJBamVRaUV1dnlXbFhwVDU0SHlHaWlLZXdLQjNUZmRKME14WnJNeWk4UzZZQnFIdw?oc=5",
+    "original_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
+    "original_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
-    "ko_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
-    "ja_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
-    "ko_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "da3a7dcd695d2ed1",
-    "date": "2026-11-09",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkd0SDVMdU5BeGZCdmJNbmdDTktGWFNnZEdCR3dMRlh5OEMzMkJ0Tzdzb1V4aXlLSkpFSi1iT3dnYm9Bd0wtSkRneXF5SFZUQ0lCZ2FJMWJfUFFSRDdTa0ZCX0owQlY4N1BIc3c2QjNYa2tkMGZ3dlhHRGRyczhWbE93YUNoNWM?oc=5",
-    "original_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
-    "original_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
-    "ko_title": "Semiconductor Prices: Market vs. International Politics - 조선일보",
-    "ja_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
-    "ko_summary": "Semiconductor Prices: Market vs. International Politics 조선일보",
+    "ja_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
+    "ko_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
+    "ja_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
+    "ko_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
     "translation_status": "pending_api_key"
   },
   {
