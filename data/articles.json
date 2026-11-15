@@ -36,24 +36,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "f27496d6be356b94",
-    "date": "2026-11-12",
-    "source": "Vietnam.vn",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDhBTmV2ZTNiUHVMMWFfNXBaZzdTeUUyR0NBSnlLNDA3NGVHMWp5eU96MXFCNWxxRXU3QXR4T2dtUkp1TldsS1ZEVFhqc1EtR3JYNlo5Sk9tMUViZnZhblZnLS0zYkRPMHdFQ1NvRzc0WUlJNEFFZzhEdjZkZmg3eWtSMEh0cEsydUU5YW1VU0VZdGJWMnVMX1dCSFBlWFZMOHc3YnZpcHc2clNK?oc=5",
-    "original_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "original_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ko_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ja_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "ko_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "c2401e98f657e230",
     "date": "2026-11-12",
     "source": "openPR.com",
@@ -90,6 +72,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "2118e86554d5dec7",
+    "date": "2026-11-11",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PVThncVJrVXhMUnlpeHh1dFlSM2FOeXFzeXR2cXdfMWdTMkRabGt3eldsdzU4bFJVdEhqSVZ4cFdBcGI3X2Y0MjZySEp5dHF6SzliOWc3c0E2U1VwN0JKNzVnMW9fcG1OMjVIUkJ3WV9QRWxGX3c?oc=5",
+    "original_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
+    "original_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
+    "ko_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
+    "ja_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
+    "ko_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "e48ecf969933d69e",
     "date": "2026-11-08",
     "source": "Technology Org",
@@ -105,6 +105,24 @@
     "ko_title": "AI Boom Makes Chip Packaging a New Battleground - Technology Org",
     "ja_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
     "ko_summary": "AI Boom Makes Chip Packaging a New Battleground Technology Org",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "4ecde642a52f8741",
+    "date": "2026-11-06",
+    "source": "Taipei Times",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MWkzM1hnNnFnVHlSNnFjZk9jcXFFbWYwSzNIcDNGUUp4UzlOb0RXazYxTENTRnhObmF0ZFJCd2dobVdfN2JZRFg5dXpScXo1UDFBU0d0QS05WWs1NFVDUTJTamZKSjN1ZGhrb0RMdGt6U3JrYkE?oc=5",
+    "original_title": "AI boom turns chip packaging into the next battleground for semiconductors - Taipei Times",
+    "original_summary": "AI boom turns chip packaging into the next battleground for semiconductors Taipei Times",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "AI boom turns chip packaging into the next battleground for semiconductors - Taipei Times",
+    "ko_title": "AI boom turns chip packaging into the next battleground for semiconductors - Taipei Times",
+    "ja_summary": "AI boom turns chip packaging into the next battleground for semiconductors Taipei Times",
+    "ko_summary": "AI boom turns chip packaging into the next battleground for semiconductors Taipei Times",
     "translation_status": "pending_api_key"
   },
   {
