@@ -1,5 +1,23 @@
 [
   {
+    "id": "c09b59aa7e448c4c",
+    "date": "2026-11-16",
+    "source": "bloomingbit",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pay12c25rZ05WaDJoWndOeGlYV1gwcHd5SXMySGo1VEE4c2s2NmRzbzZJOWEwdVFmLTRkeE1TcjZ1aFAyNE45Yjl4VzlRbHZ2WmlnVg?oc=5",
+    "original_title": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks - bloomingbit",
+    "original_summary": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks bloomingbit",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks - bloomingbit",
+    "ko_title": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks - bloomingbit",
+    "ja_summary": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks bloomingbit",
+    "ko_summary": "U.S., South Korea and 7 Other Nations Agree to Jointly Protect AI Supply Chains Against China Risks bloomingbit",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f2f2b3a74fc7d562",
     "date": "2026-11-13",
     "source": "Báo VietNamNet",
@@ -36,6 +54,24 @@
     "translation_status": "pending_api_key"
   },
   {
+    "id": "581400c8ee3cdf5b",
+    "date": "2026-11-13",
+    "source": "Vietnam Investment Review - VIR",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWZnWWJFbkpwWGI4UFhYUWRkZ0VBVW1IbDZodDZ3c2JVcHRZWjBwMm11NDE2QTFBOTRSTXNNSmNwSzA0MkhndzdQNDdOeXY5Znk4QWltY2FybElRVHNsYXdKOTI1TUxwN05LUDZCemZIQlE5RGJkY3hxNTNkSlotdlJEWUxjaEpRNGdtNU42bmN1NW1sQmc?oc=5",
+    "original_title": "Vietnam and South Korea strengthen semiconductor cooperation - Vietnam Investment Review - VIR",
+    "original_summary": "Vietnam and South Korea strengthen semiconductor cooperation Vietnam Investment Review - VIR",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Vietnam and South Korea strengthen semiconductor cooperation - Vietnam Investment Review - VIR",
+    "ko_title": "Vietnam and South Korea strengthen semiconductor cooperation - Vietnam Investment Review - VIR",
+    "ja_summary": "Vietnam and South Korea strengthen semiconductor cooperation Vietnam Investment Review - VIR",
+    "ko_summary": "Vietnam and South Korea strengthen semiconductor cooperation Vietnam Investment Review - VIR",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "f27496d6be356b94",
     "date": "2026-11-12",
     "source": "Vietnam.vn",
@@ -69,24 +105,6 @@
     "ko_title": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu - BigGo Finance",
     "ja_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
     "ko_summary": "South Korea's Chip Industry Passes $100 Billion U.S. Trade Surplus, Raising Fears of a 1986 Japan-style Déjà Vu BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "e470d07e4bb62f99",
-    "date": "2026-11-05",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRQzU5NVo5MEdTYnY3dnh0VnM0QVR5WDJobGo2aWV2Vmx4eTdEWWs2MVJFNGRSblBwQTJNWFZBWGFHNU9YUVk0eV9tMnJGdWFVWmxkQ3FaX3JDV01aRGhVb1puZXBEVmtfUVFtdnBMamtFZVRMSWc?oc=5",
-    "original_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "original_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "ko_title": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert - BigGo Finance",
-    "ja_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
-    "ko_summary": "Beijing's Rare Earths Card Bites: Yttrium Oxide Exports to Japan Plunge 98%, Japan's Semiconductor Supply Chain on Alert BigGo Finance",
     "translation_status": "pending_api_key"
   }
 ]
