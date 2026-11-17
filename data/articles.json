@@ -18,24 +18,6 @@
     "translation_status": "pending_api_key"
   },
   {
-    "id": "5d99e343df038179",
-    "date": "2026-11-16",
-    "source": "www.tokenpost.com",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQnNRTExtcEpmVkc1ZEVnYzVlenhxUmh1WlptcnZyV2pEdEg3aVAxWlhkSWlFM0o4YmMyVlIxWFFhaDNoNl9fZ3djMXllQXpYUVpqNUkzWEQ?oc=5",
-    "original_title": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset - www.tokenpost.com",
-    "original_summary": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset www.tokenpost.com",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset - www.tokenpost.com",
-    "ko_title": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset - www.tokenpost.com",
-    "ja_summary": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset www.tokenpost.com",
-    "ko_summary": "AUO Says Handover Date for Two-Plant Sale to TSMC Remains Unset www.tokenpost.com",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "53b556a456fc9b71",
     "date": "2026-11-16",
     "source": "MLQ.ai",
@@ -51,6 +33,24 @@
     "ko_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
     "ja_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
     "ko_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "fa0e2a1dadd23a23",
+    "date": "2026-11-13",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
+    "original_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "original_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ko_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ja_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "ko_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
     "translation_status": "pending_api_key"
   },
   {
@@ -105,24 +105,6 @@
     "ko_title": "Vietnam and South Korea strengthen semiconductor cooperation - Vietnam Investment Review - VIR",
     "ja_summary": "Vietnam and South Korea strengthen semiconductor cooperation Vietnam Investment Review - VIR",
     "ko_summary": "Vietnam and South Korea strengthen semiconductor cooperation Vietnam Investment Review - VIR",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "f27496d6be356b94",
-    "date": "2026-11-12",
-    "source": "Vietnam.vn",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDhBTmV2ZTNiUHVMMWFfNXBaZzdTeUUyR0NBSnlLNDA3NGVHMWp5eU96MXFCNWxxRXU3QXR4T2dtUkp1TldsS1ZEVFhqc1EtR3JYNlo5Sk9tMUViZnZhblZnLS0zYkRPMHdFQ1NvRzc0WUlJNEFFZzhEdjZkZmg3eWtSMEh0cEsydUU5YW1VU0VZdGJWMnVMX1dCSFBlWFZMOHc3YnZpcHc2clNK?oc=5",
-    "original_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "original_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ko_title": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. - Vietnam.vn",
-    "ja_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
-    "ko_summary": "Over 400 Vietnamese and Korean experts and businesses gathered to explore multi-billion dollar opportunities in AI and semiconductors. Vietnam.vn",
     "translation_status": "pending_api_key"
   },
   {
