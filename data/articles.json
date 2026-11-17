@@ -1,5 +1,23 @@
 [
   {
+    "id": "fa0e2a1dadd23a23",
+    "date": "2026-11-16",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
+    "original_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "original_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ko_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ja_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "ko_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "c09b59aa7e448c4c",
     "date": "2026-11-16",
     "source": "bloomingbit",
@@ -33,24 +51,6 @@
     "ko_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
     "ja_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
     "ko_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "fa0e2a1dadd23a23",
-    "date": "2026-11-13",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
-    "original_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "original_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "ko_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "ja_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
-    "ko_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
     "translation_status": "pending_api_key"
   },
   {
@@ -123,6 +123,24 @@
     "ko_title": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 - openPR.com",
     "ja_summary": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 openPR.com",
     "ko_summary": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 openPR.com",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "52c31732273591cb",
+    "date": "2026-11-12",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnJ6TFJzU3F3dnFRaGtOUDRtbjROQjFPa0FRNzQ5TU5oRGxkUVNKckZZYXpZSzB3SHFzRzVvRmZxQUo4QzlWa1VYUXhQczNQZmE3UkdxS3JnSkV5dmZydnRtdkc4V3JOeTB6SnRrczBlS3Rvb2c?oc=5",
+    "original_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
+    "original_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
+    "ko_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
+    "ja_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
+    "ko_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
     "translation_status": "pending_api_key"
   },
   {
