@@ -1,20 +1,56 @@
 [
   {
-    "id": "eb5ec6cb782dec26",
-    "date": "2026-11-17",
-    "source": "Information Technology and Innovation Foundation",
+    "id": "dee909256f533a9c",
+    "date": "2026-11-18",
+    "source": "BigGo Finance",
     "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04QlhmMTRWQUsxOWVjRjAxbjZEdXUzcWVGRkFaZU14UV9BNjdPWHVuaGpBVXVPaWp6MFdUQ3lsVzdpQzBPU2NUdzVfSTBsUnY4RTk2WXVSOFU4bk1sVmZGNTZtSmdpU3pRazlQNFNR?oc=5",
-    "original_title": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 - Information Technology and Innovation Foundation",
-    "original_summary": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 Information Technology and Innovation Foundation",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rdzRYcVN2Z3hMRTEtMk93WjdEazRpbWdObXpQcGF0cWFjRzBoQ1dmT0U2VlF6ZHZNeVhjQk1rNWVZbmxxclU2OUNvc2R3M3NFdWdSUjdtaFlTNzNRV19rLXBONDdBUTNNWFZfcmtFOE1IVVRST2c?oc=5",
+    "original_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
+    "original_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
     "tags": [
-      "Japan-Korea"
+      "Security"
     ],
-    "ja_title": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 - Information Technology and Innovation Foundation",
-    "ko_title": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 - Information Technology and Innovation Foundation",
-    "ja_summary": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 Information Technology and Innovation Foundation",
-    "ko_summary": "Tracking Pax Silica’s Evolution: A Timeline | Blogs | Nov 16, 2026 Information Technology and Innovation Foundation",
+    "ja_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
+    "ko_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
+    "ja_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
+    "ko_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "017ecb59795e0d7f",
+    "date": "2026-11-18",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Security",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ob1drX21mNUFiT2x4M2dUU0dCQld2dW01TzM5NVE3dDRvd2VQMEl0dDNjRTAxVVZhZ3R5MVc1dXU1VTVqeVNPM1ZjNmVWNm9Hd180OFpObHR5clNSN3VJa0g0aFdqRHhFV054Nk82QmE4ZXdKaV92QlZqd0xlMWdMR0lKZnFo?oc=5",
+    "original_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
+    "original_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
+    "tags": [
+      "Security"
+    ],
+    "ja_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
+    "ko_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
+    "ja_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
+    "ko_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "fa0e2a1dadd23a23",
+    "date": "2026-11-16",
+    "source": "BigGo Finance",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
+    "original_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "original_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ko_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
+    "ja_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
+    "ko_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
     "translation_status": "pending_api_key"
   },
   {
@@ -33,6 +69,42 @@
     "ko_title": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise - bloomingbit",
     "ja_summary": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise bloomingbit",
     "ko_summary": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise bloomingbit",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "7687505c14dc1546",
+    "date": "2026-11-16",
+    "source": "GIGAZINE",
+    "source_lang": "EN",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkN2dENpMDRod053Rl9zUklTQnJfa1NWYjQ5X2xCTVJxRGVJT21LU2JhRWVJYk9td0hTeHRwRVhnZUVMTFpQUmhNc0NQVjRuSHc5eXlZalVLRG1FdVlESWlLWks2NUcyVVlzZzNIUkphZkYxYjc4RjhTekN5alFzSlVqYnE?oc=5",
+    "original_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
+    "original_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
+    "tags": [
+      "Logistics"
+    ],
+    "ja_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
+    "ko_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
+    "ja_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
+    "ko_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "53b556a456fc9b71",
+    "date": "2026-11-16",
+    "source": "MLQ.ai",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWxweEhscUdZTlVxN0p5cUZsaTBEMHczOEVkM2Z3cmFKUXJJREc4ZW4wdVNkQUVLMTI0bTF2TWh5MEpVaW1uZzdGNzZ5QUdhRGdXdEV4RTNqTUNTYzZyYzVqcEZSeGY1YlZ2V191RkRLRmZnaUkxNG1ma3ZvbzNKSHB4YUFibGszUzJoeV9DNy00QW84SW9NeWNBMWNuYnhoSC1sWTRyenR3RWJIaE93MENOT1gyUE1vRHc?oc=5",
+    "original_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
+    "original_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
+    "ko_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
+    "ja_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
+    "ko_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
     "translation_status": "pending_api_key"
   },
   {
@@ -69,60 +141,6 @@
     "ko_title": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 - openPR.com",
     "ja_summary": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 openPR.com",
     "ko_summary": "Advanced Packaging Semiconductor Market to Reach US$ 46.98 openPR.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "52c31732273591cb",
-    "date": "2026-11-12",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnJ6TFJzU3F3dnFRaGtOUDRtbjROQjFPa0FRNzQ5TU5oRGxkUVNKckZZYXpZSzB3SHFzRzVvRmZxQUo4QzlWa1VYUXhQczNQZmE3UkdxS3JnSkV5dmZydnRtdkc4V3JOeTB6SnRrczBlS3Rvb2c?oc=5",
-    "original_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
-    "original_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
-    "ko_title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" - BigGo Finance",
-    "ja_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
-    "ko_summary": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\" BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "00265337d259b865",
-    "date": "2026-11-12",
-    "source": "openPR.com",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGE5Z08tVGJIVTBVZjYzTnVqVlpaZFoyaGpUZlFvZFVqbks5UHdnRHAyN2RVRXNaTFJwWDVnRm9Ra0pwakhQYUJvMVlpS3NLYmJuWElFdFZLNnBmempOUTNuTkcyQmVFRTJZMVF6bV9vbzRCXzREV0NMV3Q5R29NbDlveW81TmVUdTR6YTMwMklJZTRqSUpLQw?oc=5",
-    "original_title": "Advanced Packaging Semiconductor Market to Reach US$46.98 - openPR.com",
-    "original_summary": "Advanced Packaging Semiconductor Market to Reach US$46.98 openPR.com",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Advanced Packaging Semiconductor Market to Reach US$46.98 - openPR.com",
-    "ko_title": "Advanced Packaging Semiconductor Market to Reach US$46.98 - openPR.com",
-    "ja_summary": "Advanced Packaging Semiconductor Market to Reach US$46.98 openPR.com",
-    "ko_summary": "Advanced Packaging Semiconductor Market to Reach US$46.98 openPR.com",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "d49fec8343f860df",
-    "date": "2026-11-09",
-    "source": "The SAIS Review of International Affairs",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMW9SbzVnOVVlc09NdnBXeUItblE0b18wTWdwZVlkMG84ZVN6amdwcXRWdlA4SDRSOGxjMHVLSDBtRk1nMXd0Qksza3BDTnF1QlZsc01wUlhhNmozQXdpallpVFdCUEVkb1NGOEd6Tm04VlhwQ29FUmszVG93MC1MbHUzZmhuYkRYbnFXbjBCZXYxdldrYmRNNVJJMGIxRkk?oc=5",
-    "original_title": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security - The SAIS Review of International Affairs",
-    "original_summary": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security The SAIS Review of International Affairs",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security - The SAIS Review of International Affairs",
-    "ko_title": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security - The SAIS Review of International Affairs",
-    "ja_summary": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security The SAIS Review of International Affairs",
-    "ko_summary": "Sovereignty in an Era of Uncertainty: Taiwan’s Roadmap for Security The SAIS Review of International Affairs",
     "translation_status": "pending_api_key"
   }
 ]
