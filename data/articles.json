@@ -1,5 +1,23 @@
 [
   {
+    "id": "1081057914887298",
+    "date": "2026-11-19",
+    "source": "조선일보",
+    "source_lang": "EN",
+    "category": "Semiconductor",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm12VmJPLVAtVFRNTi0tc3J4MXVHVXdRbTdWdGNEcHcyNlNjUjhmM1l6RjFKaEU3cWs4QmxnVkNIQ3hsSmg4eC1Ec0FrTFpVaUJteGJ2NGx6YlBrSHRibDc2eHVLZWhmZUtCMmR3UHZtcGlkTEtrTXhBYjRVa2VaSVJhaVBYaDZUWW5EVl9B?oc=5",
+    "original_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
+    "original_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
+    "tags": [
+      "Semiconductor"
+    ],
+    "ja_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
+    "ko_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
+    "ja_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
+    "ko_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
+    "translation_status": "pending_api_key"
+  },
+  {
     "id": "017ecb59795e0d7f",
     "date": "2026-11-18",
     "source": "조선일보",
@@ -15,42 +33,6 @@
     "ko_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
     "ja_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
     "ko_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "c09b59aa7e448c4c",
-    "date": "2026-11-16",
-    "source": "bloomingbit",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pay12c25rZ05WaDJoWndOeGlYV1gwcHd5SXMySGo1VEE4c2s2NmRzbzZJOWEwdVFmLTRkeE1TcjZ1aFAyNE45Yjl4VzlRbHZ2WmlnVg?oc=5",
-    "original_title": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise - bloomingbit",
-    "original_summary": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise bloomingbit",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise - bloomingbit",
-    "ko_title": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise - bloomingbit",
-    "ja_summary": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise bloomingbit",
-    "ko_summary": "US, South Korea and Seven Others Agree to Jointly Protect AI Supply Chains as China Risks Rise bloomingbit",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "7687505c14dc1546",
-    "date": "2026-11-16",
-    "source": "GIGAZINE",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkN2dENpMDRod053Rl9zUklTQnJfa1NWYjQ5X2xCTVJxRGVJT21LU2JhRWVJYk9td0hTeHRwRVhnZUVMTFpQUmhNc0NQVjRuSHc5eXlZalVLRG1FdVlESWlLWks2NUcyVVlzZzNIUkphZkYxYjc4RjhTekN5alFzSlVqYnE?oc=5",
-    "original_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
-    "original_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
-    "ko_title": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. - GIGAZINE",
-    "ja_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
-    "ko_summary": "Japan, the United States, the United Kingdom, India, and other Pax Silica member countries have reached an agreement on security for AI supply chains. GIGAZINE",
     "translation_status": "pending_api_key"
   }
 ]
