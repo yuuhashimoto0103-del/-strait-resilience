@@ -1,38 +1,38 @@
 [
   {
-    "id": "882d5601ca3a0f0e",
-    "date": "2026-11-19",
-    "source": "Koreabizwire",
+    "id": "918a400ee76cb202",
+    "date": "2026-11-21",
+    "source": "Wisevoter",
     "source_lang": "EN",
-    "category": "Japan-Korea",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHlYdWhkSVFzdzFQMXlwd0x4YnZWQnEzNnVpeHpfVjN2eDNFVTNSTzYtdWhpd29sU0pMMEw1TkZ2Y3FZMzBSY1RBbVh5VTZndkozOHIxemJmLS00ZExsRC1JbTZ3VW9zRk5XaF9TUnVZampwN2VvOTcyQTlGXzJmeHFucE5IeC1sMngzUU5MNFRtNUJDeU9HdURla3FVUGl2LXZUTGRWYlR5SHc?oc=5",
-    "original_title": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security - Koreabizwire",
-    "original_summary": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security Koreabizwire",
+    "category": "Logistics",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX2xqeHhuWVNTREROR01pR3NISEotbkdVM3k3LWtJVEVLREJJal8wamFaUlBmeVZrQnlFbGNiSXNTTzNkeXg3TERBUTVwWWVmQ1pPYXdDVzV0WHlKblB2dWU3U2RkWXpqNVJHUXJ6ZVFNY3prRXZYQlNxWVRDaDZzQmhNa1I1ejhpMGVqNmQ5UDFPa2Y5eU81cHdWRzc?oc=5",
+    "original_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
+    "original_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
     "tags": [
-      "Japan-Korea"
+      "Logistics"
     ],
-    "ja_title": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security - Koreabizwire",
-    "ko_title": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security - Koreabizwire",
-    "ja_summary": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security Koreabizwire",
-    "ko_summary": "From Oil to AI, South Korea and Japan Seek Common Ground on Economic Security Koreabizwire",
+    "ja_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
+    "ko_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
+    "ja_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
+    "ko_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
     "translation_status": "pending_api_key"
   },
   {
-    "id": "1081057914887298",
+    "id": "f4fa04e4353c1188",
     "date": "2026-11-19",
-    "source": "조선일보",
+    "source": "Reuters",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm12VmJPLVAtVFRNTi0tc3J4MXVHVXdRbTdWdGNEcHcyNlNjUjhmM1l6RjFKaEU3cWs4QmxnVkNIQ3hsSmg4eC1Ec0FrTFpVaUJteGJ2NGx6YlBrSHRibDc2eHVLZWhmZUtCMmR3UHZtcGlkTEtrTXhBYjRVa2VaSVJhaVBYaDZUWW5EVl9B?oc=5",
-    "original_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
-    "original_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pDUGRULVJNeGdkT21ERVNzMEl6RHJKTEtLRWFFQjFpYjdxWU5NMmM3Zl8zUzlHQUd3UzJlNE1UV2tlZnZFTEZrNnRKSWU1Y1lkSU1ISmF6U1JGNWNEeUJETVpHNDI5QTEwMWJTTmRraUgyaDR2RUJ1UlRadVJZMW9MUTZCeXdpZHRZRWl1X1VIZ0xBbllSWEUxMGxmdmllVFgxbmxuTmljOFFBTUkyUGR2NDRfTmM0Rm5xcXFxaHk?oc=5",
+    "original_title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
+    "original_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
-    "ko_title": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments - 조선일보",
-    "ja_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
-    "ko_summary": "U.S. State AI Rules Could Disrupt Asian Semiconductor Investments 조선일보",
+    "ja_title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
+    "ko_title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
+    "ja_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
+    "ko_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
     "translation_status": "pending_api_key"
   },
   {
@@ -69,78 +69,6 @@
     "ko_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
     "ja_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
     "ko_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "fa0e2a1dadd23a23",
-    "date": "2026-11-16",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvb3BvYUYwUWZmNUU2NXE1SUs2N0swekJiYzA3RmNvUU9QcTNpaVQ4d09fSTBoQkd1aUt3VDF1QmpheHh3VlI1SVY3ZTJnOFJzaXRjQkFiS2Zzcjc0NnRPZGlYV0VpRkpKYjFnblI4bDl0VzJWM0E?oc=5",
-    "original_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "original_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "ko_title": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production - BigGo Finance",
-    "ja_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
-    "ko_summary": "Taiwan's Xintec Wins TSMC CoWoS Back-End Outsourcing Deal, Bets NT$15 Billion Convertible Bond on 2029 Mass Production BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "53b556a456fc9b71",
-    "date": "2026-11-16",
-    "source": "MLQ.ai",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWxweEhscUdZTlVxN0p5cUZsaTBEMHczOEVkM2Z3cmFKUXJJREc4ZW4wdVNkQUVLMTI0bTF2TWh5MEpVaW1uZzdGNzZ5QUdhRGdXdEV4RTNqTUNTYzZyYzVqcEZSeGY1YlZ2V191RkRLRmZnaUkxNG1ma3ZvbzNKSHB4YUFibGszUzJoeV9DNy00QW84SW9NeWNBMWNuYnhoSC1sWTRyenR3RWJIaE93MENOT1gyUE1vRHc?oc=5",
-    "original_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
-    "original_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
-    "ko_title": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 - MLQ.ai",
-    "ja_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
-    "ko_summary": "TSMC signs a seven-year advanced packaging deal with Xintec to expand CoWoS capacity through 2033 MLQ.ai",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "a08487ae27656721",
-    "date": "2026-11-13",
-    "source": "TradingKey",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1AzN3Fia1Q5UXJfX0Rtc3NPNDZhSEdDYndpbjd6X0t3YW5ySWVTeV83eVN5N2Fxb0RHeGdxUW9TQWNoQXFwTHJBeGZPRWlXYXk0bEhMV0lUNWFCaGhyczR0alh3Z2hvWHZRYnlJM2h0dnpocVFRQWg2SExpa01NNGtVaHJPOEpGMDVkNm9uN0dhM0FVbWRjN2VyT0poLXdWNkRTNE1mb19WV2RZLTUwMXlEcUo1cGpMalZBUmJuM2t3UWM?oc=5",
-    "original_title": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 - TradingKey",
-    "original_summary": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 TradingKey",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 - TradingKey",
-    "ko_title": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 - TradingKey",
-    "ja_summary": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 TradingKey",
-    "ko_summary": "TSMC Rises Nearly 1% Pre-Market: Partners With Xintec on Advanced Packaging, First-Phase Line Expected to Begin Mass Production in 2029 TradingKey",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "93f950ce499843d9",
-    "date": "2026-11-11",
-    "source": "Kings Research",
-    "source_lang": "EN",
-    "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11QmRGQ2x5NE9ZSURheldBdnhlSkRVRlFuOHFXYWZpNFhDT2pjeldtTXRJSkU5T21fUi1tWjM1OVVHR1h4TGRwUFl3WnBmR2lMTFRtbHZQV0lFYTlTRzBSS0VlNGVYNnhmODRrYVluUl9OZl9xQlFVNA?oc=5",
-    "original_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
-    "original_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
-    "tags": [
-      "Semiconductor"
-    ],
-    "ja_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
-    "ko_title": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? - Kings Research",
-    "ja_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
-    "ko_summary": "U.S. CoWoS Market vs TSMC: Can the U.S. Compete? Kings Research",
     "translation_status": "pending_api_key"
   }
 ]
