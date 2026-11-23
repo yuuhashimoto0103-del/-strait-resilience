@@ -1,23 +1,5 @@
 [
   {
-    "id": "918a400ee76cb202",
-    "date": "2026-11-21",
-    "source": "Wisevoter",
-    "source_lang": "EN",
-    "category": "Logistics",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX2xqeHhuWVNTREROR01pR3NISEotbkdVM3k3LWtJVEVLREJJal8wamFaUlBmeVZrQnlFbGNiSXNTTzNkeXg3TERBUTVwWWVmQ1pPYXdDVzV0WHlKblB2dWU3U2RkWXpqNVJHUXJ6ZVFNY3prRXZYQlNxWVRDaDZzQmhNa1I1ejhpMGVqNmQ5UDFPa2Y5eU81cHdWRzc?oc=5",
-    "original_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
-    "original_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
-    "tags": [
-      "Logistics"
-    ],
-    "ja_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
-    "ko_title": "Japan Imposes Export Controls on South Korea - Wisevoter",
-    "ja_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
-    "ko_summary": "Japan Imposes Export Controls on South Korea Wisevoter",
-    "translation_status": "pending_api_key"
-  },
-  {
     "id": "f4fa04e4353c1188",
     "date": "2026-11-19",
     "source": "Reuters",
@@ -33,42 +15,6 @@
     "ko_title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
     "ja_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
     "ko_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "dee909256f533a9c",
-    "date": "2026-11-18",
-    "source": "BigGo Finance",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rdzRYcVN2Z3hMRTEtMk93WjdEazRpbWdObXpQcGF0cWFjRzBoQ1dmT0U2VlF6ZHZNeVhjQk1rNWVZbmxxclU2OUNvc2R3M3NFdWdSUjdtaFlTNzNRV19rLXBONDdBUTNNWFZfcmtFOE1IVVRST2c?oc=5",
-    "original_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
-    "original_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
-    "ko_title": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform - BigGo Finance",
-    "ja_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
-    "ko_summary": "SK Chairman Chey Tae-won Joins With Yomiuri Shimbun to Launch South Korea-Japan Private-Sector Economic Security Cooperation Platform BigGo Finance",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "017ecb59795e0d7f",
-    "date": "2026-11-18",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ob1drX21mNUFiT2x4M2dUU0dCQld2dW01TzM5NVE3dDRvd2VQMEl0dDNjRTAxVVZhZ3R5MVc1dXU1VTVqeVNPM1ZjNmVWNm9Hd180OFpObHR5clNSN3VJa0g0aFdqRHhFV054Nk82QmE4ZXdKaV92QlZqd0xlMWdMR0lKZnFo?oc=5",
-    "original_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "original_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "ko_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "ja_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "ko_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
     "translation_status": "pending_api_key"
   }
 ]
