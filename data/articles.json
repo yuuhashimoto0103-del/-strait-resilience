@@ -1,20 +1,38 @@
 [
   {
-    "id": "21ca0e5c178a42e0",
-    "date": "2026-11-25",
-    "source": "Counterpoint Research",
+    "id": "93eea7d2ac5f8d63",
+    "date": "2026-11-28",
+    "source": "Digital Watch Observatory",
     "source_lang": "EN",
     "category": "Semiconductor",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDdQWldzVUpIZDdpYmE4TWhIVDE1SnRCaEdPcG82dmFOaWoyOXVjdGhZeFhVRmdqOFN1S2xWaXBfNi1PaGFDRXZsRU1HQ0NmS0VsMWowQ19pUXgyOER3bE8wSk02SmlIeW5LSzlOZFFnYXpzd3ZwdVhoUTByeWlvcDN2SF9VNl9KWUE3a3NSUQ?oc=5",
-    "original_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "original_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBka3dGYWJZeHpsdFlCUHZxM3NPZm9kNzJkM3lsbENLOHU2WUhEb2hobDVfTWxOUGZpRG93b3I0S0VzVUhCTl96QUQ2dnowM3hjZmh3VlF4UmFhU1YyTDZSckRENFExT0g1QUtxUTZNQjdIU2hiWkE5bGhMM1U?oc=5",
+    "original_title": "South Korea and Japan expand semiconductor and AI ties - Digital Watch Observatory",
+    "original_summary": "South Korea and Japan expand semiconductor and AI ties Digital Watch Observatory",
     "tags": [
       "Semiconductor"
     ],
-    "ja_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "ko_title": "Global Pure Foundry Market Share: Quarterly - Counterpoint Research",
-    "ja_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
-    "ko_summary": "Global Pure Foundry Market Share: Quarterly Counterpoint Research",
+    "ja_title": "South Korea and Japan expand semiconductor and AI ties - Digital Watch Observatory",
+    "ko_title": "South Korea and Japan expand semiconductor and AI ties - Digital Watch Observatory",
+    "ja_summary": "South Korea and Japan expand semiconductor and AI ties Digital Watch Observatory",
+    "ko_summary": "South Korea and Japan expand semiconductor and AI ties Digital Watch Observatory",
+    "translation_status": "pending_api_key"
+  },
+  {
+    "id": "94c015947275ee45",
+    "date": "2026-11-26",
+    "source": "아시아경제",
+    "source_lang": "EN",
+    "category": "Japan-Korea",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rQWF6WDNfM1IwekRIYmN0aDdNdjBrREdKOHk1UEY5ZDNzVmpiM0gwQkMySU9sbkFTdTJUMldqUnFSSjQ1TWxVZmFkaVlhdFlMWXNuQlc3QllGYjlTSk00UkdacTA?oc=5",
+    "original_title": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 - 아시아경제",
+    "original_summary": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 아시아경제",
+    "tags": [
+      "Japan-Korea"
+    ],
+    "ja_title": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 - 아시아경제",
+    "ko_title": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 - 아시아경제",
+    "ja_summary": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 아시아경제",
+    "ko_summary": "\"They readily pay 10 million won for foreign-made products, but demand 30% off for Korean-made ones\"... Korean MPE Firms Blocked at Samsung, SK's Gate [C Shock, K-Industry on the Brink | Semiconductors] 6 아시아경제",
     "translation_status": "pending_api_key"
   },
   {
@@ -33,24 +51,6 @@
     "ko_title": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say - Reuters",
     "ja_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
     "ko_summary": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say Reuters",
-    "translation_status": "pending_api_key"
-  },
-  {
-    "id": "017ecb59795e0d7f",
-    "date": "2026-11-18",
-    "source": "조선일보",
-    "source_lang": "EN",
-    "category": "Security",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9Ob1drX21mNUFiT2x4M2dUU0dCQld2dW01TzM5NVE3dDRvd2VQMEl0dDNjRTAxVVZhZ3R5MVc1dXU1VTVqeVNPM1ZjNmVWNm9Hd180OFpObHR5clNSN3VJa0g0aFdqRHhFV054Nk82QmE4ZXdKaV92QlZqd0xlMWdMR0lKZnFo?oc=5",
-    "original_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "original_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "tags": [
-      "Security"
-    ],
-    "ja_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "ko_title": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform - 조선일보",
-    "ja_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
-    "ko_summary": "Chey Tae-won, Yomiuri Shimbun Launch Korea-Japan Strategic Platform 조선일보",
     "translation_status": "pending_api_key"
   }
 ]
